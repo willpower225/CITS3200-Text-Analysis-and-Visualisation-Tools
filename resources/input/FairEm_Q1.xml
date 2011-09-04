@@ -1,0 +1,1980 @@
+<WORK genre="play">
+<iseHeader>
+<META name="ISE.comment" content="This text was prepared for the Digital Renaissance Editions, following the guidelines developed by the Internet Shakespeare Editions in the Department of English at the University of Victoria; it has been checked electronically with the text from Literature Online, and has not yet been proofread. Edited by Brett D. Hirsch and Kevin Quarmby. Most recent revision, 2011-08-08." />
+<META name="ISE.EditStatus" content="Edited" />
+<META name="ISE.PeerReviewed" content="No" />
+<META name="ISE.EditorialPrinciple" content="The transcripts presented here follow Q1 as exactly as an electronic version permits; spelling follows the original, with no attempt to correct errors; word spacing is normalized, although added and missing spaces have been noted; and modern forms are substituted for letters and ligatures that have no modern equivalent in current browsers (for example, the long 's'), although these have been tagged." />
+<META name="ISE.PublishingHistory" content="Fair Em was first printed in an undated quarto (Q1), of which two copies are extant. One of these, held by the Canterbury Cathedral, is damaged and incomplete; the other copy is held in the Bodleian Library, and this text is the basis of all modern editions." />
+<META name="ISE.SectionDivision" content="scene" />
+<META name="ISE.SectionDisplay" content="1" />
+<META name="ISE.LineNumberInterval" content="5" />
+
+<LINK rel="schema.DC" href="http://purl.org/dc"/>
+<META name="DC.Title" content="Fair Em" />
+<META name="DC.Title.Alternative" content="Fair Em (Quarto 1, 1593)" />
+<META name="DC.Creator" content="Anonymous" />
+<META name="DC.Subject" content="Fair Em, old-spelling, Quarto" />
+<META name="DC.Description" content="An old-spelling transcription of Fair Em, First Quarto version, 1593." />
+<META name="DC.Publisher" content="Digital Renaissance Editions" />
+<META name="DC.Contributor.Editor" content="Hirsch, Brett D." />
+<META name="DC.Contributor.Editor" content="Quarmby, Kevin." />
+<META name="DC.Contributor.Textual.Editor" content="" />
+<META name="DC.Contributor.Coordinating.Editor" content="Hirsch, Brett D." />
+<META name="DC.Contributor.Associate.Textual.Editor" content="" />
+<META name="DC.Contributor.Research.Assistant" content="" />
+<META name="DC.Date" scheme="W3CDTF" content="1997-07-01" />
+<META name="DC.Date.Modified" scheme="W3CDTF" content="2007-01-17" />
+<META name="DC.Type" content="text" />
+<META name="DC.Format" content="text/sgml" />
+<META name="DC.Identifier" scheme="MLA" content="FairEm_Q1" />
+<META name="DC.Identifier" scheme="ISBN" content="" />
+<META name="DC.Source" content="Quarto 1" />
+<META name="DC.Language" scheme="RFC1766" content="en" />
+<META name="DC.Relation" content="http://dre.internetshakespeare.uvic.ca/" />
+<META name="DC.Relation.IsFormatOf" content="Hinman, Charlton, ed. Norton Facsimile of the First Folio. New York: W.W. Norton, 1968." />
+<META name="DC.Rights" content="Copyright Brett D. Hirsch and Kevin Quarmby. This text may be freely used for educational, non-profit purposes; for all other uses contact the Editors." />
+</iseHeader>
+
+<PAGE n="1">
+<RT></RT>
+<!--COL n="0"-->
+<TITLEPAGE>
+<TLN n="0.001"/><TITLEHEAD><C>A Plea{s}ant Commodie,</C></TITLEHEAD>
+<TLN n="0.002"/><TITLEHEAD><C>of faire <I>Em</I> the Millers daughter</C></TITLEHEAD>
+<TLN n="0.003"/><TITLEHEAD><C><I>of Manche{{s}t}er: {W}ith the loue of</I></C></TITLEHEAD>
+<TLN n="0.004"/><TITLEHEAD><C>William the Conqueror:</C></TITLEHEAD>
+<L/>
+<TLN n="0.005"/><C>As it was {s}undrie{#}times publiquely a{ct}ed in the</C>
+<TLN n="0.006"/><C><I>honourable citie of London</I>,{#}<I>by the right honourable</I></C>
+<TLN n="0.007"/><C>the Lord Strange his {s}eruaunts.</C>
+<L/>
+<C><ORNAMENT t="printer's device" ref="McKerrow 149"/></C>
+<L/>
+<RULE/>
+<L/>
+<TLN n="0.008"/><C>Imprinted at London for T.N. and I.{W}.</C>
+<TLN n="0.009"/><C>and are to be {s}olde in S. Dun{{s}t}ones Church{-}</C>
+<TLN n="0.010"/><C>yarde in Fleete-{{s}t}reete.</C>
+<SIG n="A1r"></SIG>
+</TITLEPAGE>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="2">
+<RT></RT>
+<!--COL n="0"-->
+<SIG n="A1v"></SIG>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="3">
+<RT></RT>
+<!--COL n="0"-->
+<TLN n="0.011"/><TITLEHEAD><C><ORNAMENT t="type-ornament" desc="leaf"/> A Plea{s}ant Commodie of faire</C></TITLEHEAD>
+<TLN n="0.012"/><TITLEHEAD><C><I>Em</I> the Millers daughter of Manche{{s}t}er.</C></TITLEHEAD>
+<TLN n="0.013"/><TITLEHEAD><C>With the loue of {W}illiam the Conquerour.</C></TITLEHEAD>
+<L/>
+<ACT n="1">
+<SCENE n="1">
+<TLN n="1"/><LD><C>A{ct}us Primus Sc{ae}na prima.</C></LD>
+<TLN n="2"/><SD t="entrance" who="William, Lubeck, Mountney, Manvile, Valingford, Dirot"><C><I>Enter William the {*C}onqueror: {*M}arques Lubec{k*}, with a <PROP desc="a painted shield">pi{ct}ure</PROP></I>:</C>
+<TLN n="3"/><C><I>Mountney</I>:<I>{#}Manuile</I>:{#}<I>{*U}alingford</I>:{#}<I>and {*D}u{k*e} Dirot</I>.</C></SD>
+<L/>
+<TLN n="4"/><S><SP norm="Lubeck"><I>{*M}arques</I>.</SP> <ORNAMENT letter="W" drop="2"/>Hat meanes faire Britaines mighty Conqueror
+<TLN n="5"/>So {s}uddenly to ca{{s}t} away his {{s}t}a{ff}e?
+<TLN n="6"/>And all in pa{{s}{s}i}on,{#}to for{s}ake the tylt.</S>
+<TLN n="7"/><S><SP norm="Dirot"><I>D</I>. <I>Dirot</I>.</SP> My Lord,{#}this triumph we {s}olemni{s}e here,
+<TLN n="8"/>Is of meere loue to your increa{{s}i}ng ioyes:
+<TLN n="9"/>Only expe{ct}ing cheerefull lookes for all.
+<TLN n="10"/>What {s}udden pangs than moues your maie{{s}t}ie,
+<TLN n="11"/>To dimme the brightnes of the day with {fr}ownes<I>?</I></S>
+<TLN n="12"/><S><SP norm="William"><I>W</I>. {*C}onqueror</I>.</SP> Ah: good my Lords,{#}mi{s}con{{s}t}er not the cau{s}e:
+<TLN n="13"/>At lea{{s}t},{#}{s}u{s}pe{ct} not my di{s}plea{s}ed browes
+<TLN n="14"/>I amorou{{s}l}y do beare to your intent#:
+<TLN n="15"/>For thanks and all that you can wi{{s}h} I yeeld.
+<TLN n="16"/>But that which makes me blu{{s}h} and {{s}h}ame to tell,
+<TLN n="17"/>Is cau{s}e why thus I turne my conquering eyes
+<TLN n="18"/>To cowardes lookes and beaten fanta{{s}i}es.</S>
+<TLN n="19"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Since wee are giltle{{s}{s}}e,{#}wee the le{{s}{s}}e di{s}may
+<TLN n="20"/>To {s}ee this {s}udden change po{{s}{s}}e{{s}{s}}e your cheere#:
+<TLN n="21"/>For if it i{{s}{s}}ue from your owne conceits,
+<TLN n="22"/>Bred by {s}ugge{{s}t}ion of {s}ome enuious thoughts#:
+<TLN n="23"/>Your highnes wi{s}dome may {s}uppre{{s}{s}}e it {{s}t}raight.
+<TLN n="24"/>Yet tell vs (good my Lord) what thought it is,
+<TLN n="25"/>That thus bereaues you of your late content,
+<TLN n="26"/>That in adui{s}e we may a{s}si{{s}t} your grace,
+<TLN n="27"/>Or bend our forces to reuiue your {s}pirits.</S>
+<TLN n="28"/><S><SP norm="William"><I>W {#C}on</I>.</SP> Ah <I>{*M}arques Lubec{k*}</I>, in thy power it lyes
+<TLN n="29"/>To rid my bo{s}ome of the{s}e thraled dumps:
+<TLN n="30"/>And therefore,{#}good my Lords forbeare a{#}while,
+<TLN n="31"/>That we may parley of the{s}e priuate cares,
+<SIG n="A2r"><C>A 2</C></SIG><CW><RA>Who{s}e<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="4">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="32"/>Who{s}e {{s}t}rength {s}ubdues me more than all the world.</S>
+<TLN n="33"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> We goe and wi{{s}h}e thee priuate conference,
+<TLN n="34"/>Publicke a{ff}e{ct}es in this accu{{s}t}omed peace.</S>
+<TLN n="35"/><SD t="exit" who="Mountney, Manvile, Valingford, Dirot"><RA><I>{*E}xit all but William and the Marques</I>.</RA></SD>
+<TLN n="36"/><S><SP norm="William"><I>William</I>.</SP> Now <I>Marques</I> mu{{s}t} a Conquerer at armes
+<TLN n="37"/>di{s}clo{s}e him{s}elfe thrald to vnarmed thoughts,
+<TLN n="38"/>And threatned of a {{s}h}addowe,{#}yeeld to lu{{s}t}:
+<TLN n="39"/>No {s}ooner had my {s}parkeling eyes beheld
+<TLN n="40"/>The {fl}ames of beautie bla{{s}i}ng on this peece,
+<TLN n="41"/>But {s}odenly a {s}ence of myracle
+<TLN n="42"/>Imagined on thy louely Mai{{s}t}res face,
+<TLN n="43"/>Made me abandon bodily regarde,
+<TLN n="44"/>And ca{{s}t} all plea{s}ures on my woonded {s}oule#:
+<TLN n="45"/>Then gentle <I>Marques</I> tell me what {{s}h}e is,
+<TLN n="46"/>That thus thou honoure{{s}t} on thy warlike {{s}h}ield.
+<TLN n="47"/>And if thy loue and intere{{s}t} be {s}uch,
+<TLN n="48"/>As iu{{s}t}ly may giue place to myne,
+<TLN n="49"/>That if it be: my {s}oule with honors wings
+<TLN n="50"/>May {fl}y into the bo{s}ome of my deere.
+<TLN n="51"/>Yf not,{#}clo{s}e them and {{s}t}oope into my graue.</S>
+<TLN n="52"/><S><SP norm="Lubeck"><I>Marques</I>.</SP> Yf this be all renowned Conquerer<I>:</I>
+<TLN n="53"/>Aduance your drooping {s}pirites,{#}and reuiue
+<TLN n="54"/>The wonted courage of your Conquering minde,
+<TLN n="55"/>For this faire pi{ct}ure painted on my {{s}h}ield
+<TLN n="56"/>Is the true counterfeit of louelie <I>{*B}launch</I>
+<TLN n="57"/>Princes and daughter to the King of <I>Danes</I>:
+<TLN n="58"/>Who{s}e beautie and exce{{s}{s}}e of ornamentes
+<TLN n="59"/>De{s}erues another manner of defence
+<TLN n="60"/>Pompe and high per{s}on to attend her {{s}t}ate,
+<TLN n="61"/>Then <I>Marques Lubec{k*}</I> any way pre{s}ents.
+<TLN n="62"/>Therefore her vertues I re{{s}i}gne to thee,
+<TLN n="63"/>Alreadie {{s}h}rinde in thy religious bre{{s}t},
+<TLN n="64"/>To be aduaunced and honoured to the full.
+<TLN n="65"/>Nor beare I this an argument of loue:
+<TLN n="66"/>But to renowne faire <I>{*B}launch</I> my Soueraignes child,
+<TLN n="67"/>In euerie place where I by armes may do it.</S>
+<SIG n="A2v"></SIG><CW><RA><I>William</I><SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="5">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="68"/><S><SP norm="William"><I>William</I>.</SP> Ah <I>Marques</I>,{#}thy wordes bring heauen vnto my {s}oule,
+<TLN n="69"/>And had I heauen to giue for thy reward:
+<TLN n="70"/>Thou {{s}h}ould{{s}t} be thronde in no vnworthie place.
+<TLN n="71"/>But let my vttermo{{s}t} wealth {s}u{ffi}ce thy worth,
+<TLN n="72"/>Which here I vowe, and to a{s}pire the bli{{s}{s}}e
+<TLN n="73"/>That hangs on quicke atchiuement of my loue,
+<TLN n="74"/>Thy {s}elfe and I will traueile in di{s}gui{s}e,
+<TLN n="75"/>To bring this Ladie to our Brittaine Court.</S>
+<TLN n="76"/><S><SP norm="Lubeck"><I>Marques</I>.</SP> Let <I>{W}illiam</I> but be thinke what may auayle,
+<TLN n="77"/>And let me die if I denie my ayde.</S>
+<TLN n="78"/><S><SP norm="William"><I>{W}illiam</I>.</SP> Then thus the Duke <I>Dirot</I> and Therle <I>Dimach</I>
+<TLN n="79"/>Will I leaue {s}ub{{s}t}itutes to rule my Realme,
+<TLN n="80"/>While mightie loue forbids my being here,
+<TLN n="81"/>And in the name of Sir <I>Robert</I> of <I>{W}ind{s}or</I>
+<TLN n="82"/>Will goe with thee vnto the Dani{{s}h} Court.
+<TLN n="83"/>Keepe <I>{W}illiams</I> {s}ecretes <I>Marques</I> if thou loue him.
+<TLN n="84"/>Bright <I>{*B}launch</I> I come,{#}sweete fortune fauour me,
+<TLN n="85"/>And I will laud thy name eternally.</S>
+<TLN n="86"/><SD t="exit" who="all"><RA><I>{*E}xeunt</I>.</RA></SD>
+</SCENE>
+<SCENE n="2">
+<TLN n="87"/><SD t="entrance" who="Miller, Em"><RA><I>Enter the {*M}iller,{#}and Em his daughter</I>.</RA></SD>
+<TLN n="88"/><S><SP norm="Miller"><I>{*M}iller</I>.</SP> Come daughter we mu{{s}t} learne to {{s}h}ake of pomp,
+<TLN n="89"/>To leaue the {{s}t}ate that ear{{s}t} be{s}eemd a Knight,
+<TLN n="90"/>And gentleman of no meane di{s}cent,
+<TLN n="91"/>To vndertake this homelie millers trade:
+<TLN n="92"/>Thus mu{{s}t} we maske to {s}aue our wretched liues,
+<TLN n="93"/>Threatned by Conque{{s}t} of this haple{{s}{s}}e Yle:
+<TLN n="94"/>Who{s}e {s}ad inua{{s}i}ons by the Conqueror,
+<TLN n="95"/>Haue made a number {s}uch as we {s}ubie{ct}
+<TLN n="96"/>Their gentle neckes vnto their {{s}t}ubborne yoke,
+<TLN n="97"/>Of drudging labour and ba{s}e pe{s}antrie.
+<TLN n="98"/>Sir Thomas <I>Godard</I> now old <I>{G*}oddard</I> is
+<TLN n="99"/><I>Goddard</I> the miller of faire Manche{{s}t}er.
+<TLN n="100"/>Why {{s}h}ould not I content me with this {{s}t}ate<I>?</I>
+<TLN n="101"/>As good Sir Edmund <I>{*T}ro{ff}erd</I> did the {fl}aile.
+<TLN n="102"/>And thou sweete <E>Em</I> mu{{s}t} {{s}t}oope to high e{{s}t}ate.
+<TLN n="103"/>To ioyne with mine that thus we may prote{ct}
+<SIG n="A3r"><C>A 3</C></SIG><CW><RA>Our<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="6">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="104"/>Our harmeles liues, which ledd in greater port
+<TLN n="105"/>Would be an enuious obie{ct} to our foes,
+<TLN n="106"/>That {s}eeke to roote all Britaines Gentrie
+<TLN n="107"/>From bearing countenance again{{s}t} their tyrannie.</S>
+<TLN n="108"/><S><SP norm="Em"><I>Em</I>.</SP> Good Father let my full re{s}olued thoughts,
+<TLN n="109"/>With {s}etled patiens to {s}upport this chaunce
+<TLN n="110"/>Be {s}ome poore comfort to your aged {s}oule#:
+<TLN n="111"/>For therein re{{s}t}es the height of my e{{s}t}ate,
+<TLN n="112"/>That you are plea{s}ed with this deie{ct}ion,
+<TLN n="113"/>And that all toyles my hands may vndertake,
+<TLN n="114"/>May {s}erue to worke your worthines content.</S>
+<TLN n="115"/><S><SP norm="Miller"><I>Miller</I>.</SP> Thankes my deere Daughter#: the{s}e{#}thy ple{s}ant words
+<TLN n="116"/>Tran{s}ferre my {s}oule into a {s}econd heauen#:
+<TLN n="117"/>And in thy {s}etled minde,{#}my ioyes con{{s}i}{{s}t},
+<TLN n="118"/>My {{s}t}ate reuyued and I in{#}former plight.
+<TLN n="119"/>Although our outward pomp be thus aba{s}ed,
+<TLN n="120"/>And thralde to drudging,{#}{{s}t}ay{#}le{{s}{s}}e of the world,
+<TLN n="121"/>Let vs retaine{#}tho{s}e honorable mindes
+<TLN n="122"/>Thar<!-- foul type for "t" --> lately gouerned our {s}uperior {{s}t}ate.
+<TLN n="123"/>Wherein true gentrie is the only meane
+<TLN n="124"/>That makes vs di{ff}er from ba{s}e millers borne#:
+<TLN n="125"/>Though we expe{ct} no knightly delicates,
+<TLN n="126"/>Nor thir{{s}t} in {s}oule for former {s}oueraintie.
+<TLN n="127"/>Yet may our myndes as highly {s}corne to {{s}t}oope
+<TLN n="128"/>To ba{s}e de{{s}i}res of vulgars worldlynes,
+<TLN n="129"/>As if{#}we were in our pre{s}edent way.
+<TLN n="130"/>And louely daughter,{#}{{s}i}nce thy youthfull yeares
+<TLN n="131"/>Mu{{s}t} needes admit as yong a{ff}e{ct}ions#:
+<TLN n="132"/>And that {s}weete loue vnpartiall perceiues
+<TLN n="133"/>Her daintie {s}ubie{ct}s through euery part,
+<TLN n="134"/>In chiefe receiue the{s}e le{{s}{s}}ons from my lippes.
+<TLN n="135"/>The true di{s}couerers of a Virgins due
+<TLN n="136"/>Now requi{{s}i}te,{#}now that I know thy mynde
+<TLN n="137"/>Somthing enclynde to fauour <I>Manuils</I> {s}ute,
+<TLN n="138"/>A gentleman,{#}thy Louer in prote{{s}t}:
+<TLN n="139"/>And that thou mai{{s}t} not be by loue deceiued,
+<SIG n="A3v"></SIG><CW><RA>But<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="7">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="140"/>But trye his meaning {fi}t for thy de{s}ert,
+<TLN n="141"/>In pur{s}uite of all amorous de{{s}i}res,
+<TLN n="142"/>Regard thine honour. Let not vehement {{s}i}ghes
+<TLN n="143"/>Nor earne{{s}t} vowes importing feruent loue,
+<TLN n="144"/>Render thee {s}ubie{ct} to the wrath of lu{{s}t}#:
+<TLN n="145"/>For that transformed to former {s}weete delight,
+<TLN n="146"/>Will bring thy bodie and thy {s}oule to {{s}h}ame.
+<TLN n="147"/>Cha{{s}t}e thoughts and mode{{s}t} conuer{s}ations,
+<TLN n="148"/>Of proofe to keepe out all inchaunting vowes,
+<TLN n="149"/>Vaine {{s}i}ghes, for{{s}t} teares, and pittifull a{s}pe{ct}es,
+<TLN n="150"/>Are they that make deformed Ladies faire,
+<TLN n="151"/>Poore wretch, and {s}uch intycing men,
+<TLN n="152"/>That {s}eeke of all but onely pre{s}ent grace,
+<TLN n="153"/>Shall in per{s}euerance of a Virgins due
+<TLN n="154"/>Prefer the mo{{s}t} refu{s}ers to the choyce
+<TLN n="155"/>Of {s}uch a {s}oule as yeelded what they thought.
+<TLN n="156"/>But hoe#: where is <I>Trotter#?</I></S>
+<TLN n="157"/><SD t="entrance" who="Trotter"><RA><I>Here enters Trotter the Millers man to them#: An</I>d<I> they</I></RA>
+<TLN n="158"/><C><I>within call to him for their gry{{s}t}e</I>.</C></SD>
+<TLN n="159"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Wheres Trotter? why Trotter is here.
+<TLN n="160"/>yfaith, you and your daughter go vp and downe weeping,
+<TLN n="161"/>And wamenting and keeping of a wamentation,
+<TLN n="162"/>As who {{s}h}ould saye,{#}the Mill would go with your wamenting.</S>
+<TLN n="163"/><S><SP norm="Miller"><I>Miller</I>.</SP> How now Trotter? why complaine{{s}t} thou {s}o.</S>
+<TLN n="164"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Why yonder is a company of yong men and maydes
+<TLN n="165"/>Keepe {s}uch a {{s}t}yr for their gri{{s}t}, that they would haue it before
+<TLN n="166"/>my {{s}t}ones be readie to grinde it. ##But yfaith, I would I coulde
+<TLN n="167"/>breake{#}winde enough backward#: you {{s}h}ould not tarrie for your
+<TLN n="168"/>gry{{s}t} I warrant you.</S><MARG loc="right"><SD t="action" who="Trotter, Em">Here he <!-- text trimmed for binding: "taketh" (Q2) --><BR>Em abo <!-- text trimmed for binding: "ut the" (Q2) --><BR>necke.</SD></MARG>
+<TLN n="169"/><S><SP norm="Miller"><I>Miller</I>.</SP> Content thee Trotter,{#}I will go paci{fi}e them.</S>
+<TLN n="170"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Iwis{#}you will when I cannot. Why looke,
+<TLN n="171"/>You haue a Mill. Why,{#}whats your Mill without mee?
+<TLN n="172"/>Or rather Mi{{s}t}res, what were I without you<I>?</I></S>
+<TLN n="173"/><S><SP norm="Em"><I>Em</I>.</SP> Nay Trotter, if{#}yon<!-- upside-down "u" --> fall achyding,{#}I wil giue you ouer.</S>
+<TLN n="174"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> I chyde you dame to amend you.
+<TLN n="175"/>You are too fyne to be a Millers daughter#:
+<SIG n="A4r"></SIG><CW><RA>For<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="8">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="176"/>For if you {{s}h}ould but {{s}t}oope to take vp the tole di{{s}h}
+<TLN n="177"/>You will haue the crampe in your {fi}nger
+<TLN n="178"/>At lea{{s}t} ten weekes after.</S>
+<TLN n="179"/><S><SP norm="Miller"><I>Miller<I>.</SP> Ah well said T<I>rotter</I>,{#}teach her to plaie the good hu{s}wife
+<TLN n="180"/>And thou {{s}h}alt haue her to thy wife,{#}if thou can{{s}t} get her good will.</S>
+<TLN n="181"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Ah words wherein I {s}ee Matrimonie come loaden
+<TLN n="182"/>With ki{{s}{s}}es to {s}alute me:{#}Now let me alone,{#}to pick the Mill,
+<TLN n="183"/>To {fi}ll the hopper,{#}to take the tole,{#}to mend the {s}ayles,
+<TLN n="184"/>Yea,{#}and to make the mill to goe with the verie force of my loue.</S>
+<L/>
+<TLN n="185"/><SD t="sound"><RA><I>Here they mu{{s}t} call for their gry{{s}t} within</I>.<SPACE n="3"/></RA></SD>
+<TLN n="186"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> I come I come,{#}yfaith now you {{s}h}all haue your gry{{s}t}
+<TLN n="187"/>Or el{s}e <I>Trotter</I> will trot and amble him{s}elfe to death.</S>
+<TLN n="188"/><SD t="sound"><RA><I>They call him againe</I>.</SD><SPACE n="3"/><SD t="exit" who="Trotter"><I>{*E}xit</I>.<SPACE n="5"/></SD></RA>
+</SCENE>
+<SCENE n="3">
+<TLN n="189"/><SD t="entrance" who="Zweno, Blanch, Mariana, Lubeck, William"><C><I>Enter {k*}ing of Denmar{k*}e,{#}with {s}ome attendants,{#}Blanch his</I></C>
+<TLN n="190"/><C><I>daughter,{#}Mariana,{#}Marques Lubec{k*},{#}{W}illiam</I></C>
+<TLN n="191"/><C><I>di{s}gui{s}ed</I>.</C></SD>
+<TLN n="192"/><S><SP norm="Zweno"><I>King of Denmar{k*}e</I>.</SP> Lord Marques <I>Lubec{k*}e</I> welcome home,
+<TLN n="193"/>Welcome braue Knight vnto the <I>Denmar{k*}e</I> King:
+<TLN n="194"/>For Williams {s}ake the noble <I>Norman</I> Duke,
+<TLN n="195"/>So famous for his fortunes and {s}ucce{{s}{s}}e,
+<TLN n="196"/>That graceth him with name of Conqueror:
+<TLN n="197"/>Right double welcome mu{{s}t} thou be to vs.</S>
+<TLN n="198"/><S><SP norm="William (as Robert Windsor)"><I>{R*}ob</I>. <I>{W}ind{s}or</I>.</SP> And to my Lord the king {{s}h}all I recount
+<TLN n="199"/>Your graces courteous entertainment,
+<TLN n="200"/>That for his {s}ake vouch{s}afe to honor me
+<TLN n="201"/>A {{s}i}mple Knight attendant on his grace.</S>
+<TLN n="202"/><S><SP norm="Zweno"><I>King Den</I>.</SP> But {s}aie Sir Knight,{#}what may I call your name.</S>
+<TLN n="203"/><S><SP norm="William (as Robert Windsor)"><I>Robert{#}{W}ind{s}or<I>.</SP> <I>Robert Wind{s}or</I> and like your Maie{{s}t}ie.</S>
+<TLN n="204"/><S><SP norm="Zweno"><I>King Den</I>.</SP> I tell thee <I>Robert</I>,{#}I {s}o admire the man,
+<TLN n="205"/>As that I count it haynous guilt in him
+<TLN n="206"/>That honors not Duke <I>Wi{ll}iam</I> with his heart.
+<TLN n="207"/><I>Blanch</I>,{#}bid this {{s}t}raunger welcome,{#}good my gyrle.</S>
+<TLN n="208"/><S><SP norm="Blanch"><I>Blanch</I>.</SP> Sir,{#}{{s}h}ould I negle{ct} your highnes charge herein,
+<TLN n="209"/>It might be thought of ba{s}e di{s}courte{{s}i}e.
+<TLN n="210"/>Welcome Sir Knight to <I>Denmar{k*}e</I> hartelie.</S>
+<SIG n="A4v"></SIG><CW><RA><I>Robert</I>.<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="9">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="211"/><S><SP norm="William (as Robert Windsor)"><I>Ro</I>.{#}<I>{W}ind{s}</I>.</SP> Thanks gentle Ladie.{#}Lord <I>Marques</I>,{#}what is {{s}h}ee?</S>
+<TLN n="212"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> That {s}ame is <I>Blanch</I> daughter to the King,
+<TLN n="213"/>The {s}ub{{s}t}ance of the {{s}h}adow that you {s}aw.</S>
+<TLN n="214"/><S><SP norm="William (as Robert Windsor)"><I>Rob</I>.{#}<I>wind{s}or</I>.</SP> May this be {{s}h}ee,{#}for whome I cro{{s}t} the Seas?
+<TLN n="215"/>I am a{{s}h}amde to think I was {s}o{#}fond.
+<TLN n="216"/>In whom thers nothing that contents my mynd.
+<TLN n="217"/>Ill head,{#}wor{s}e featurde,{#}vncomly,{#}nothing courtly.
+<TLN n="218"/>Swart and ill fauoured, a Colliers {s}anguin {s}kinne.
+<TLN n="219"/>I neuer {s}awe a harder fauourd {{s}l}ut.
+<TLN n="220"/>Loue her? for what#: I can no whit abide her.</S>
+<TLN n="221"/><S><SP norm="Zweno"><I>King of Denmar{k*}</I>.</SP> <I>{*M}ariana</I>,{#}I haue this day receiued letters
+<TLN n="222"/>From <I>Swethia</I>,{#}that lets me vnder{{s}t}and,
+<TLN n="223"/>your raun{s}ome is colle{ct}ing there with {s}peede,
+<TLN n="224"/>And {{s}h}ortly {{s}h}albe hither {s}ent to vs.</S>
+<TLN n="225"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> Not that I {fi}nde occa{{s}i}on of mi{{s}l}ike
+<TLN n="226"/>My entertainment in your graces court,
+<TLN n="227"/>But that I long to {s}ee my natiue home.</S>
+<TLN n="228"/><S><SP norm="Zweno"><I>{k*}ing Den</I>.</SP> And rea{s}on haue you Madam for the {s}ame:
+<TLN n="229"/>Lord <I>Marques</I> I commit vnto your charge
+<TLN n="230"/>The entertainement of Sir <I>Robert</I> here,
+<TLN n="231"/>Let him remaine with you within the Court
+<TLN n="232"/>In {s}olace and di{s}port,{#}to {s}pend the time.</S>
+<TLN n="233"/><SD t="exit" who="Zweno"><RA><I>{*E}xit {k*}ing of Denmar{k*}e</I>.<SPACE n="2"/></RA></SD>
+<TLN n="234"/><S><SP norm="William (as Robert Windsor)"><I>{R*}obert</I> W<I>ind</I>.</SP> I thank your hightnes, who{s}e bounden I remaine.</S>
+<TLN n="235"/><SD t="aside" who="Blanch"><RA><I>Blanch {s}pea{k*}eth this {s}ecretly at one end of the {{s}t}age</I>.<SPACE n="3"/></RA></SD>
+<TLN n="236"/><S><SP norm="Blanch"></SP> Vnhappie <I>{*B}lanch</I>,{#}what {{s}t}range e{ff}e{ct}s are the{s}e
+<TLN n="237"/>That workes within my thoughts confu{s}edly,
+<TLN n="238"/>That {{s}t}ill me thinks a{ff}e{ct}ion drawes me on
+<TLN n="239"/>To take,{#}to like,{#}nay more,{#}to loue this Knight.</S>
+<TLN n="240"/><S><SP norm="William (as Robert Windsor)"><I>Robert</I>. W<I>ind</I>.</SP> A mode{{s}t} countenance,{#}no heauie {s}ullen looke,
+<TLN n="241"/>Not verie fayer,{#}but ritchly deckt with fauour:
+<TLN n="242"/>A {s}weete face,{#}an exceding daintie hand,
+<TLN n="243"/>A bodie were it framed of wax
+<TLN n="244"/>By all the cunning arti{{s}t}s of the world
+<TLN n="245"/>It could not better be proportioned.</S>
+<TLN n="246"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> How now Sir <I>Robert</I>? in a {{s}t}udie man<I>?</I>
+<SIG n="B1r"><C>B</C></SIG><CW><RA>Here<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="10">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="247"/>Here is no tyme for contemplation.</S>
+<TLN n="248"/><S><SP norm="William (as Robert Windsor)"><I>Robert Wind{s}or</I>.</SP> My Lord,{#}there is a certaine odd conceite,
+<TLN n="249"/>Which on the {s}udden greatly troubles me.</S>
+<TLN n="250"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> How like you <I>{*B}launch</I>? I partly do perceiue
+<TLN n="251"/>The little boy hath played the wagg with you.</S>
+<TLN n="252"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> The more I looke,{#}the more I loue to looke,
+<TLN n="253"/>Who {s}eyes that <I>Mariana</I> is not faire:
+<TLN n="254"/>Ile gage my gauntlet gain{{s}t} the enuious man,
+<TLN n="255"/>That dares auowe there liueth her compare.</S>
+<TLN n="256"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Sir <I>{R*}obert</I>, you mi{{s}t}ake your counterfeit.
+<TLN n="257"/>This is the Ladie which you came to {s}ee.</S>
+<TLN n="258"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> yea, my Lord#:{#}Shee is counterfait in deede:
+<TLN n="259"/>For there is the {s}ub{{s}t}ance that be{{s}t} contents me.</S>
+<TLN n="260"/><S><SP norm="Lubeck"><I>Lube{k*}</I>.</SP> That is my loue. Sir <I>Robert</I> you do wrong me.</S>
+<TLN n="261"/><S><SP norm="William (as Robert Windsor)"><I>Robert</I>.</SP> The better for you {{s}i}r, {{s}h}e is your Loue,
+<TLN n="262"/>As for the wrong, I {s}ee not how it growes.</S>
+<TLN n="263"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> In {s}eeking that which is an#others right.</S>
+<TLN n="264"/><S><SP norm="William (as Robert Windsor)"><I>Robert</I>.</SP> As who {{s}h}ould {s}aie your loue were priuileged
+<TLN n="265"/>That none might looke vpon her but your {s}elfe.</S>
+<TLN n="266"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> The{s}e iarres becomes not our familiaritie,
+<TLN n="267"/>Nor will I {{s}t}and on termes to moue your patience.</S>
+<TLN n="268"/><S><SP norm="William (as Robert Windsor)"><I>Robert</I>.</SP> Why my Lord,{#}am not I of {fl}e{{s}h} and bloud as well as you?
+<TLN n="269"/>Then giue me leaue to loue as well as you.</S>
+<TLN n="270"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> To Loue Sir <I>{R*}obert</I>? but whome? not {{s}h}e I Loue?
+<TLN n="271"/>Nor {{s}t}ands it with the honor of my {{s}t}ate,
+<TLN n="272"/>To brooke corriuals with me in my loue.</S>
+<TLN n="273"/><S><SP norm="William (as Robert Windsor)"><I>Robert</I>.</SP> So Sir,{#}we are thorough for that L.
+<TLN n="274"/>Ladies farewell.<SPACE n="1"/> Lord <I>{*M}arques</I>,{#}will you go?
+<TLN n="275"/>I will {fi}nde a time to {s}peake with her I trowe?</S>
+<TLN n="276"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> With all my heart. Come Ladies wil you walk?</S><SD t="exit" who="all"><RA><I>{*E}xit</I>.<SPACE n="1"/></RA></SD>
+</SCENE>
+<SCENE n="4">
+<TLN n="277"/><SD t="entrance" who="Manvile"><RA><I>{*E}nter {*M}anuile alone di{s}gui{s}ed</I>.<SPACE n="5"/></RA></SD>
+<TLN n="278"/><S><SP norm="Manvile"><I>{*M}anuile</I>.</SP> Ah <I>Em</I> the {s}ubie{ct} of my re{{s}t}le{{s}{s}}e thoughts,
+<TLN n="279"/>The Anuyle whereupon my heart doth beate,
+<TLN n="280"/>Framing thy {{s}t}ate to thy de{s}ert,
+<TLN n="281"/>Full yll this life becomes thy heauenly looke,
+<TLN n="282"/>Wherein,{#}{s}weete loue and vertue {{s}i}ts enthroned.
+<SIG n="B1v"></SIG><CW><RA>Bad<SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="11">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="283"/>Bad world, where riches is e{{s}t}eemd aboue them both,
+<TLN n="284"/>In who{s}e ba{s}e eyes nought el{s}e is bountifull.
+<TLN n="285"/>A Millers daughter,{#}{s}ayes the multitude,
+<TLN n="286"/>Should not be loued of a Gentleman.
+<TLN n="287"/>But let them breath their {s}oules into the ayre:
+<TLN n="288"/>Yet will I {{s}t}ill a{ff}e{ct} thee as my {s}elfe,
+<TLN n="289"/><I>S</I>o thou be con{{s}t}ant in thy plighted vowe.
+<TLN n="290"/>But here comes one, I wil li{{s}t}en to his talke.</S>
+<TLN n="291"/><SD t="entrance" who="Valingford"><C><I>Enter Valingford at another dore, di{s}gui{s}ed</I></C></SD><MARG loc="right">Man <!-- text trimmed for binding: "uile staies" (Q2) --><BR>hidin <!-- text trimmed for binding: "g him{-}" (Q2) --><BR>{s}elfe.</MARG>
+<TLN n="292"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Goe <I>William {*C}onqueror</I> and {s}eeke thy loue.
+<TLN n="293"/><I>S</I>eeke thou a mynion in a forren land
+<TLN n="294"/>While{{s}t} I drawe back and court my loue at home,
+<TLN n="295"/>The millers daughter of faire Manche{{s}t}er
+<TLN n="296"/>Hath bound my feete to this delight{s}ome {s}oyle:
+<TLN n="297"/>And from her eyes do dart {s}uch golden beames,
+<TLN n="298"/>That holdes my harte in her {s}ubie{ct}ion.</S>
+<TLN n="299"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> He ruminates on my beloued choyce:
+<TLN n="300"/>God graunt he come not to preuent my hope.
+<TLN n="301"/>But heres another,{#}him yle li{{s}t}en to.</S>
+<TLN n="302"/><SD t="entrance" who="Mountney"><C><I>Enter Mountney di{s}gui{s}ed at another dore</I>.</C>
+<TLN n="303"/><S><SP norm="Mountney"><I>L</I>. <I>Mountney</I>.</SP> Nature vniu{{s}t},{#}in vtterance of thy arte,
+<TLN n="304"/>To grace a pe{s}ant with a Princes fame:
+<TLN n="305"/>Pe{s}ant am I {s}o to mi{{s}t}erme my loue
+<TLN n="306"/>Although a millers daughter by her birth:
+<TLN n="307"/>Yet may her beautie and her vertues well {s}u{ffi}ce
+<TLN n="308"/>To hyde the blemi{{s}h} of her birth in hell,
+<TLN n="309"/>Where neither enuious eyes nor thought can perce,
+<TLN n="310"/>But endle{{s}{s}}e darkne{{s}{s}}e euer {s}mother it.
+<TLN n="311"/>Goe <I>William {*C}onqueror</I> and {s}eeke thy loue,
+<TLN n="312"/>While{{s}t} I drawe back and court mine owne the while:
+<TLN n="313"/>Decking her bodie with {s}uch co{{s}t}ly robes
+<TLN n="314"/>As may become her beauties worthynes,
+<TLN n="315"/>That {s}o thy labors may be laughed to {s}corne,
+<TLN n="316"/>And {{s}h}e thou {s}eeke{{s}t} in forraine regions,
+<TLN n="317"/>Be darkened and eclip{{s}t} when {{s}h}e arriues,
+<TLN n="318"/>By one that I haue cho{s}en neerer home.</S>
+<SIG n="B2r"><C>B 2</C></SIG><CW><RA>M<I>anuile</I><SPACE n="3"/></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="12">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="319"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> What comes he to,{#}to intercept my loue?
+<TLN n="320"/>Then hye thee <I>Manuile</I> to fore{{s}t}all {s}uch foes.</S><SD t="exit" who="Manvile"><RA><I>Exit </I>M<I>anuile</I></RA></SD>
+<TLN n="321"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> What now Lord <I>{*U}alingford</I> are you behind<I>?</I>
+<TLN n="322"/>The king had cho{s}en you to goe with him.</S>
+<TLN n="323"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> So cho{s}e he you, therefore I marueile much
+<TLN n="324"/>That both of vs {{s}h}ould linger in this {s}ort.
+<TLN n="325"/>What may the king imagine of our {{s}t}aye?</S>
+<TLN n="326"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> The king may iu{{s}t}ly think we are to blame:
+<TLN n="327"/>But I immagined I might well be {s}pared
+<TLN n="328"/>And that no other man had borne my mind.</S>
+<TLN n="329"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> The like did I:{#}in frend{{s}h}ip then re{s}olue
+<TLN n="330"/>What is the cau{s}e of your vnlookt for {{s}t}ay?</S>
+<TLN n="331"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Lord <I>{*U}alingford</I> I tell thee as a friend,
+<TLN n="332"/>Loue is the cau{s}e why I haue {{s}t}ayed behind.</S>
+<TLN n="333"/><S><SP norm="Valingford"><I>{*U}alinford</I>.</SP> Loue my Lord<I>?</I>{#}of whome.</S>
+<TLN n="334"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> <I>Em</I> the millers daughter of Manche{{s}t}er.</S>
+<TLN n="335"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> But may this be?</S>
+<TLN n="336"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Why not my Lord<I>?</I> I hope full well you know
+<TLN n="337"/>That loue re{s}pe{ct}es no di{ff}erence of {{s}t}ate
+<TLN n="338"/>So beautie {s}erue to {{s}t}irr a{ff}e{ct}ion.</S>
+<TLN n="339"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> But this it is that makes me wonder mo{{s}t}:
+<TLN n="340"/>That you and I {{s}h}ould be of one con{s}eite
+<TLN n="341"/>In {s}uch a {{s}t}raunge vnlikly pa{s}sion.</S>
+<TLN n="342"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> But is that true? my Lord: I hope you do but ie{{s}t}.</S>
+<TLN n="343"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> I would I did: then were my griefe the le{{s}{s}}e.</S>
+<TLN n="344"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Nay neuer grieue: for if the cau{s}e be {s}uch
+<TLN n="345"/>To ioyne our thoughts in {s}uch a Simpathy:
+<TLN n="346"/>All enuie {s}et a{s}yde:{#}let vs agree
+<TLN n="347"/>To yeeld to eythers fortune in this choyce.</S>
+<TLN n="348"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Content {s}ay, I, and what {s}o ere befall,
+<TLN n="349"/><I>S</I>hake hands my Lord and fortune thriue at all.</S><SD t="exit" who="all"><RA><I>Exeunt</I></RA></SD>
+</SCENE>
+<SCENE n="5">
+<TLN n="350"/><SD t="entrance" who="Em, Trotter"><RA><I>Enter Em and Trotter the {*M}illers man with a {k*}erchife on</I></RA>
+<TLN n="351"/><RA><I>his head,{#}and an {*U}rinall in his hand</I>.<SPACE n="4"/></RA></SD>
+<TLN n="352"/><S><SP norm="Em"><I>Em</I>.</SP> <I>Trotter</I> where haue you beene?</S>
+<TLN n="353"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Where haue I bene? why what {{s}i}gni{fi}es this.</S>
+<TLN n="354"/><S><SP norm="Em"><I>Em</I>.</SP> A kerchiefe,{#}doth it not?</S>
+<SIG n="B2v"></SIG><CW><RA><I>Trotter</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="13">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="355"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> What call you this I praye<I>?</I></S>
+<TLN n="356"/><S><SP norm="Em"><I>Em</I>.</SP> I {s}aie it is an Vrinall.</S>
+<TLN n="357"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Then this is my{{s}t}ically to giue you to vnder{{s}t}and
+<TLN n="358"/>I haue beene at the Phi{s}micaries hou{s}e.</S>
+<TLN n="359"/><S><SP norm="Em"><I>Em</I>.</SP> How long ha{{s}t} thou beene {{s}i}cke<I>?</I></S>
+<TLN n="360"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Yfaith,{#}euen as long as I haue not beene halfe well,
+<TLN n="361"/>And that hath beene a long time.</S>
+<TLN n="362"/><S><SP norm="Em"><I>Em</I>.</SP> A loytering time I rather immagine.</S>
+<TLN n="363"/><S><SP norm="Trotter"><I>Trot</I>.</SP> It may be {s}o:{#}but the Phi{s}micary tels me that you can help me</S>
+<TLN n="364"/><S><SP norm="Em"><I>Em</I>.</SP> Why, any thing I can do for recouerie of thy health,
+<TLN n="365"/>Be right well a{{s}{s}}ured of.</S>
+<TLN n="366"/><S><SP norm="Trotter"><I>Trot</I>.</SP> Then giue me your hand</S>
+<TLN n="367"/><S><SP norm="Em"><I>Em</I>.</SP> To what end.</S>
+<TLN n="368"/><S><SP norm="Trotter"><I>Trot</I>.</SP> That the ending of an old indenture
+<TLN n="369"/>Is the beginning of a new bargaine#.</S>
+<TLN n="370"/><S><SP norm="Em"><I>Em</I>.</SP> What bargaine?</S>
+<TLN n="371"/><S><SP norm="Trotter"><I>Trot</I>.</SP> That you promi{s}ed to do anything to recouer my helth.</S>
+<TLN n="372"/><S><SP norm="Em"><I>{*E}m</I>.</SP> On that condition I giue thee my hand.</S>
+<TLN n="373"/><S><SP norm="Trotter"><I>Trot</I>.</SP> Ah {s}weete <I>Em</I>.</S><SPACE n="3"/><SD t="action" who="Trotter"><I>Here he o{ff}ers to ki{{s}{s}}e her</I>.</SD>
+<TLN n="374"/><S><SP norm="Em"><I>Em</I>.</SP> How now <I>Trotter?</I> your mai{{s}t}ers daughter?</S>
+<TLN n="375"/><S><SP norm="Trotter"><I>Trot</I>.</SP> Yfaith I aime at the faire{{s}t},
+<TLN n="376"/>Ah <I>{*E}m</I>,{#}{s}weet <I>Em</I>:{#}fre{{s}h} as the {fl}owre:
+<TLN n="377"/>That hath poure to wound my harte,
+<TLN n="378"/>And ea{s}e my {s}mart, of me poore{#}theefe,
+<TLN n="379"/>In pri{s}on bounde.</S>
+<TLN n="380"/><S><SP norm="Em"><I>Em</I>.</SP> So all your ryme lies on the grounde.
+<TLN n="381"/>But what meanes this?</S>
+<TLN n="382"/><S><SP norm="Trotter"><I>Trot</I>.</SP> Ah marke the deui{s}e,
+<TLN n="383"/>For thee my loue{#}full {{s}i}cke I was, in hazard of my life
+<TLN n="384"/>Thy promi{s}e was to make me whole,{#}and for to be my wife.
+<TLN n="385"/>Let me inioye my loue my deere,
+<TLN n="386"/>And thou po{{s}{s}}e{{s}{s}}e thy <I>Trottter</I> here.</S>
+<TLN n="387"/><S><SP norm="Em"><I>Em</I>.</SP> But I meant no {s}uch matter.</S>
+<TLN n="388"/><S><SP norm="Trotter"><I>Trot</I>.</SP> Yes woos but you did, Ile goe to our Par{s}on Sir Iohn
+<TLN n="389"/>And he {{s}h}all mumble vp the marriage out of hand.</S>
+<TLN n="390"/><S><SP norm="Em"><I>{*E}m</I>.</SP> But here comes one that will forbid the Banes.</S>
+<SIG n="B3r"><C>B 3</C></SIG><CW><RA><I>Here</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="14">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="391"/><SD t="entrance" who="Manvile"><C><I>Here Enters</I> M<I>anuile to them</I>.</C></SD>
+<TLN n="392"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Ah Sir you come too late.</S>
+<TLN n="393"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> What remedie <I>Trotter</I>.</S>
+<TLN n="394"/><S><SP norm="Em"><I>{*E}m</I>.</SP> Goe <I>Trotter</I>,{#}my father calles.</S>
+<TLN n="395"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Would{#}you haue me goe in,{#}and leaue you two here?</S>
+<TLN n="396"/><S><SP norm="Em"><I>Em</I>.</SP> Why,{#}dare{{s}t} thou not tru{{s}t} me?</S>
+<TLN n="397"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> Yes faith,{#}euen as long as I {s}ee you.</S>
+<TLN n="398"/><S><SP norm="Em">E<I>m</I>.</SP> Goe thy waies I praye thee hartely.</S>
+<TLN n="399"/><S><SP norm="Trotter"><I>Trotter</I>.</SP> That {s}ame word (hartely) is of great force.
+<TLN n="400"/>I will goe: but I praye {{s}i}r, beware you
+<TLN n="401"/>Come not too neere the wench.</S><SD t="exit" who="Trotter"><RA>E<I>xit Trotter</I>.</RA></SD>
+<TLN n="402"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> I am greatly beholding to you
+<TLN n="403"/>Ah Mai{{s}t}res,{#}{s}omtime I might haue {s}aid my loue,
+<TLN n="404"/>But time and fortune hath bereued me of that, 
+<TLN n="405"/>And I am abie{ct} in tho{s}e gratious eyes 
+<TLN n="406"/>That with remor{s}e ear{{s}t} {s}awe into my griefe, 
+<TLN n="407"/>May {{s}i}t and {{s}i}gh the {s}orowes of my heart.</S>
+<TLN n="408"/><S><SP norm="Em">E<I>m</I>.</SP> In deede my Ma<I>nuile</I> hath {s}ome cau{s}e to doubt,
+<TLN n="409"/>When {s}uch a Swaine is riuall in his loue.</S>
+<TLN n="410"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Ah E<I>m</I>, were he the man that cau{s}eth this mi{{s}t}ru{{s}t},
+<TLN n="411"/>I {{s}h}ould e{{s}t}eeme of thee as at the {fi}r{{s}t}.</S>
+<TLN n="412"/><S><SP norm="Em">E<I>m</I>.</SP> But is my loue in earne{{s}t} all this while<I>?</I></S>
+<TLN n="413"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Beleeue me E<I>m</I>,{#}it is not time to ie{{s}t}
+<TLN n="414"/>{W}hen others ioyes, what lately I po{{s}{s}}e{{s}t}.</S>
+<TLN n="415"/><S><SP norm="Em">E<I>m</I>.</SP> If touching loue,{#}my M<I>anuile</I> charge me thus 
+<TLN n="416"/>Vnkindly mu{{s}t} I take it at his handes,
+<TLN n="417"/>For that my con{s}cience cleeres me of o{ff}ence.</S>
+<TLN n="418"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Ah impudent and {{s}h}amele{{s}{s}}e in thy ill,
+<TLN n="419"/>That with thy cunning and defraudfull toung, 
+<TLN n="420"/>Seeke{s}e to delude the hone{{s}t} meaning minde:
+<TLN n="421"/>Was neuer heard in M<I>anche{{s}t}er</I> before,
+<TLN n="422"/>Of true louer then hath beene betwixte vs twaine: 
+<TLN n="423"/>And for my parte how I haue hazarded 
+<TLN n="424"/>Di{s}plea{s}ure of my father and my freindes 
+<TLN n="425"/>Thy {s}elfe can witnes. <I>Y</I>et notwith{{s}t}anding this: 
+<TLN n="426"/>Two genlemen attending on <I>Du{k*e} William</I>
+<TLN n="427"/>M<I>ountney</I> and <I>Valingford</I>,{#}as I heard them named,
+<SIG n="B3v"></SIG><CW><RA>Oft</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="15">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="428"/>Oft times re{s}ort to {s}ee and to be {s}eene,
+<TLN n="429"/>Walking the {{s}t}reete{#}fa{{s}t} by thy fathers dore,
+<TLN n="430"/>{W}ho{s}e glauncing eyes vp to the windowes ca{{s}t}, 
+<TLN n="431"/>Giues te{{s}t}ies of their Mai{{s}t}ers amorous hart. 
+<TLN n="432"/>This E<I>m</I> is noted and too much talked on. 
+<TLN n="433"/>Some {s}ee it without mi{{s}t}ru{{s}t} of ill. 
+<TLN n="434"/>Others there are that {s}corning grynne{#}thereat, 
+<TLN n="435"/>And {s}aith,{#}there goes the millers daughters wooers.
+<TLN n="436"/>Ah me,{#}whome chiefely and mo{{s}t} of all it doth concerne 
+<TLN n="437"/>To {s}pend my time in griefe and vexe my {s}oule, 
+<TLN n="438"/>To thinke my loue {{s}h}ould be rewarded thus, 
+<TLN n="439"/>And for thy {s}ake abhore all women kind.</S>
+<TLN n="440"/><S><SP norm="Em">E<I>m</I>.</SP> May not a maide looke vpon a man 
+<TLN n="441"/>Without {s}u{s}pitious iudgement of the world?</S>
+<TLN n="442"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> If {{s}i}ght do moue o{ff}ence, it is the better not to {s}ee. 
+<TLN n="443"/>But thou did{{s}t} more vncon{{s}t}ant as thou art, 
+<TLN n="444"/>For with them thou had{{s}t} talke and conference.</S>
+<TLN n="445"/><S><SP norm="Em">E<I>m</I>.</SP> May not a maide talke with a man without mi{{s}t}ru{{s}t}<I>?</I></S>
+<TLN n="446"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Not with {s}uch men {s}u{s}pe{ct}ed amorous.</S>
+<TLN n="447"/><S><SP norm="Em">E<I>m</I>.</SP> I{#}grieue to {s}ee my M<I>anuiles</I> ielo{{s}i}e</S>
+<TLN n="448"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Ah E<I>m</I>,{#}faithfull loue is full of ielo{{s}i}e, 
+<TLN n="449"/>So did I loue thee true and faithfully, 
+<TLN n="450"/>For which I am rewarded mo{{s}t} vnthankfully.</S>
+<TLN n="451"/><SD t="exit" who="Manvile"><C>E<I>xit in a rage</I>, M<I>anet</I> E<I>m</I>.</C></SD> 
+<TLN n="452"/><S><SP norm="Em"></SP> And {s}o awaie<I>?</I> what in di{s}plea{s}ure gone? 
+<TLN n="453"/>And left me {s}uch a bitter {s}weete to gnawe vpon<I>?</I>
+<TLN n="454"/>Ah M<I>anuile</I>,{#}little wotte{{s}t} thou,
+<TLN n="455"/>How neere this parting goeth to my heart.
+<TLN n="456"/>Vncourteous loue who{s}e followers reapes reward, 
+<TLN n="457"/>Of h#ate,{#}di{s}daine,{#}reproach and infamie, 
+<TLN n="458"/>The fruit frantike, bedlome ielozie.
+<TLN n="459"/><SD t="entrance" who="Mountney"><C><I>Here enter Mountney to Em</I>.</C></SD> 
+<TLN n="460"/>But here comes one of the{s}e {s}u{s}pitious men: 
+<TLN n="461"/>{W}itnes my God without de{s}ert of me: 
+<TLN n="462"/>For onely M<I>anuile</I> honor I in harte: 
+<TLN n="463"/>Nor {{s}h}all vnkindnes cau{s}e me from him to {{s}t}arte.</S>
+<SIG n="B4r"></SIG><CW><RA>For</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="16">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="464"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> For this good fortune,{#}Venus be thou ble{{s}t},
+<TLN n="465"/>To meete my loue,{#}the mi{{s}t}res of my heart,
+<TLN n="466"/>Where time and place giues oportunitie
+<TLN n="467"/>At full to let her vnder{{s}t}and my loue.
+<TLN n="468"/><SD t="action" who="Mountney, Em"><RA><I>He turnes to Em,{#}& o{ff}ers to take her by the hand,{#}& {{s}h}ee goes from him</I>.</RA></SD>
+<TLN n="469"/>Faire mi{{s}t}res,{#}{{s}i}nce my fortune {s}orts {s}o well:
+<TLN n="470"/>Heare you a word. What meaneth this?
+<TLN n="471"/>Nay {{s}t}ay faire <I>{*E}m</I>.</S>
+<TLN n="472"/><S><SP norm="Em"><I>{*E}m</I>.</SP> I am going homewards, {s}yr:</S>
+<TLN n="473"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Yet {{s}t}ay {s}weete loue to whom I mu{{s}t} di{s}clo{s}e
+<TLN n="474"/>The hidden {s}ecrets of a louers thoughts,
+<TLN n="475"/>Not doubting but to {fi}nde {s}uch kinde remor{s}e
+<TLN n="476"/>As naturally you are enclyned to.</S>
+<TLN n="477"/><S><SP norm="Em"><I>Em</I>.</SP> The Gentle-man your friend Syr,
+<TLN n="478"/>I{#}haue not {s}eene him this foure dayes at the lea{{s}t}.</S>
+<TLN n="479"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Whats that to me? I {s}peak not {s}weete <!-- broken "t" --> in per{s}on of <HW t="next">(my friend,</HW>
+<TLN n="480"/>But for my {s}elfe,{#}whom if that loue de{s}erue
+<TLN n="481"/>To haue regard being honourable loue:
+<TLN n="482"/>Not ba{s}e a{ff}e{ct}s of loo{s}e la{s}ciuious loue:
+<TLN n="483"/>Whome youthfull wantons play and dally with:
+<TLN n="484"/>But that vnites in honourable bands of holy rytes,
+<TLN n="485"/>And knits the {s}acred knot that Gods.</S><SPACE n="2"/><SD t="action" who="Em"><I>Here Em cuts him o{ff}</I>.</SD>
+<TLN n="486"/><S><SP norm="Em"><I>Em</I>.</SP> What meane you {{s}i}r, to keep me here {s}o long?
+<TLN n="487"/>I cannot vnder{{s}t}and you by your {s}ygnes.
+<TLN n="488"/>You keepe a pratling with your lippes,
+<TLN n="489"/>But neuer a word you {s}peake that I can heare.</S>
+<TLN n="490"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> What is {{s}h}ee deafe? a great impediment.
+<TLN n="491"/>Yet remedies there are for {s}uch defe{ct}s.
+<TLN n="492"/>Sweete <I>Em</I>, it is no little griefe to mee,
+<TLN n="493"/>To {s}ee where nature in her pryde of art
+<TLN n="494"/>Hath wrought perfe{ct}ions ritch and admirable.</S>
+<TLN n="495"/><S><SP norm="Em"><I>Em</I>.</SP> Speake you to mee Sir#?</S>
+<TLN n="496"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> To thee my onely ioy.</S>
+<TLN n="497"/><S><SP norm="Em"><I>{*E}m</I>.</SP> I cannot heare you.</S>
+<TLN n="498"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Oh plague of Fortune: Oh hell without compare.
+<TLN n="499"/>What bootes it vs to gaze and not enioy?</S>
+<SIG n="B4v"></SIG><CW><RA><I>Em</I>.</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="17">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="500"/><S><SP norm="Em"><I>Em</I>.</SP> Fare you well Sir.</S><SD t="exit" who="Em"><RA><I>{*E}xit {*E}m. <SPACE n="1"/>Manet {*M}ountney</I>.</RA></SD>
+<TLN n="501"/><S><SP norm="Mountney">M<I>onntney</I>.</SP><!-- upturned "n" --> Fare well my loue. Nay farewell life and all.
+<TLN n="502"/>Could I procure redre{{s}{s}}e for this in{fi}rmitie,
+<TLN n="503"/>It might be meanes {{s}h}ee would regard my {s}ute.
+<TLN n="504"/>I am acquainted with the Kings Phi{{s}i}tions: 
+<TLN n="505"/>Among{{s}t} the which,{#}theres one mine hone{{s}t} friend,
+<TLN n="506"/>Seignior Alberto,{#}a verie learned man.
+<TLN n="507"/>His iudgement will I haue to help this ill.
+<TLN n="508"/>Ah <I>Em</I>, faire <I>{*E}m</I>, if Art can make thee whole: 
+<TLN n="509"/>Ile{#}buy that {s}ence for thee,{#}although it co{{s}t} mee deere.
+<TLN n="510"/>But <I>Mountney</I>#: {{s}t}ay, this may be but deceit,
+<TLN n="511"/><I>A</I> matter fained onely to delude thee.
+<TLN n="512"/><I>A</I>nd not vnlike, perhaps by <I>{*U}alingford</I>,
+<TLN n="513"/>He loues faire <I>Em</I> as well as I.
+<TLN n="514"/><I>A</I>s well as I#<I>?</I> ah no, not halfe {s}o well.
+<TLN n="515"/>Put ca{s}e, yet may he be thine enimie,
+<TLN n="516"/><I>A</I>nd giue her coun{s}ell to di{{s}{s}}emble thus.
+<TLN n="517"/>Ile try the euent,{#}and if it fall out {s}o?
+<TLN n="518"/>Frind{{s}h}ip farewell: Loue makes me now a foe.</S><SD t="exit" who="Mountney"><RA><I>Exit Mountney</I>.</RA></SD>
+</SCENE>
+<SCENE n="6">
+<TLN n="519"/><SD t="entrance" who="Lubeck, Mariana"><RA><I>Enter Marques Lubec{k*}, and Mariana</I>.<SPACE n="3"/></RA>
+<TLN n="520"/><S><SP norm="Mariana"><I>{*M}ariana</I>.</SP> Tru{{s}t} me my Lord, I am {s}orie for your hurt.</S>
+<TLN n="521"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Gramercie Madam#: but it is not great:
+<TLN n="522"/>Onely a thru{{s}t},{#}prickt with a Rapiers point.</S>
+<TLN n="523"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> How grew the quarrel my Lord?</S>
+<TLN n="524"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Sweet Ladie,{#}for thy {s}ake.
+<TLN n="525"/>There was this la{{s}t} night two maskes in one company,
+<TLN n="526"/>My {s}elfe the formo{{s}t}: The other {{s}t}rangers were:
+<TLN n="527"/><I>A</I>mong{{s}t} the which, when the Mu{{s}i}ck began to {s}ound the Mea{s}ures,
+<TLN n="528"/>Eche Masker made choice of his Ladie#:
+<TLN n="529"/><I>A</I>nd one more forward than the re{{s}t} {{s}t}ept towards thee:
+<TLN n="530"/>Which I perceiuing,{#}thru{{s}t} him a{{s}i}de,{#}and tooke thee my {s}elfe.
+<TLN n="531"/>But this was taken in {s}o ill parte,
+<TLN n="532"/>That at my comming out of the court gate,{#}with iu{{s}t}ling togither,
+<TLN n="533"/>It was my chaunce to be thru{{s}t} into the arme.
+<TLN n="534"/>The doer thereof{#}becau{s}e he was the originall cau{s}e of the di{s}order
+<TLN n="535"/><I>A</I>t that inconuenient time,{#}was pre{s}ently committed,
+<SIG n="C1r"><C>C</C></SIG><CW><RA><I>A</I>nd</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="18">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="536"/>And is this morning {s}ent for to aun{s}wer the matter:
+<TLN n="537"/><I>A</I>nd I think here he comes. What Sir <I>Robert</I> of <I>Win</I>d<I>{s}or</I> how now?</S><MARG loc="left"><SD t="entrance" who="William, Jailor"><!-- text trimmed for binding: "Heere" (Q2) --> enters Sir<BR/><!-- text trimmed for binding: "Robe" (Q2) -->rt of<BR/><!-- text trimmed for binding: "Wind" (Q2) -->{s}or with<BR/><!-- text trimmed for binding: "a jai" (Q2) -->lor.</SD></MARG>
+<TLN n="538"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> Yfaith my Lord a pri{s}oner: but what ayles your arme?</S>
+<TLN n="539"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Hurte the la{{s}t} night by mi{s}chaunce.</S>
+<TLN n="540"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> What, not in the maske at the Court gate?</S>
+<TLN n="541"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Yes tru{{s}t} me there.</S>
+<TLN n="542"/><S><SP norm="William (as Robert Windsor)"><I>Sir Rob</I>.</SP> Why then my Lorde I thank you for my nights lodging.</S>
+<TLN n="543"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> <I>A</I>nd I you for my hurt,{#}if it were {s}o<I>?</I>
+<TLN n="544"/>Keeper awaie,{#}I di{s}charge you of your pri{s}oner.</S><SD t="exit" who="Jailor"><RA>E<I>xit the Keeper</I>.</RA></SD>
+<TLN n="545"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> Lord M<I>arques</I>,{#}you o{ff}erd me di{s}grace to {{s}h}oulder me.</S>
+<TLN n="546"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Sir I knew you not,{#}and therefore you mu{{s}t} pardon me 
+<TLN n="547"/><I>A</I>nd the rather it might be alleaged to{#}me of 
+<TLN n="548"/>Meare {{s}i}mpli{{s}i}tie,{#}to {s}ee another daunce with my Mai{{s}t}ris 
+<TLN n="549"/>di{s}guy{s}ed,{#}and I my {s}elfe in pre{s}ence: but {s}eeing it
+<TLN n="550"/>Was our happs to damni{fi}e each other vnwillingly, 
+<TLN n="551"/>Let vs be content with our harmes, 
+<TLN n="552"/><I>A</I>nd laye the fault where it was and {s}o become friendes.</S>
+<TLN n="553"/><S><SP norm="William (as Robert Windsor)"><I>Sir {R*}obert</I>.</SP> Yfaith I am content with my nights lodging
+<TLN n="554"/>If you be content with your hurt.</S>
+<TLN n="555"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Not content that I haue it,{#}but content 
+<TLN n="556"/>To forget how I came by it.</S>
+<TLN n="557"/><S><SP norm="William (as Robert Windsor)"><I>Sir Robert</I>.</SP> My Lord,{#}here comes Ladie <I>{*B}launch</I>, lets away.</S>
+<TLN n="558"/><RA><SD t="entrance" who="Blanch">E<I>nter {*B}launch</I>.<SPACE n="9"/></SD></RA>
+<TLN n="559"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> With good will,{#}Ladie you will {{s}t}aie<I>?</I></S>
+<TLN n="560"/><SD t="exit" who="Lubeck, William"><RA>E<I>xit Lubec{k*} and Sir Robert</I>.<SPACE n="2"/></RA></SD>
+<TLN n="561"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Madam.</S>
+<TLN n="562"/><S><SP norm="Blanch"><I>{*B}launch</I>.</SP> <I>Mariana</I>,{#}as I am grieued with thy pre{s}ence:
+<TLN n="563"/>So am I not o{ff}ended for thy ab{s}ence, 
+<TLN n="564"/><I>{*A}</I>nd were it not a breach to mode{{s}t}ie, 
+<TLN n="565"/>Thou {{s}h}oulde{{s}t} know before I left thee.</S>
+<TLN n="566"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> How neare is this humor to madne{{s}{s}}e 
+<TLN n="567"/>If yon<!-- upturned "u" --> hould on as you begyn, you 
+<TLN n="568"/>are in a pretie waie to {s}coulding.</S>
+<TLN n="569"/><S><SP norm="Blanch">B<I>launch</I>.</SP> To {s}coulding hu{s}wife?</S>
+<TLN n="570"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Maddam here comes one.</S>
+<TLN n="571"/><SD t="entrance" who="Messenger"><RA><I>Here enters one with a letter</I>.<SPACE n="4"/></RA></SD>
+<SIG n="C1v"></SIG><CW><RA><I>{*B}launch</I>.</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="19">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="572"/><S><SP norm="Blanch"><I>Blaunch</I>.</SP> There doth in deed. Fellow woulde{{s}t} thou haue any thing
+<TLN n="573"/>with any bodie here?</S>
+<TLN n="574"/><S><SP norm="Messenger">M<I>e{{s}{s}}enger</I>.</SP> I haue a <PROP desc="a letter">letter</PROP> to deliuer to the Ladie M<I>ariana</I>.</S>
+<TLN n="575"/><S><SP norm="Blanch"><I>Blaunch</I>.</SP> Giue it me.</S>
+<TLN n="576"/><S><SP norm="Messenger">M<I>e{{s}{s}}en</I>.</SP> There mu{{s}t} none but {{s}h}ee haue it.</S>
+<TLN n="577"/><C><SD t="action" who="Blanch">B<I>launch {s}natcheth the <PROP desc="a letter">letter</PROP> from him</I>.</SD> <SD t="exit" who="Messenger">E<I>t exit me{{s}{s}}enger</I>.</SD></C>
+<TLN n="578"/><S><SP norm="Blanch"></SP> Go to fooli{{s}h} fellow.
+<TLN n="579"/><I>A</I>nd therefore to ea{s}e the anger I {s}u{{s}t}aine,
+<TLN n="580"/>Ile be{#}{s}o bolde to open it,{#}whats here?
+<TLN n="581"/><I>S<I>ir <I>{*R}obert</I> greets you well?
+<TLN n="582"/>Your Mai{{s}t}ries, his loue, his life?<SPACE n="1"/> Oh amorous man.
+<TLN n="583"/>How he entertaines his new Mai{{s}t}res?
+<TLN n="584"/><I>A</I>nd be{{s}t}owes on <I>Lubec{k*}</I> his od friend
+<TLN n="585"/><I>A</I> horne night capp to keepe in his witt.</S>
+<TLN n="586"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Maddam though you haue di{s}courteou{{s}l}y
+<TLN n="587"/>Redd my <PROP desc="a letter">letter</PROP>,{#}yet I praye you giue it me.</S>
+<TLN n="588"/><S><SP norm="Blanch"><I>{*B}launch</I>.</SP> Then take it there,{#}and there,{#}and there.</S>
+<TLN n="589"/><RA><SD t="action" who="Blanch"><I>She teares <PROP desc="a letter">it</PROP></I>.</SD><SPACE n="1"/> <SD t="exit" who="Blanch">E<I>t exit</I> B<I>launch</I>.</SD><SPACE n="3"/></RA>
+<TLN n="590"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> How farr doth this di{ff}er from mode{{s}t}ie:
+<TLN n="591"/><I>Y</I>et will I gather vp the peeces,{#}which happelie
+<TLN n="592"/>May {{s}h}ew to me the intent thereof
+<TLN n="593"/>Though not the meaning.</S>
+<TLN n="594"/><C><SD t="action" who="Mariana"><I>She gathers vpp the peeces and ioynes them</I>.</SD></C>
+<TLN n="595"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Your {s}eruant and loue {{s}i}r <I>Robert</I> of <I>Wind{s}or</I>
+<TLN n="596"/><I>{*A}lius William<I> the <I>{*C}onqueror</I>,{#}wi{{s}h}eth long health and happine{{s}{s}}e. 
+<TLN n="597"/>Is this <I>William</I> the <I>{*C}onqueror</I>,{#}{{s}h}rouded vnder
+<TLN n="598"/>The name of {{s}i}r <I>Robert</I> of <I>{W}ind{s}or</I>?
+<TLN n="599"/>Were he the Monarch of the world
+<TLN n="600"/>He {{s}h}ould not di{s}po{s}e{{s}{s}}e <I>Lubec{k*}</I> of his Loue.
+<TLN n="601"/>Therefore I will to the Court,{#}and there if I can
+<TLN n="602"/>Clo{s}e to be friendes with Ladie B<I>launch</I>,
+<TLN n="603"/>And thereby keepe <I>Lubec{k*}<I> my Loue for my {s}elfe:
+<TLN n="604"/>And further the Ladie B<I>launch</I> in her {s}ute as much as I may.</S><RA><SD t="exit" who="Mariana">E<I>xit</I>.</SD></RA>
+</SCENE>
+<SCENE n="7">
+<TLN n="605"/><C><SD t="entrance" who="Em">E<I>nter {*E}m {s}olus</I>.</SD></C>
+<TLN n="606"/><S><SP norm="Em"><I>Em</I>.</SP> Ielo{{s}i}e that {{s}h}arpes the louers {{s}i}ght,
+<TLN n="607"/>And makes him conceiue and con{{s}t}er his intent,
+<SIG n="C2r"><C>C 2</C></SIG><CW><RA>Hath</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="20">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="608"/>Hath {s}o bewitched my louely <I>Manuils</I> {s}ences,
+<TLN n="609"/>That he mi{s}doubts his <I>Em</I> that loues his {s}oule.
+<TLN n="610"/>He doth {s}u{s}pe{ct} corriuals in his loue:
+<TLN n="611"/>Which how vntrue it is, be iudge my God. 
+<TLN n="612"/>But now no more#: Here commeth <I>{*U}alingford</I>:
+<TLN n="613"/>Shift him o{ff} now,{#}as thou ha{{s}t} done the other.</S><SPACE n="1"> <SD t="entrance" who="Valingford"><I>Enter {*U}alingford</I>.</SD>
+<TLN n="614"/><S><SP norm="Valingford"><I>Valingf</I></SP> See how Fortune pre{s}ents me with the hope I lookt for.
+<TLN n="615"/>Faire <I>{*E}m</I>:</S>
+<TLN n="616"/><S><SP norm="Em"><I>Em</I>.</SP> Who is that?</S>
+<TLN n="617"/><S><SP norm="Valingford"><I>{*U}alingf</I>.</SP> I am <I>{*U}alingford</I> thy loue and friend.</S>
+<TLN n="618"/><S><SP norm="Em"><I>{*E}m</I>.</SP> I cry you mercie Sir#: I thought {s}o by your {s}peach.</S>
+<TLN n="619"/><S><SP norm="Valingford"><I>{*U}alingf</I>.</SP> What ayleth thy eyes<I>?</I></S>
+<TLN n="620"/><S><SP norm="Em"><I>Em</I>.</SP> Oh blinde Sir,{#}blinde,{#}{{s}t}riken blind by mi{{s}h}ap on a {s}udden.</S>
+<TLN n="621"/><S><SP norm="Valingford"><I>Valingf</I>.</SP> But is it po{s}sible you {{s}h}ould be taken on {s}uch a {s}uddain?
+<TLN n="622"/>Infortunate <I>Valingford</I> to be thus cro{{s}t} in thy loue.
+<TLN n="623"/>Faire <I>Em</I>,{#}I am not a little {s}orie to {s}ee this thy hard hap: 
+<TLN n="624"/>Yet neuerthele{{s}{s}}e,{#}I am acquainted with a learned Phi{{s}i}tian, 
+<TLN n="625"/>That will do any thing for thee at my reque{{s}t}.
+<TLN n="626"/>To him will I re{s}ort,{#}and enquire his iudgement, 
+<TLN n="627"/>As concerning the recouerie of{#}{s}o excellent a {s}ence.</S>
+<TLN n="628"/><S><SP norm="Em"><I>Em</I>.</SP> O Lord Sir: and of all things I cannot abide Phi{{s}i}cke:
+<TLN n="629"/>The verie name thereof to me is odious.</S>
+<TLN n="630"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> No<I>?</I>{#}not the thing will doe thee {s}o much good?
+<TLN n="631"/>Sweete <I>Em</I>,{#}hether I came to parley of loue
+<TLN n="632"/>Hoping to haue found thee in thy woonted pro{s}peritie. 
+<TLN n="633"/>And haue the gods {s}o vnmercifully thwarted my expe{ct}ation? 
+<TLN n="634"/>By dealing {s}o {{s}i}ni{{s}t}erly with thee {s}weete <I>Em</I>?</S>
+<TLN n="635"/><S><SP norm="Em"><I>Em</I>.</SP> Good {{s}i}r,{#}no more, it {fi}ts not me 
+<TLN n="636"/>To haue re{s}pe{ct} to {s}uch vaine fanta{{s}i}es, 
+<TLN n="637"/>As idle{#}loue pre{s}entes my eares withall, 
+<TLN n="638"/>More rea{s}on I {{s}h}ould gho{{s}t}lie giue my {s}elfe, 
+<TLN n="639"/>To {s}acred prayers for this my former {{s}i}nne, 
+<TLN n="640"/>For which this plague is iu{{s}t}ly fallen vpon me, 
+<TLN n="641"/>Then to harken to the vanities of loue.</S>
+<TLN n="642"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Yet {s}weet <I>{*E}m</I> accept this iewell at my hand 
+<TLN n="643"/>Which I be{{s}t}owe on thee in token of my loue.</S>
+<SIG n="C2v"></SIG><CW><RA><I>{*E}m</I>.</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="21">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="644"/><S><SP norm="Em"><I>Em</I>.</SP> A iewell {{s}i}r,{#}what plea{s}ure can I haue 
+<TLN n="645"/>In iewels,{#}trea{s}ure,{#}or any worldly thing 
+<TLN n="646"/>That want my {{s}i}ght that {{s}h}ould de{s}erne thereof. 
+<TLN n="647"/>Ah{#}{{s}i}r I mu{{s}t} leaue you: 
+<TLN n="648"/>The paine of mine eyes is {s}o extreame 
+<TLN n="649"/>I cannot long {{s}t}aie in a place.{#}I take my leaue.</S><SPACE n="1"/> <SD t="exit" who="Em"><I>Exit Em</I>.</SD>
+<TLN n="650"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Zoundes,{#}what a cro{{s}{s}}e is this to my conceite? 
+<TLN n="651"/>But <I>{*U}alingford</I>,{#}{s}erch the depth of this deui{s}e. 
+<TLN n="652"/>Why may not this be fained {s}ubteltie, 
+<TLN n="653"/>By <I>Mountneies</I> inuention,{#}to the intent
+<TLN n="654"/>That I {s}eeing {s}uch occa{{s}i}on {{s}h}ould leaue o{ff} my {s}ute, 
+<TLN n="655"/>And not any more per{{s}i}{{s}t}e to {s}olicite her of loue. 
+<TLN n="656"/>Ile trie the euent, if I can by any meanes perceaue 
+<TLN n="657"/>The e{ff}e{ct} of this deceyte to be procured by his meanes,
+<TLN n="658"/>Freind <I>Mountney</I> the one of vs is like to repent our bargeine.</S><RA><SD t="exit" who="Valingford"><I>Exit</I>.</SD></RA>
+</SCENE>
+<SCENE n="8">
+<TLN n="659"/><C><SD t="entrance" who="Mariana, Lubeck">E<I>nter</I> M<I>ariana and Marques Lubec{k*}</I>.</SD></C>
+<TLN n="660"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Ladie, {{s}i}nce that occa{{s}i}on forward in our good 
+<TLN n="661"/>Pre{s}enteth place and opportunitie: 
+<TLN n="662"/>Let me intreat your woonted kind con{s}ent 
+<TLN n="663"/>And freindly furtherance in a {s}uite I haue.</S>
+<TLN n="664"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> My Lord you know you neede not to intreat, 
+<TLN n="665"/>But may commaund <I>Mariana</I> to her power 
+<TLN n="666"/>Be it no impeachment to my hone{{s}t} fame.</S>
+<TLN n="667"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Free are my thoughts from {s}uch ba{s}e villanie 
+<TLN n="668"/>As may in que{{s}t}ion Ladie call your name: 
+<TLN n="669"/>Yet is the matter of {s}uch con{s}equence 
+<TLN n="670"/>Standing vpon my honorable credit,
+<TLN n="671"/>To be e{ff}e{ct}ed with {s}uch zeale and {s}ecre{{s}i}e, 
+<TLN n="672"/>As {{s}h}ould I {s}peake and faile my expe{ct}ation 
+<TLN n="673"/>I would redound greatly to my preiudice.</S>
+<TLN n="674"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> My Lord wherein hath M<I>ariana</I> giuen you occa{{s}i}on 
+<TLN n="675"/>That you {{s}h}ould mi{{s}t}ru{{s}t} or el{s}e be ielous of my {s}ecrecie.</S>
+<TLN n="676"/><S><SP norm="Lubeck"><I>Lubec{k*}</I></SP>  M<I>ariana</I>, do not mi{s}con{{s}t}er of me: 
+<TLN n="677"/>I not mi{{s}t}ru{{s}t} thee,{#}nor thy {s}ecre{{s}i}e, 
+<TLN n="678"/>Nor let my loue mi{s}con{{s}t}er my intente,
+<TLN n="679"/>Nor think thereof but well and honorable.
+<SIG n="C3r"><C>C 3</C></SIG><CW><RA>Thus</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="22">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="680"/>Thus {{s}t}ands the ca{s}e: Thou knowe{{s}t} from England 
+<TLN n="681"/>Hether came with me <I>Robert of {W}ind{s}or</I>,{#}a noble man at Armes,
+<TLN n="682"/>Lu{{s}t}ie and valiant,{#}in {s}pring time of his yeares, 
+<TLN n="683"/>No maruell then though he proue amorous.</S>
+<TLN n="684"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> True my Lord,{#}he came to {s}ee faire B<I>lanch</I>.</S>
+<TLN n="685"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> No <I>Mariana</I>,{#}that is non it. 
+<TLN n="686"/>His loue to B<I>lnnch</I> <!-- possibly upturned "u" --> was then extin{ct} 
+<TLN n="687"/>When {fi}r{{s}t} he {s}awe thy face. 
+<TLN n="688"/>Tis thee he loues#: yea,{#}thou art onely {{s}h}ee 
+<TLN n="689"/>That is mai{{s}t}res and commaunder of his thoughts.</S>
+<TLN n="690"/><S><SP norm="Mariana"><I>{*M}ariana</I>.</SP> Well well my Lord,{#}I like you,{#}for {s}uch driftes 
+<TLN n="691"/>Put {{s}i}lly Ladies often to their {{s}h}iftes 
+<TLN n="692"/>Oft haue I heard you {s}aye,{#}you loued me well:
+<TLN n="693"/><I>Y</I>ea, {s}worne the {s}ame, and I beleeued you to. 
+<TLN n="694"/>Can this be found an a{ct}ion of good faith, 
+<TLN n="695"/>Thus to di{{s}{s}}emble where you found true loue?</S>
+<TLN n="696"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> <I>Mariana</I>,{#}I not di{{s}{s}}emble on mine honour: 
+<TLN n="697"/>Nor failes my faith to thee. But for my friend, 
+<TLN n="698"/>For princely William, by whom thou {{s}h}alt po{{s}{s}}e{{s}{s}}e 
+<TLN n="699"/>The tytle of e{{s}t}ate and Maie{{s}t}ie, 
+<TLN n="700"/>Fitting thy loue and vertues of thy minde, 
+<TLN n="701"/>For him I {s}peake,{#}for him do I intreat, 
+<TLN n="702"/>And with thy fauour fully do re{{s}i}gne 
+<TLN n="703"/>To him the claime and intere{{s}t} of my loue. 
+<TLN n="704"/>Sweete <I>Mariana</I> then denie mee not, 
+<TLN n="705"/>Loue William,{#}loue my friend and honour mee 
+<TLN n="706"/>Who els is cleane di{{s}h}onored by thy meanes.</S>
+<TLN n="707"/><S><SP norm="Mariana"><I>{*M}ariana</I></SP> Borne to mi{{s}h}ap,{#}my {s}elfe am onely {{s}h}ee, 
+<TLN n="708"/>On whome the Sunne of Fortune neuer {{s}h}yned: 
+<TLN n="709"/>But Planets rulde by retrogard a{s}pe{ct}, 
+<TLN n="710"/>Foretolde mine yll in my natiuitie.</S>
+<TLN n="711"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Sweete{#}Ladie {s}eace,{#}let my intreatie {s}erue 
+<TLN n="712"/>To paci{fi}e the pa{s}sion of thy griefe, 
+<TLN n="713"/>Which well I know proceedes of ardent loue.</S>
+<TLN n="714"/><S><SP norm="Mariana"><I>{*M}ariana</I>.</SP> But L<I>ubec{k*}</I> now regardes not M<I>ariana</I>:</S>
+<TLN n="715"/><S><SP norm="Lubeck">L<I>ubec{k*}</I>.</SP> Euen as my life, {s}o loue I M<I>ariana</I>.</S>
+<SIG n="C3v"></SIG><CW><RA>M<I>ariana</I>.</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="23">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="716"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Why do you po{{s}t}e mee to another then<I>?</I></S>
+<TLN n="717"/><S><SP norm="Lubeck">L<I>ubec{k*}</I>.</SP> He is my friend, and I do loue the man.</S>
+<TLN n="718"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Then will <I>Du{k*}e {W}illiam</I> robb me of my Loue<I>?</I></S>
+<TLN n="719"/><S><SP norm="Lubeck">L<I>ubec{k*}</I>.</SP> No as his life M<I>ariana</I> he doth loue.</S>
+<TLN n="720"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Speake for your{s}elfe my Lord let him alone.</S>
+<TLN n="721"/><S><SP norm="Lubeck">L<I>ubec{k*}</I>.</SP> So do I Madam,{#}for he and I am one.</S>
+<TLN n="722"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Then louing you I do content you both.</S>
+<TLN n="723"/><S><SP norm="Lubeck">L<I>ubec{k*}</I>.</SP> In louing him you {{s}h}all content vs both. 
+<TLN n="724"/>Me,{#}for I craue that fauour at your handes: 
+<TLN n="725"/>He for hopes that comfort at your hands.</S>
+<TLN n="726"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Leaue of my Lord,{#}here comes the Ladie B<I>launch</I>.</S>
+<TLN n="727"/><RA><SD t="entrance" who="Blanch"><I>Enter</I> B<I>launch to them</I>.</SD><SPACE n="8"></RA>
+<TLN n="728"/><S><SP norm="Lubeck">L<I>uBec{k*}</I>.</SP> Hard hap to breake vs of our talke {s}o {s}oone, 
+<TLN n="729"/>Sweet M<I>ariana</I> doe remember me.</S><SPACE n="5"/><SD t="exit" who="Lubeck"><I>Exit</I> L<I>ubec{k*}</I>.</SD>
+<TLN n="730"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Thy M<I>ariana</I> cannot chu{s}e but remember thee.</S>
+<TLN n="731"/><S><SP norm="Blanch">B<I>launch</I>.</SP>{#}M<I>ariana</I> well met,{#}you are verie forward in your Loue?</S>
+<TLN n="732"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> Madam be it in {s}ecret {s}poken to your {s}elfe, 
+<TLN n="733"/>If you wil but follow the complot I haue inuented
+<TLN n="734"/>you will not think me {s}o forward
+<TLN n="735"/>As your {s}elfe {{s}h}all proue fortunate.</S>
+<TLN n="736"/><S><SP norm="Blanch">B<I>launch</I>.</SP> As how<I>?</I></S>
+<TLN n="737"/><S><SP norm="Mariana"><I>Mariana</I>.</SP> Madam as thus: It is not vnknowen to you
+<TLN n="738"/>That <I>Sir {R*}obert</I> of W<I>ind{s}or</I>,
+<TLN n="739"/>A man that you do not little e{{s}t}eeme, 
+<TLN n="740"/>Hath long importuned me of Loue: 
+<TLN n="741"/>But rather then I will be found fal{s}e 
+<TLN n="742"/>Or vniu{{s}t} to the M<I>arques</I> L<I>ubec{k*}</I>,
+<TLN n="743"/>I will as did the con{{s}t}ant ladie <I>Penelope</I> 
+<TLN n="744"/>Vndertake to e{ff}e{ct} {s}ome great taske.</S>
+<TLN n="745"/><S><SP norm="Blanch">B<I>launch</I>.</SP> What of all this?</S>
+<TLN n="746"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> The next tyme that <I>Sir Robert</I> {{s}h}all come 
+<TLN n="747"/>In his woonted {s}ort to {s}olicit me with Loue, 
+<TLN n="748"/>I will {s}eeme to agree and like of any thing 
+<TLN n="749"/>That the Knight {{s}h}al demaund, {s}o far foorth 
+<TLN n="750"/>As it be no impeachment to my cha{{s}t}itie: 
+<TLN n="751"/>And to conclude, poynt {s}ome place for to meete the man,
+<SIG n="C4r"><C></C></SIG><CW><RA>For</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="24">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="752"/>For my conueiance from the <I>Denmar{k*}e</I> Court:
+<TLN n="753"/>Which determined vpon,{#}he will appoynt {s}ome certaine time 
+<TLN n="754"/>For our departure: whereof you hauing intelligence, 
+<TLN n="755"/>You may {s}oone {s}et downe a plot to were the Engli{{s}h} Crowne. 
+<TLN n="756"/>And than?</S>
+<TLN n="757"/><S><SP norm="Blanch"><I>Blanch</I>.</SP> What then<I>?</I></S>
+<TLN n="758"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> If{#}Sir <I>Robert</I> proue a King and you his Queene
+<TLN n="759"/>How than?</S>
+<TLN n="760"/><S><SP norm="Blanch"><I>{*B}lanch</I>.</SP> Were I a{{s}{s}}ured of the one, as I am per{s}waded 
+<TLN n="761"/>Of the other, there were {s}ome po{s}sibilitie in it. 
+<TLN n="762"/>But here comes the man.</S>
+<TLN n="763"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Madam begon and you {{s}h}all {s}ee 
+<TLN n="764"/>I will worke to your de{{s}i}re and my content.</S> <SPACE n="3"/><SD t="exit" who="Blanch"><I>{*E}xit Blanch</I>.</SD>
+<TLN n="765"/><S><SP norm="William"><I>William</I>. <I>{*C}on</I>.</SP> Ladie this is well and happelie met, 
+<TLN n="766"/>Fortune hetherto hath beene my foe, 
+<TLN n="767"/>And though I haue oft {s}ought to {s}peake with you, 
+<TLN n="768"/><I>Y</I>et {{s}t}ill I haue beene cro{{s}t} with {{s}i}ni{{s}t}er happs. 
+<TLN n="769"/>I cannot Madame tell a louing tale 
+<TLN n="770"/>Or court my Mai{{s}t}res with fabulous di{s}cour{{s}i}es, 
+<TLN n="771"/>That am a {s}ouldier {s}worne to followe armes: 
+<TLN n="772"/>But this I bluntly let you vnder{{s}t}and, 
+<TLN n="773"/>I honor you with {s}uch religious Zeale 
+<TLN n="774"/>As may become an honorable minde. 
+<TLN n="775"/>Nor may {#}I make my loue the {s}eege of Troye 
+<TLN n="776"/>That am a {{s}t}raunger in this Countrie.
+<TLN n="777"/>Fir{{s}t} what I am, I know you are re{s}olued, 
+<TLN n="778"/>For that my friend hath let you that to vnder{{s}t}and, 
+<TLN n="779"/>The <I>Marques Lubec{k*}</I> to whome I am {s}o bound, 
+<TLN n="780"/>That while{{s}t} I liue I count me onely<!-- "l" is upside-down --> his.</S>
+<TLN n="781"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Surely you are beholding to the M<I>arques</I>, 
+<TLN n="782"/>For he hath beene an earne{{s}t} {s}pokes-man in your cau{s}e.</S>
+<TLN n="783"/><S><SP norm="William"><I>William</I>.</SP> And yealdes my Ladie then at his reque{{s}t}. 
+<TLN n="784"/>To grace Duke <I>{W}illiam</I> with her gratious loue?</S>
+<TLN n="785"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> My Lord I am a pri{s}oner,{#}and hard it were 
+<TLN n="786"/>To get me from the Courte.</S>
+<TLN n="787"/><S><SP norm="William"><I>{W}illiam</I>.</SP> An ea{{s}i}e matter to get you from the Court,
+<SIG n="C4v"></SIG><CW><RA>If</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="25">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="788"/>If ca{s}e that you will thereto giue con{s}ent.</S>
+<TLN n="789"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> Put ca{s}e I {{s}h}ould, how would you v{s}e me than?</S>
+<TLN n="790"/><S><SP norm="William"><I>William</I>.</SP> Not otherwi{s}e but well and honorably. 
+<TLN n="791"/>I haue at Sea a {{s}h}ipp that doth attend, 
+<TLN n="792"/>Which{#}{{s}h}all foorthwith condu{ct}e vs into England 
+<TLN n="793"/>Where when we are, I {{s}t}raight will marrie thee. 
+<TLN n="794"/>We may not {{s}t}ay deliberating long 
+<TLN n="795"/>Lea{{s}t} that {s}u{s}pition, enuious of our weale 
+<TLN n="796"/>Set in a foote to hinder our pretence.</S>
+<TLN n="797"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> But this I think were mo{{s}t} conuenient 
+<TLN n="798"/>To maske my face the better to {s}cape vnknowen.</S>
+<TLN n="799"/><S><SP norm="William"><I>{W}illiam</I>.</SP> A good deui{s}e:{#}till then, Farwell faire loue.</S>
+<TLN n="800"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> But this I mu{{s}t} intreat your grace, 
+<TLN n="801"/><I>Y</I>ou would not {s}eeke by lu{{s}t} vnlawfully 
+<TLN n="802"/>To wrong my cha{{s}t} determinations.</S>
+<TLN n="803"/><S><SP norm="William"><I>{W}illiam</I>.</SP> I hold that man mo{{s}t} {{s}h}ameles in his {{s}i}nne 
+<TLN n="804"/>That {s}eekes to wrong an hone{{s}t} Ladies name 
+<TLN n="805"/>Whome he thinkes worthie of his mariage bed.</S>
+<TLN n="806"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> In hope your othe is true, 
+<TLN n="807"/>I leaue your grace till the appoynted tyme.</S>
+<TLN n="808"/><RA><SD t="exit" who="Mariana"><I>Exit Mariana</I>.</SD><SPACE n="7"/></RA>
+<TLN n="809"/><S><SP norm="William">W<I>illiam</I>.</SP> O happie W<I>illiam</I>,{#}ble{{s}{s}}ed in thy loue:
+<TLN n="810"/>Mo{{s}t} fortunate in <I>Marianaes</I> loue, 
+<TLN n="811"/>Well <I>Lubec{k*}</I> well,{#}this courte{{s}i}e of thine 
+<TLN n="812"/>I will requite if God permit me life.</S><SPACE n="8"/><SD t="exit" who="William"><I>{*E}xit</I>.</SD>
+</SCENE>
+<SCENE n="9">
+<TLN n="813"/><SD t="entrance" who="Valingford, Mountney"><C><I>{*E}nter Valingford and</I> M<I>ountney at two {s}undrie dores</I>, <I>looking</I></C>
+<TLN n="814"/><C><I>angerly each on other with <PROP desc="rapiers">Rapiers</PROP> drauen</I>.</C></SD>
+<TLN n="815"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> <I>{*U}alingford</I>,{#}{s}o hardlie I di{s}ge{{s}t} an iniurie 
+<TLN n="816"/>Thou ha{{s}t} profered me, as were not that I dete{{s}t} to doe what {{s}t}ands 
+<TLN n="817"/>Not with the honor of my name, 
+<TLN n="818"/>Thy death {{s}h}ould paie thy ran{s}ome of thy fault.</S>
+<TLN n="819"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> And <I>Mountney</I>,{#}had not my reuenging wrath 
+<TLN n="820"/>Incen{{s}t} with more than ordinarie loue 
+<TLN n="821"/>beene {s}uch for to depriue thee of thy life, 
+<TLN n="822"/>Thou had{{s}t} not liude to braue me as thou doe{{s}t} wretch as thou arte, 
+<TLN n="823"/>wherein hath <I>{*U}alingford</I> o{ff}ended thee?
+<SIG n="D1r"><C>D</C></SIG><CW><RA>That</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="26">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="824"/>That honourable bond which late we did con{fi}rme 
+<TLN n="825"/>In pre{s}ence of the Gods, 
+<TLN n="826"/>When with the Conqueror we arriued here 
+<TLN n="827"/>For my part hath beene kept inuiolably
+<TLN n="828"/>Till now too much abu{s}ed by thy villanie, 
+<TLN n="829"/>I am inforced to cancell all tho{s}e bands, 
+<TLN n="830"/>By hating him which I {s}o well did loue.</S>
+<TLN n="831"/><S><SP norm="Mountney">M<I>ountney</I>.</SP> Subtil thou art,{#}and cunning in thy frawd, 
+<TLN n="832"/>That giuing me occa{{s}i}on of o{ff}ence, 
+<TLN n="833"/>Thou pick{{s}t} a quarrell to excu{s}e thy {{s}h}ame. 
+<TLN n="834"/>Why <I>{*U}alingford</I>, was it not enough for thee 
+<TLN n="835"/>To be a{#}ryuall twixt me and my loue,
+<TLN n="836"/>But coun{s}ell her to my no {s}mall di{s}grace,
+<TLN n="837"/>That when I came to talke with her of loue, 
+<TLN n="838"/>Shee {{s}h}ould {s}eeme deafe, as fayning not to heare.</S>
+<TLN n="839"/><S><SP norm="Valingford">V<I>alingford</I>.</SP> But hath {{s}h}ee M<I>ountney</I> v{s}ed thee as thou {s}aye{{s}t}?</S>
+<TLN n="840"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Thou knowe{{s}t} too well {{s}h}ee hath: 
+<TLN n="841"/>Wherein thou coulde{{s}t} not do me greater iniurie.</S>
+<TLN n="842"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> Then I perceiue we are deluded both. 
+<TLN n="843"/>For when I o{ff}ered many gifts of Gold and Iewels 
+<TLN n="844"/>To entreat for loue, {{s}h}ee hath refu{s}ed them with a coy di{s}daine, 
+<TLN n="845"/>Alledging that {{s}h}ee could not {s}ee the Sunne. 
+<TLN n="846"/>The {s}ame conie{ct}ured I to be thy drift,
+<TLN n="847"/>That fayning {s}o {{s}h}ee might be ridd of mee.</S>
+<TLN n="848"/><S><SP norm="Mountney">M<I>ountney</I>.</SP> The like did I by thee. But are not the{s}e naturall impe{-}<HW t="next">(diments?</HW></S>
+<TLN n="849"/><S><SP norm="Valingford"><I>{*U}alidgford</I>.</SP> In my conie{ct}ure merely counterfeit: 
+<TLN n="850"/>Therefore lets ioyne hands in frind{{s}h}ip once againe, 
+<TLN n="851"/><I>S</I>ince that the iarre grewe only by conie{ct}ure.</S>
+<TLN n="852"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> With all my heart#: Yet lets trye the truth hereof.</S>
+<TLN n="853"/><S><SP norm="Valingford"><I>{*U}alingf</I>.</SP> With right good will. We wil {{s}t}raight vnto her father, 
+<TLN n="854"/>And there to learne whither it be {s}o or no.</S> <SPACE n="4"/><SD t="exit" who="Mountney, Valingford"><I>Exeunt</I>.</SD> 
+</SCENE>
+<L/>
+<SCENE n="10">
+<TLN n="855"/><SD t="entrance" who="William, Blanch"><C><I>Enter {W}illiam and Blanch di{s}gui{s}ed</I>,{#}<I>with a <PROP desc="a mask">mas{k*}e</I></C>
+<TLN n="856"/><C><I>ouer her face</I>.</C></SD>
+<TLN n="857"/><S><SP norm="William">W<I>illiam</I>.</SP> Come on my loue, the comfort of my life: 
+<TLN n="858"/>Di{s}gui{s}ed thus we may remaine vnknowen.
+<SIG n="D1v"></SIG><CW><RA><I>A</I>nd</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="27">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="859"/>And get we once to Seas,{#}I force not then, 
+<TLN n="860"/>We quickly {{s}h}all attaine the Engli{{s}h} {{s}h}ore.</S>
+<TLN n="861"/><S><SP norm="Blanch"><I>{*B}launch</I>.</SP> But this I vrge you with your former oath. 
+<TLN n="862"/>You {{s}h}all not {s}eeke to violate mine honour, 
+<TLN n="863"/>Vntill our marriage rights be all performed.</S>
+<TLN n="864"/><S><SP norm="William"><I>{W}illiam</I>.</SP> M<I>ariana</I>, here I {s}weare to thee by heauen, 
+<TLN n="865"/>And by the honour that I beare to Armes, 
+<TLN n="866"/>Neuer to {s}eeke or craue at hands of thee, 
+<TLN n="867"/>The {s}poyle of honourable cha{{s}t}itie 
+<TLN n="868"/>Vntill we do attaine the Engli{{s}h} coa{{s}t}, 
+<TLN n="869"/>Where thou {{s}h}alt be my right e{s}pou{s}ed Queene.</S>
+<TLN n="870"/><S><SP norm="Blanch">B<I>lanch</I>.</SP> In hope your oath proceedeth from your heart, 
+<TLN n="871"/>Lets leaue the Court,{#}and betake vs to his power 
+<TLN n="872"/>That gouernes all things to his mightie will, 
+<TLN n="873"/>And will reward the iu{{s}t} with endle{{s}{s}}e ioye,
+<TLN n="874"/>And plague the bad with mo{{s}t} extreame annoy.</S>
+<TLN n="875"/><S><SP norm="William">W<I>illiam</I>.</SP> Lady, as little tarriance as wee{#}may, 
+<TLN n="876"/>Le{{s}t} {s}ome mi{s}fortune happen by the way.</S>
+<TLN n="877"/><RA><SD t="exit" who="Blanch, William"><I>Exit</I> B<I>lanch &</I> W<I>illiam</I>.</SD><SPACE n="4"/></RA>
+</SCENE>
+<SCENE n="11">
+<TLN n="878"/><C><SD t="entrance" who="Miller, Trotter, Manvile"><I>Enter the Miller</I>, <I>his man {*T}rotter</I>, <I>& Manuile</I>.</SD></C>
+<TLN n="879"/><S><SP norm="Miller"><I>{*M}iller</I>.</SP> I tell you {{s}i}r,{#}it is no little greefe to mee, 
+<TLN n="880"/>You {{s}h}ould {s}o hardly con{s}eit of my daughter, 
+<TLN n="881"/>Who{s}e hone{{s}t} report, though I {s}aie it, 
+<TLN n="882"/>Was neuer blotted with any title of defamation.</S>
+<TLN n="883"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Father M<I>iller</I>, the repaire of tho{s}e gentlemen to your <HW t="next">(hou{s}e,</HW>
+<TLN n="884"/>Hath giuen me great occa{{s}i}on to mi{{s}l}ike.</S>
+<TLN n="885"/><S><SP norm="Miller">M<I>iller</I>.</SP> <I>A</I>s for tho{s}e gentlemen,{#}I neuer {s}aw in them 
+<TLN n="886"/>Any euill intreatie. But {{s}h}ould they haue profered it? 
+<TLN n="887"/>Her cha{{s}t}e minde hath proofe enough to preuent it.</S>
+<TLN n="888"/><S><SP norm="Trotter"><I>{*T}rotter</I>.</SP> Tho{s}e gentlemen are as hone{{s}t} as euer I {s}awe: 
+<TLN n="889"/>For yfaith one of them gaue me {{s}i}xe pence 
+<TLN n="890"/>To fetch a quart of <I>S</I>eck. See mai{{s}t}er here they come.</S>
+<TLN n="891"/><C><SD t="entrance" who="Mountney, Valingford"><I>{*E}nter</I> M<I>ountney and {*U}alingford</I>.</SD></C>
+<TLN n="892"/><S><SP norm="Miller"><I>Miller</I>.</SP> <I>{*T}rotter</I>, call <I>{*E}m</I>, now they are here together, 
+<TLN n="893"/>Ile haue this matter throughly debated.</S><RA><SD t="exit" who="Trotter">E<I>xit {*T}rotter</I>.</SD><SPACE n="3"/></RA>
+<TLN n="894"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> <I>F</I>ather,{#}well met. We are come to conferre with you.</S>
+<SIG n="D2r"><C>D 2</C></SIG><CW><RA><I>Manuile</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="28">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="895"/><S><SP norm="Manvile"><I>{*M}anuile</I>.</SP> Nay? with his daughter rather.</S>
+<TLN n="896"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> Thus it is father, we are come to craue your frind{{s}h}ip <HW t="next">(in a matter.</HW></S>
+<TLN n="897"/><S><SP norm="Miller">M<I>iller</I>.</SP> Gentlemen as you are {{s}t}raungers to me, 
+<TLN n="898"/>Yet by the waie of courte{{s}i}e you {{s}h}all demaund 
+<TLN n="899"/><I>A</I>ny rea{s}onable thing at my hands.</S>
+<TLN n="900"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> What is the matter {s}o forward<I>?</I> 
+<TLN n="901"/>They came to craue his good will.</S>
+<TLN n="902"/><S><SP norm="Valingford"><I>{*U}alinford</I>.</SP> It is giuen vs to vnder{{s}t}and that your daughter 
+<TLN n="903"/>Is {s}odenly become both blind and deafe.</S>
+<TLN n="904"/><S><SP norm="Miller"><I>{*M}iller</I>.</SP> Marie God forbid, I haue {s}ent for her, in deed
+<TLN n="905"/>She hath kept her chamber this three daies. 
+<TLN n="906"/>It were no litle griefe to me if it {{s}h}ould be {s}o<I>?</I></S>
+<TLN n="907"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> This is Gods iudgement for her trecherie.</S>
+<TLN n="908"/><C><SD t="entrance" who="Trotter, Em"><I>{*E}nter Trotter leading {*E}m</I>.</SD></C> 
+<TLN n="909"/><S><SP norm="Miller"><I>Miller</I>.</SP> Gentlemen I feare your wordes are two true: 
+<TLN n="910"/><I>S</I>ee where Trotter comes leading of her. 
+<TLN n="911"/>What ayles my Em,{#}not blind I hope<I>?</I></S>
+<TLN n="912"/><S><SP norm="Em"><I><SC>E</SC>m</I>.</SP> M<I>ountney</I> and <I>{*U}alidgford</I> both together? 
+<TLN n="913"/>And M<I>anuile</I> to whom I haue faithfullie vowed my loue? 
+<TLN n="914"/>Now Em {s}uddenly helpe thy {s}elfe.</S>
+<TLN n="915"/><S><SP norm="Mountney">M<I>ountney</I>.</SP> This is no de{s}embling <I>{*U}alingford</I>.</S>
+<TLN n="916"/><S><SP norm="Valingford">V<I>alingford</I>.</SP> If ir<!-- foul type, doesn't look like a broken "t" --> be#? it is cunningly contriued of all {{s}i}des.</S>
+<TLN n="917"/><S><SP norm="Em"><I>Em</I>.</SP> <I>{*T}rotter</I> lend me thy hand, 
+<TLN n="918"/>And as thou loue{{s}t} me keepe my coun{s}ell 
+<TLN n="919"/><I>A</I>nd iu{{s}t}i{fi}e what {s}o euer I {s}aie, and Ile largely requite thee.</S>
+<TLN n="920"/><S><SP norm="Trotter"><I>{*T}rotter</I>.</SP> Ah, thats as much as to {s}aie you would tell a mon{{s}t}rous,
+<TLN n="921"/>Terrible,{#}horrible, outragious lie, 
+<TLN n="922"/><I>A</I>nd I {{s}h}all {s}ooth it, no berladie.</S>
+<TLN n="923"/><S><SP norm="Em"><I>{*E}m</I>.</SP> My pre{s}ent extremitie wills me,{#}if thou loue me <I>{*T}rotter?</I></S>
+<TLN n="924"/><S><SP norm="Trotter"><I>{*T}rotter</I>.</SP> That {s}ame word loue makes me to doe any thing.</S>
+<TLN n="925"/><S><SP norm="Em"><I>{*E}m</I>.</SP> <I><{*T}rotter</I> wheres my father?</S>
+<TLN n="926"/><C><SD t="action" who="Trotter, Em, Miller"><I>He thru{{s}t}#s Em vpon her father</I>.</SD></C>
+<TLN n="927"/><S><SP norm="Trotter"><I>{*T}rotter</I>.</SP> Why what a blynd dunce are you, can you not {s}ee? 
+<TLN n="928"/>He {{s}t}andeth right before you.</S>
+<TLN n="929"/><S><SP norm="Em"><I>{*E}m</I>.</SP> Is this my father<I>?</I> 
+<TLN n="930"/>Good father giue me leaue to {{s}i}t
+<SIG n="D2v"></SIG><CW><RA>Where</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="29">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="931"/>Where I may not be di{{s}t}urbed 
+<TLN n="932"/><I>S</I>ith God hath vi{{s}i}ted me both of my {{s}i}ght and hearing.</S>
+<TLN n="933"/><S><SP norm="Miller">M<I>iller</I>.</SP> Tell me {s}weete <I>{*E}m</I> how came this blindnes. 
+<TLN n="934"/>Thy eyes are louely to looke on, 
+<TLN n="935"/>And yet haue they lo{{s}t} the bene{fi}t of their {{s}i}ght. 
+<TLN n="936"/>What a griefe is this to thy poore father?</S>
+<TLN n="937"/><S><SP norm="Em"><I>{*E}m</I>.</SP> Good father let me not {{s}t}and as an open gazing {{s}t}ock to <HW t="next">(#euerie one,</HW>
+<TLN n="938"/>But in a place a#lone as {fi}ts a creature {s}o mi{s}erable.</S>
+<TLN n="939"/><S><SP norm="Miller"><I>Miller</I>.</SP> <I>{*T}rotter</I> lead her in,{#}the vtter ouerthrowe 
+<TLN n="940"/>Of poore <I>{*G}oddardes</I> ioy and onely {s}olace.</S>
+<TLN n="941"/><C><SD t="exit" who="Miller, Trotter, Em">E<I>xit the</I> M<I>iller</I>, <I>{*T}rotter and</I> E<I>m</I>.</SD></C> 
+<TLN n="942"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Both blind and deafe,{#}then is {{s}h}e no wife for me? 
+<TLN n="943"/>And glad am I {s}o good occa{{s}i}on is hapned: 
+<TLN n="944"/>Now will I awaie to M<I>anche{{s}t}er</I>
+<TLN n="945"/>And leaue the{s}e gentlemen to their blind fortune.</S><RA><SD t="exit" who="Manvile"><I>Exit</I> M<I>anuile</I></SD></RA>
+<TLN n="946"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> Since fortune hath thus {s}pitefully cro{{s}t} our hope, 
+<TLN n="947"/>Let vs leaue this gue{{s}t} and harken after our King: 
+<TLN n="948"/>Who is at this daie landed at <I>Lirpoole</I>.</S><RA><SD t="exit" who="Mountney"><I>Exit</I> M<I>ountney</I>.</SD><SPACE n="1"/></RA>
+<TLN n="949"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Goe my Lord Ile follow you. 
+<TLN n="950"/>{W}ell,{#}now M<I>ountney</I> is gone 
+<TLN n="951"/>Ile {{s}t}aie behind to {s}olicit my loue, 
+<TLN n="952"/>For I imagine that I {{s}h}all {fi}nd this but a fained inuention 
+<TLN n="953"/>Thereby to haue vs leaue o{ff} our {s}utes.</S> <!-- Exit Valingford -->
+</SCENE>
+<SCENE n="12">
+<TLN n="954"/><SD t="entrance" who="Lubeck, Zweno, Attendants, Rosilio"><C><I>Enter</I> M<I>arques</I> L<I>ubec{k*} and the King of Denmar{k*}</I></C>
+<TLN n="955"/><C><I>angerly with {s}ome attendants</I>.</C></SD>
+<TLN n="956"/><S><SP norm="Zweno"><I>Zweno</I>. <I>K</I>.</SP> {W}ell <I>Lubec{k*} well,{#}it is not po{s}sible 
+<TLN n="957"/>But you mu{{s}t} be concenting to this a{ct}e? 
+<TLN n="958"/>Is this the man {s}o highly you extold? 
+<TLN n="959"/>And playe a parte {s}o hatefull with his friend<I>?</I> 
+<TLN n="960"/>Since {fi}r{{s}t} he came with thee into the court 
+<TLN n="961"/>What entertainement and what countenance 
+<TLN n="962"/>He hath receiued, none better knowes than thou. 
+<TLN n="963"/>In recompence whereof he quites me well, 
+<TLN n="964"/>To {{s}t}eale awaie faire M<I>ariana</I> my pri{s}oner, 
+<TLN n="965"/>Who{s}e raun{s}ome being lately greed vpon, 
+<TLN n="966"/>I am deluded of by this e{s}cape.
+<SIG n="D3r"><C>D 3</C></SIG><CW><RA>Be{{s}i}des</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="30">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="967"/>Be{{s}i}des, I know not how to an{s}were it 
+<TLN n="968"/>When {{s}h}ee {{s}h}al be demaunded home to Swethia.</S>
+<TLN n="969"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> My gracious Lord,{#}conie{ct}ure not I pray 
+<TLN n="970"/>Wor{s}er of Lubeck than he doth de{s}erue 
+<TLN n="971"/><I>Y</I>our highnes knowes M<I>ariana</I> was my loue,
+<TLN n="972"/>Sole paragon and mi{{s}t}res of my thoughts. 
+<TLN n="973"/>Is it likely I {{s}h}ould know of her departure, 
+<TLN n="974"/>Wherein there is no man iniured more than I.</S>
+<TLN n="975"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> That carries rea{s}on <I>Marques</I> I confe{{s}{s}}e. 
+<TLN n="976"/>Call foorth my daughter. Yet I am per{s}waded 
+<TLN n="977"/>That {{s}h}ee poore {s}oule {s}u{s}pe{ct}ed not her going: 
+<TLN n="978"/>For as I heare#: {{s}h}ee likewi{s}e loued the man, 
+<TLN n="979"/>Which he to blame did not at all regard.</S>
+<TLN n="980"/><S><SP norm="Rosilio"><I>Rocilia</I>.</SP> My Lord here is the Prince{{s}{s}}e M<I>ariana</I>: 
+<TLN n="981"/>It is your daughter is conueyed away.</S>
+<TLN n="982"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> What,{#}my daughter gone<I>?</I> 
+<TLN n="983"/>Now Marques your villanie breakes foorth. 
+<TLN n="984"/>This match is of your making,{#}gentle {{s}i}r#: 
+<TLN n="985"/>And you {{s}h}all dearly know the price thereof.</S>
+<TLN n="986"/><S><SP norm="Lubeck"><I>Lubec{k*}</I>.</SP> Knew I thereof,{#}or that there was intent 
+<TLN n="987"/>In Robert thus to {{s}t}eale your highnes daughter#: 
+<TLN n="988"/>Let heauens in Iu{{s}t}ice pre{s}ently confound me.</S>
+<TLN n="989"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Not all the prote{{s}t}ations thou can{{s}t} v{s}e, 
+<TLN n="990"/>Shall {s}aue thy life. Away with him to pri{s}on. 
+<TLN n="991"/>And minion,{#}otherwi{s}e it cannot be, 
+<TLN n="992"/>But you are an agent in this trecherie. 
+<TLN n="993"/>I will reuenge it throughly on you both. 
+<TLN n="994"/>Away with her to pri{s}on. Heres {{s}t}u{ff}e in deede<I>?</I> 
+<TLN n="995"/>My daughter {{s}t}olen away? 
+<TLN n="996"/>It booteth not thus to di{{s}t}urbe my {s}elfe, 
+<TLN n="997"/>But pre{s}ently to {s}end to Engli{{s}h} William, 
+<TLN n="998"/>To {s}end me that proud knight of Wind{s}or hither, 
+<TLN n="999"/>Here in my Court to {s}u{ff}er for his {{s}h}ame: 
+<TLN n="1000"/>Or at my plea{s}ure to be puni{{s}h}ed there,
+<TLN n="1001"/>Withall, that <I>{*B}lanch</I> be {s}ent me home againe, 
+<TLN n="1002"/>Or I {{s}h}all fetch her vnto W<I>ind{s}ors</I> co{{s}t}e,
+<SIG n="D3v"></SIG><CW><RA>Yea</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="31">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1003"/>Yea,{#}and <I>{W}illiams</I> too if he denie her mee?</S><SPACE n="3"/><SD t="exit" who="Zweno"><I>{*E}xit Zweno</I>.</SD>
+</SCENE>
+<SCENE n="13">
+<TLN n="1004"/><C><SD t="entrance" who="William, Soldiers"><I>Enter {W}illiam ta{k*}en with {s}ouldiers</I>.</SD></C>
+<TLN n="1005"/><S><SP norm="William">W<I>illiam</I>.</SP> Could any cro{{s}{s}}e,{#}could any plague be wor{s}e?
+<TLN n="1006"/>Could heauen or hell? Did both con{s}pire in one 
+<TLN n="1007"/>To a{ff}li{ct} my {s}oule,{#}inuent a greater {s}courge 
+<TLN n="1008"/>Then pre{s}ently I am tormented with? 
+<TLN n="1009"/>Ah M<I>ariana</I> cau{s}e of my lament:
+<TLN n="1010"/>Ioy of my hart, and comfort of my life. 
+<TLN n="1011"/>For thee I breath my {s}orrowes in the ayre, 
+<TLN n="1012"/><I>A</I>nd tyre my {s}elfe#: for {{s}i}lently I {{s}i}gh, 
+<TLN n="1013"/>My {s}orrowes a{ff}li{ct}es me {s}oule with equall pa{s}sion.</S>
+<TLN n="1014"/><S><SP norm="Soldier"><I>Souldier</I>.</SP> Go to {{s}i}rha,{#}put vp,{#}it is to {s}mall purpo{s}e.</S>
+<TLN n="1015"/><S><SP norm="William"><I>{W}illiam</I>.</SP> Hence villaines hence, dare you lay your hands 
+<TLN n="1016"/>Vpon your Soueraigne<I>?</I></S>
+<TLN n="1017"/><S><SP norm="Soldier"><I>Souldier</I>.</SP> Well {{s}i}r, we will deale for that. 
+<TLN n="1018"/>But here comes one will remedie all{#}this.</S>
+<TLN n="1019"/><C><SD t="entrance" who="Demarch"><I>Enter Demarch</I>.</SD></C>
+<TLN n="1020"/><S><SP norm="Soldier"><I>Souldier</I>.</SP> My Lord,{#}watching this night in the campe, 
+<TLN n="1021"/>We tooke this man, and know not what he is: 
+<TLN n="1022"/>And in his companie was a gallant dame, 
+<TLN n="1023"/>A woman faire in outward {{s}h}ewe {{s}h}ee {s}eemde, 
+<TLN n="1024"/>But that her face was maskte we could not{#}{s}ee
+<TLN n="1025"/>The grace and fauour of her countenance.</S>
+<TLN n="1026"/><S><SP norm="Demarch"><I>Demarch</I></SP>. Tell me good fellow of whence and what thou art.</S>
+<TLN n="1027"/><S><SP norm="Soldier"><I>Souldier</I>.</SP> Why do you not an{s}were my Lord#? 
+<TLN n="1028"/>He takes {s}corne to an{s}were.</S>
+<TLN n="1029"/><S><SP norm="Demarch"><I>Demarch</I></SP>. <I>A</I>nd take{{s}t} thou {s}corne to aun{s}wer my demaunde?
+<TLN n="1030"/>Thy proud behauiour verie well de{s}erues 
+<TLN n="1031"/>This mi{s}demeanour at the wor{{s}t} be con{{s}t}rued. 
+<TLN n="1032"/>Why doe{{s}t} thou neither know,{#}nor ha{{s}t} thou heard#? 
+<TLN n="1033"/>That in the ab{s}ence of the Saxon Duke,
+<TLN n="1034"/><I>Demarch</I> is his e{s}peciall Sub{{s}t}itute 
+<TLN n="1035"/>To puni{{s}h} tho{s}e that {{s}h}all o{ff}end the lawes.</S>
+<TLN n="1036"/><S><SP norm="William">W<I>illiam</I>.</SP> In knowing this, I know thou art a traytor, 
+<TLN n="1037"/>A rebell, and mutenous con{s}pirator. 
+<TLN n="1038"/>Why <I>Demarch</I>, knowe{{s}t} thou who I am?</S>
+<SIG n="D4r"><C></C></SIG><CW><RA><I>Demarch</I>.</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="32">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1039"/><S><SP norm="Demarch"><I>Demarch</I></SP>. Pardon my dread Lord the error of my {s}ence, 
+<TLN n="1040"/>And mi{s}demeaner to your princely excellencie.</S>
+<TLN n="1041"/><S><SP norm="William">W<I>illi</I>.</SP> Why <I>Demarch</I>,{#}what is the cau{s}e my {s}ubie{ct}s are in armes?</S>
+<TLN n="1042"/><S><SP norm="Demarch"><I>Demarch</I></SP>. Free are my thoughts my dread and gratious Lord 
+<TLN n="1043"/>From trea{s}on to your {{s}t}ate and common weale, 
+<TLN n="1044"/>Only reuengement of a priuate grudge 
+<TLN n="1045"/>By Lord <I>Dirot</I> lately profered me,
+<TLN n="1046"/>That {{s}t}andes not with the honor of my name, 
+<TLN n="1047"/>Is cau{s}e I haue a{{s}{s}}embled for my guard 
+<TLN n="1048"/>Some men in armes that may with{{s}t}and his force,
+<TLN n="1049"/>Who{s}e {s}etled malice aymeth at my life.</S>
+<TLN n="1050"/><S><SP norm="William"><I>{W}illiam</I>.</SP> Where is Lord <I>Dirot</I>?</S>
+<TLN n="1051"/><S><SP norm="Demarch"><I>Demarch</I></SP>. In armes my gratious Lord 
+<TLN n="1052"/>Not pa{{s}t} two miles from hence, 
+<TLN n="1053"/>As credibly I am a{{s}{s}}ertained.</S>
+<TLN n="1054"/><S><SP norm="William"><I>{W}illiam</I>.</SP> Well, come let vs goe, 
+<TLN n="1055"/>I feare I {{s}h}all {fi}nd traytors of you both.</S><RA><SD t="exit" who="all"><I>Exit</I>.</SD><SPACE n="3"/></RA>
+</SCENE>
+<SCENE n="14">
+<TLN n="1056"/><SD t="entrance" who="Citizen, Elner, Manvile"><C><I>{*E}nter the {*C}itizen of Manche{{s}t}er and his daughter Elner</I></C>
+<TLN n="1057"/><C><I>and</I> M<I>anuile</I>.</C></SD> 
+<TLN n="1058"/><S><SP norm="Citizen"><I>Citizen</I>.</SP> In deed {{s}i}r it would do verie well 
+<TLN n="1059"/>If you could intreat your father to come hither: 
+<TLN n="1060"/>But if you thinke it be too farr, 
+<TLN n="1061"/>I care not much to take hor{s}e and ride to Manche{{s}t}er, 
+<TLN n="1062"/>I am {s}ure my daughter is content with either: 
+<TLN n="1063"/>How {s}aie{{s}t} thou <I>Elner</I> art thou not?</S>
+<TLN n="1064"/><S><SP norm="Elner"><I>Elner</I>.</SP> As you {{s}h}all think be{{s}t} I mu{{s}t} be contented.</S>
+<TLN n="1065"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Well <I>Elner</I> farwell,{#}onely thus much, 
+<TLN n="1066"/>I pray make all things in a readines, 
+<TLN n="1067"/>Either to {s}erue here or to carry thither with vs.</S>
+<TLN n="1068"/><S><SP norm="Citizen"><I>Citizen</I>.</SP> As for that {{s}i}r take you no care, 
+<TLN n="1069"/>And {s}o I betake you to your iournie.
+<TLN n="1070"/><RA><SD t="entrance" who="Valingford"><I>Enter {*U}alingford</I>.</SD><SPACE n="5"/></RA>
+<TLN n="1071"/>But {s}oft what gentleman is this<I>?</I></S>
+<TLN n="1072"/><S><SP norm="Valingford"><I>{*U}alingf</I>.</SP> God {s}peed {{s}i}r,{#}might a man craue a word or two with you</S>
+<TLN n="1073"/><S><SP norm="Citizen"><I>{*C}itizen</I>.</SP> God forbid els {{s}i}r,# I praye you {s}peake your plea{s}ure.</S>
+<TLN n="1074"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> The gentleman that parted from you,{#}was he not
+<SIG n="D4v"></SIG><CW><RA>Of</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="33">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1075"/>Of Manche{{s}t}er, his father lyuing there of good account.</S>
+<TLN n="1076"/><S><SP norm="Citizen"><I>{*C}itizen</I>.</SP> <I>Y</I>es mary is he {{s}i}r:{#}why doe you aske<I>?</I>
+<TLN n="1077"/>Belike you haue had {s}ome acquaintance with him.</S>
+<TLN n="1078"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> I haue beene acquainted in times pa{{s}t}, 
+<TLN n="1079"/>But through his double dealing, 
+<TLN n="1080"/>I am growen werie of his companie. 
+<TLN n="1081"/>For be it {s}poken to you:
+<TLN n="1082"/>He hath beene acquainted with a poore millers daughter, 
+<TLN n="1083"/>And diuers tymes hath promi{{s}t} her mariage. 
+<TLN n="1084"/>But what with his delayes and {fl}outes, 
+<TLN n="1085"/>He hath brought her into {s}uch a taking,
+<TLN n="1086"/>That I feare me it will co{{s}t} her her life.</S>
+<TLN n="1087"/><S><SP norm="Citizen"><I>Citizen</I>.</SP> To be playne with you {{s}i}r: 
+<TLN n="1088"/>His father and I haue beene of old acquaintance, 
+<TLN n="1089"/>And a motion was made, 
+<TLN n="1090"/>Beteewene my daughter and his {s}onne, 
+<TLN n="1091"/>Which is now throughly agreed vpon 
+<TLN n="1092"/>Saue onely the place appoynted for the mariage, 
+<TLN n="1093"/>Whether it {{s}h}all be kept here or at Manche{{s}t}er, 
+<TLN n="1094"/>And for no other occa{{s}i}on he is now ridden.</S>
+<TLN n="1095"/><S><SP norm="Elner"><I>Elner</I>.</SP> What hath he done to you? 
+<TLN n="1096"/>That you {{s}h}ould {s}peake {s}o ill of the man.</S>
+<TLN n="1097"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Oh gentlewoman I crie you mercie, 
+<TLN n="1098"/>He is your husband that {{s}h}albe.</S>
+<TLN n="1099"/><S><SP norm="Elner">E<I>lner</I>.</SP> If I knew this to be true? 
+<TLN n="1100"/>He {{s}h}ould not be my husband were he neuer {s}o good: 
+<TLN n="1101"/>And therefore, good father, 
+<TLN n="1102"/>I would de{{s}i}re you to take the paines 
+<TLN n="1103"/>To beare this gentleman companie to Manche{{s}t}er 
+<TLN n="1104"/>to know whether this be true or no.</S>
+<TLN n="1105"/><S><SP norm="Citizen"><I>{*C}itizen</I>.</SP> Now tru{{s}t} me gentleman he deales with me verie hardly, 
+<TLN n="1106"/>Knowing how well I ment to him.
+<TLN n="1107"/>But I care not much to ride to Manche{{s}t}er 
+<TLN n="1108"/>To know whether his fathers will be,
+<TLN n="1109"/>He {{s}h}ould deale with me {s}o badlie. 
+<TLN n="1110"/>Will it plea{s}e you {{s}i}r to goe in,{#}we will pre{s}ently take hor{s}e & awaie.</S>
+<SIG n="E1r"><C>E</C></SIG><CW><RA><I>Valingford</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="34">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1111"/><S><SP norm="Valingford">V<I>alingford</I>.</SP> If it plea{s}e yo to go in 
+<TLN n="1112"/>Ile followe you pre{s}ently.<RA><SD t="exit" who="Elner, Citizen">E<I>xit Elner and her father</I>.</SD><SPACE n="4"/></RA>
+<TLN n="1113"/>Now {{s}h}all I be reuenged on <I>Manuile</I>,
+<TLN n="1114"/><I>A</I>nd by this meanes get <I>Em</I> to my wife.
+<TLN n="1115"/>And therefore I will {{s}t}rayght to her fathers
+<TLN n="1116"/><I>A</I>nd informe them both of all that is hapned.</S><RA><SD t="exit" who="Valingford"><I>{*E}xit</I>.</SD><SPACE n="3"/></RA>
+</SCENE>
+<L/>
+<SCENE n="15">
+<TLN n="1117"/><SD t="entrance" who="William, Ambassador, Demarch, Attendants"><SPACE n="8"/><I>Enter</I> W<I>illiam</I>, <I>the Amba{{s}{s}}ador of</I> D<I>enmar{k*}e</I>,
+<TLN n="1118"/><SPACE n="8"/><I>Demarch</I>,{#}<I>and other attendants</I>.</SD>
+<TLN n="1119"/><S><SP norm="William">W<I>illiam</I>.</SP> What newes with the Denmark# Emba{{s}{s}}ador<I>?</I></S>
+<TLN n="1120"/><S><SP norm="Ambassador"><I>Emba{{s}{s}}ador</I>.</SP> Mary thus,{#}the King of Denmark and my Soueraine
+<TLN n="1121"/>Doth {s}end to know of thee what is the cau{s}e
+<TLN n="1122"/>That iniuriou{{s}l}y again{{s}t} the law of armes,
+<TLN n="1123"/>Thou ha{{s}t} {{s}t}olen awaie his onely daughter B<I>launch</I>,
+<TLN n="1124"/>The onely {{s}t}aie and comfort of his life.
+<TLN n="1125"/>Therefore by me he willeth thee to {s}end his daughter B<I>launch</I>:
+<TLN n="1126"/>Or el{s}e foorthwith he will leuy {s}uch an ho{{s}t}e,
+<TLN n="1127"/>As {s}oone {{s}h}all fetch her in di{s}pite of thee.</S>
+<TLN n="1128"/><S><SP norm="William">W<I>illiam</I>.</SP> <I>{*E}mba{{s}{s}}ador</I>,{#}this an{s}wer I retorne thy King.
+<TLN n="1129"/>He willeth me to {s}end his daughter <I>{*B}launch</I>:
+<TLN n="1130"/>Saying I conuaid her from the Dani{{s}h} court,
+<TLN n="1131"/>That neuer yet did once as think thereof.
+<TLN n="1132"/>As for his menacing and daunting threats
+<TLN n="1133"/>I nill regard him nor his Dani{{s}h} power.
+<TLN n="1134"/>For if he come to fetch her foorth my Realme,
+<TLN n="1135"/>I will prouide him {s}uch a{#}banquet here
+<TLN n="1136"/>That he {{s}h}all haue {s}mall cau{s}e to giue me thanks.</S>
+<TLN n="1137"/><S><SP norm="Ambassador">E<I>mba{{s}{s}}ador</I>.</SP> Is this your an{s}wer then?</S>
+<TLN n="1138"/><S><SP norm="William"><I>William</I>.</SP> It is and {s}o begone.</S>
+<TLN n="1139"/><S><SP norm="Ambassador"><I>{*E}mba{{s}{s}}ador</I>.</SP> I goe but to your co{{s}t}.</S><RA><SD t="exit" who="Ambassador"><I>Exit {*A}mBa{{s}{s}}ador</I>.</SD><SPACE n="2"/></RA>
+<TLN n="1140"/><S><SP norm="William"><I>William</I>.</SP> <I>Demarch</I> our {s}ubie{ct}s ear{{s}t} leuied in ciuill broyles, 
+<TLN n="1141"/>Mu{{s}t}erd foorthwith for to defend the Realme, 
+<TLN n="1142"/>In hope whereof that we {{s}h}all {fi}nd you true, 
+<TLN n="1143"/>We freely pardon this thy late o{ff}ence.</S>
+<TLN n="1144"/><S><SP norm="Demarch"><I>{*D}emarch</I></SP>. Mo{{s}t} humble thanks I render to your grace.</S>
+<TLN n="1145"/><RA><SD t="exit" who="all"><I>Exeunt</I>.</SD><SPACE n="3"/></RA>
+</SCENE>
+<SIG n="E1v"></SIG><CW><RA>E<I>nter</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="35">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<L/>
+<SCENE n="16">
+<TLN n="1146"/><C><SD t="entrance" who="Miller, Valingford"><I>Enter the</I> M<I>illier and Valingford</I>.</SD></C>
+<TLN n="1147"/><S><SP norm="Miller"><I>Miller</I>.</SP> Alas gentleman,{#}why {{s}h}ould you trouble your {s}elfe {s}o much
+<TLN n="1148"/>Con{{s}i}dering the imperfe{ct}ions of my daughter 
+<TLN n="1149"/>Which is able to with-drawe the loue of any man from her, 
+<TLN n="1150"/><I>A</I>s alreadie it hath done in her {fi}r{{s}t} choyce.
+<TLN n="1151"/>Mai{{s}t}er <I>{*M}anuile</I> hath for{s}aken her, 
+<TLN n="1152"/>And at Che{{s}t}er {{s}h}albe maried to a mans daughter of no little wealth. 
+<TLN n="1153"/>But if my daughter knew {s}o much: 
+<TLN n="1154"/>It would goe verie neere her heart I feare me.</S>
+<TLN n="1155"/><S><SP norm="Valingford"><I>{*U}aling</I>.</SP> Father{#}miller: {s}uch is the entyre a{ff}e{ct}ion to your daughter, 
+<TLN n="1156"/>As no mi{s}fortune what{s}oeuer can alter. 
+<TLN n="1157"/>My fellow M<I>ountney</I> thou {s}ee{{s}t}e gaue quicly ouer, 
+<TLN n="1158"/>But I by rea{s}on of my good meaning
+<TLN n="1159"/><I>A</I>m not {s}o {s}oone to be changed 
+<TLN n="1160"/><I>A</I>lthough I am borne o{ff} with {s}cornes and deniall.</S>
+<TLN n="1161"/><C><SD t="entrance" who="Em">E<I>nter <SC>E</SC>m to them</I>.</SD></C>
+<TLN n="1162"/><S><SP norm="Miller">M<I>iller</I>.</SP> Tru{{s}t} me {{s}i}r I know not what to {s}aie, 
+<TLN n="1163"/>My daughter is not to be compelled by me, 
+<TLN n="1164"/>But here {{s}h}e comes her{s}elf: {s}peake to her and {s}pare not: 
+<TLN n="1165"/>For I neuer was troubled with loue matters {s}o much before.</S>
+<TLN n="1166"/><S><SP norm="Em"><I>Em</I>.</SP> Good Lord {{s}h}all I neuer be rid of this importunate man<I>?</I> 
+<TLN n="1167"/>Now mu{{s}t} I di{{s}{s}}emble blyndnes againe, 
+<TLN n="1168"/>Once more for thy {s}ake <I>{*M}anuile</I> thus am I inforced, 
+<TLN n="1169"/>Becau{s}e I {{s}h}all complete my full re{s}olued mynde to thee. 
+<TLN n="1170"/>Father where are you<I>?</I></S>
+<TLN n="1171"/><S><SP norm="Miller"><I>Miller</I>.</SP> Here {s}weete <I>Em</I>,{#}an{s}wer this gentleman 
+<TLN n="1172"/>That would {s}o fayne enioye thy loue.</S>
+<TLN n="1173"/><S><SP norm="Em">E<I>m</I>.</SP> Where are you {{s}i}r<I>?</I> wil you neuer leaue 
+<TLN n="1174"/>This idle and vaine pur{s}uite of loue? 
+<TLN n="1175"/>Is not England {{s}t}ord enought to content you? 
+<TLN n="1176"/>But you mu{{s}t} {{s}t}ill trouble the poore 
+<TLN n="1177"/>Contemptible mayd of Manche{{s}t}er.</S>
+<TLN n="1178"/><S><SP norm="Valingford"><I>Valing</I>.</SP> None can content me but the fayre maide of Manche{{s}t}er.</S>
+<TLN n="1179"/><S><SP norm="Em"><I>Em</I>.</SP> I perceiue loue is vainly de{s}cribed, 
+<TLN n="1180"/>That being blynd him{s}elfe,
+<SIG n="E2r"><C>E 2</C></SIG><CW><RA>Would</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="36">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1181"/>Would haue you likewi{s}e troubled with a blinde wife, 
+<TLN n="1182"/>Hauing the bene{fi}te of your eyes, 
+<TLN n="1183"/>But neither follow him {s}o much in follie, 
+<TLN n="1184"/>But loue one, in whome you may better delight.</S>
+<TLN n="1185"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Father Miller,{#}thy daughter {{s}h}all haue honor 
+<TLN n="1186"/>By graunting mee her loue: 
+<TLN n="1187"/>I am a Gentleman of king Williams Court, 
+<TLN n="1188"/><I>A</I>nd no meane man in king Williams fauour.</S>
+<TLN n="1189"/><S><SP norm="Em"><I>Em</I>.</SP> If you be a Lorde syr, as you {s}aye: 
+<TLN n="1190"/>You o{ff}er both your {s}elfe and mee great wrong: 
+<TLN n="1191"/>Yours,{#}as apparant in limiting your loue {s}o vnorderly, 
+<TLN n="1192"/>For which you ra{{s}h}ly endure reprochement: 
+<TLN n="1193"/>Mine, as open and euident, 
+<TLN n="1194"/>When being {{s}h}ut from the vanities of this world, 
+<TLN n="1195"/>you would haue me as an open gazing {{s}t}ock to all the world: 
+<TLN n="1196"/>For lu{{s}t}#, not loue leades you into this error#: 
+<TLN n="1197"/>But from the one I will keepe me as well as I can, 
+<TLN n="1198"/><I>A</I>nd yeeld the other to none but to my father, 
+<TLN n="1199"/><I>A</I>s I am bound by duetie.</S>
+<TLN n="1200"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> Why faire <I>Em</I>#, <I>{*M}anuile</I> hath for{s}aken thee, 
+<TLN n="1201"/><I>A</I>nd mu{{s}t} at Che{{s}t}er be married, which, 
+<TLN n="1202"/>If I {s}peake otherwi{s}e than true, 
+<TLN n="1203"/>Let thy father {s}peake what credibly he hath heard.</S>
+<TLN n="1204"/><S><SP norm="Em"><I>Em</I>.</SP> But can it be <I>Manuile</I> will deale {s}o vnkindly, 
+<TLN n="1205"/>To reward my iu{{s}t}ice with {s}uch mon{{s}t}rous vngentlenes. 
+<TLN n="1206"/>Haue I di{{s}{s}}embled for thy {s}ake<I>?</I>
+<TLN n="1207"/><I>A</I>nd doe{{s}t} thou now thus requite it? 
+<TLN n="1208"/>In deede the{s}e many daies I haue not {s}eene him, 
+<TLN n="1209"/>Which hath made me marueile at his long ab{s}ence. 
+<TLN n="1210"/>But father,{#}are you a{{s}{s}}ured of the wordes he {s}pake, 
+<TLN n="1211"/>were concerning <I>{*M}anuile</I>?</S>
+<TLN n="1212"/><S><SP norm="Miller"><I>Miller</I>.</SP> In {s}ooth daughter,{#}now it is foorth, 
+<TLN n="1213"/>I mu{{s}t} needes con{fi}rme it. 
+<TLN n="1214"/>Mai{{s}t}er M<I>anuile</I> hath for{s}aken thee, 
+<TLN n="1215"/>And at Che{{s}t}er mu{{s}t} be married
+<TLN n="1216"/>To a mans daughter of no little wealth.
+<SIG n="E2v"></SIG><CW><RA>His</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="37">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1217"/>His owne father procures it, 
+<TLN n="1218"/>And therefore I dare credit it,
+<TLN n="1219"/><I>A</I>nd do thou beleeue it, 
+<TLN n="1220"/>For tru{{s}t} mee daughter it is {s}o.</S>
+<TLN n="1221"/><S><SP norm="Em"><I>Em</I>.</SP> Then good father pardon the iniurie, 
+<TLN n="1222"/>That I haue don to you onely cau{{s}i}ng your griefe, 
+<TLN n="1223"/>By ouer-fond a{ff}e{ct}ing a man {s}o trothle{{s}{s}}e. 
+<TLN n="1224"/>And you likewi{s}e {{s}i}r, I pray holde me excu{s}ed, 
+<TLN n="1225"/><I>A</I>s I hope this cau{s}e will allow {s}u{ffi}ciently for mee: 
+<TLN n="1226"/>My loue to M<I>anuile</I>,{#}thinking he would requite it, 
+<TLN n="1227"/>Hath made me double with my father and you, 
+<TLN n="1228"/>And many more be{{s}i}des, 
+<TLN n="1229"/>Which I will no longer hyde from you. 
+<TLN n="1230"/>That inticing{#}{s}peeches {{s}h}ould not beguile mee, 
+<TLN n="1231"/>I haue made my {s}elfe deafe to any but to him. 
+<TLN n="1232"/><I>A</I>nd le{{s}t} any mans per{s}on {{s}h}ould plea{s}e mee more than his, 
+<TLN n="1233"/>I haue di{{s}{s}}embled the want of my {{s}i}ght: 
+<TLN n="1234"/>Both which {{s}h}addowes of my irreuocable a{ff}e{ct}ions, 
+<TLN n="1235"/>I haue not {s}parde to con{fi}rme before him, 
+<TLN n="1236"/>My father, and all other amorous {s}oliciters: 
+<TLN n="1237"/>Wherewith not made acquainted, I perceiue 
+<TLN n="1238"/>My true intent hath wrought mine owne {s}orrow. 
+<TLN n="1239"/><I>A</I>nd {s}eeking by loue to be regarded, 
+<TLN n="1240"/>Am cut of with contempt, and di{s}pi{s}ed.</S>
+<TLN n="1241"/><S><SP norm="Miller">M<I>iller</I>.</SP> Tell me# {s}weet <I>Em</I> ha{{s}t} thou but fained all this while for <HW t="next">(his loue,</HW>
+<TLN n="1242"/>That hath {s}o de{s}courteou{{s}l}y for{#}{s}aken thee.</S>
+<TLN n="1243"/><S><SP norm="Em"><I>Em</I>.</SP> Credit me father <I>I</I> haue told you the troth, 
+<TLN n="1244"/>Wherewith <I>I</I> de{{s}i}re yon<!-- upturned "u" --> and Lord V<I>alingford</I> not to be di{s}plea{s}ed 
+<TLN n="1245"/>For ought el{s}e <I>I</I> {{s}h}all {s}aie, 
+<TLN n="1246"/>Let my pre{s}ent griefe hold me excu{s}ed. 
+<TLN n="1247"/>But may <I>I</I> liue to {s}ee that vngratfull{#}man 
+<TLN n="1248"/>Iu{{s}t}ly rewarded for his trecherie? 
+<TLN n="1249"/>Poore E<I>m</I> woulde think her {s}elfe not a little happie, 
+<TLN n="1250"/>Fauour my departing at this in{{s}t}ant, 
+<TLN n="1251"/>For my troubled thought de{{s}i}res to meditate alone in {{s}i}lence</S>
+<TLN n="1252"/><RA><SD t="exit" who="Em"><I>Exit Em</I>.</SD><SPACE n="8"/></RA>
+<SIG n="E3r"><C>E 3</C></SIG><CW><RA>V<I>aling</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="38">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1253"/><S><SP norm="Valingford"><I>{*U}alingf</I></SP> {W}ill not <I>Em</I> {{s}h}ew one chereful looke on <I>Valingford</I>?</S>
+<TLN n="1254"/><S><SP norm="Miller"><I>{*M}iller</I>.</SP> Alas {{s}i}r,{#}blame her not,{#}you {s}ee {{s}h}e hath good cau{s}e, 
+<TLN n="1255"/>being {s}o handled by this gentleman: 
+<TLN n="1256"/><I>A</I>nd {s}o Ile, leaue you,{#}and go comfort my poore wench 
+<TLN n="1257"/>As well as I may.</S><SPACE n="4"/><SD t="exit" who="Miller"><I>Exit the Miller</I>.</SD>
+<TLN n="1258"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> Farewell good father.</S><SPACE n="3"/><SD t="exit" who="Valingford"><I>Exit {*U}alingford</I>.</SD> 
+</SCENE>
+<L/>
+<SCENE n="17">
+<TLN n="1259"/><SD t="entrance" who="Zweno, Rosilio, Attendants"><C><I>{*E}nter Zweno {k*}ing of</I> D<I>enmar{k*}e with Ro{{s}i}lio</I>,
+<TLN n="1260"/><C><I>and other attendants</I>.</C></SD>
+<L/>
+<TLN n="1261"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> <I>Ro{{s}i}lio</I>,{#}Is this the place whereas the Duke <I>William</I>
+<TLN n="1262"/>{{s}h}ould meete mee#?</S>
+<TLN n="1263"/><S><SP norm="Rosilio"><I>Ro{{s}i}lio</I>.</SP> It is,{#}and like your grace.</S>
+<TLN n="1264"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Goe captaine away,{#}regard the charge I gaue: 
+<TLN n="1265"/>See all our men be martialed for the {fi}ght. 
+<TLN n="1266"/>Di{s}po{s}e the {W}ardes as lately was deui{s}ed. 
+<TLN n="1267"/><I>A</I>nd let the pri{s}oners vnder {s}euerall gardes 
+<TLN n="1268"/>Be kept apart vntill you heare from vs.
+<TLN n="1269"/>Let this {s}u{ffi}{s}e, you know my re{s}olution. 
+<TLN n="1270"/>If William Duke of Saxon be the man, 
+<TLN n="1271"/>That by his an{s}were {s}ent vs,{#}he would {s}end 
+<TLN n="1272"/>Not words but wounds: not parleis but alarmes, 
+<TLN n="1273"/>Mu{{s}t} be de{s}cider of this controuer{{s}i}e.
+<TLN n="1274"/><I>Ro{{s}i}lio</I>,{#}{{s}t}ay with mee,{#}the re{{s}t} begone.</S><SPACE n="4"/><SD t="exit" who="Attendants"><I>{*E}xeunt</I>.</SD>
+<L/>
+<TLN n="1275"/><SD t="entrance" who="William, Demarch, Attendants"><C><I>Enter {W}illiam</I>, <I>and Demarch with other attendants</I></C></SD>
+<TLN n="1276"/><S><SP norm="William">{W}<I>illiam</I>.</SP> <I>A</I>ll but D<I>emarch</I> go {{s}h}roud you out of {{s}i}ght,
+<TLN n="1277"/>For I will goe parley with the Prince my {s}elfe.</S>
+<TLN n="1278"/><S><SP norm="Demarch">D<I>emarch</I>.</SP> Should <I>Zweno</I> by this parley call you foorth, 
+<TLN n="1279"/>Vpon intent iniuriou{{s}l}y to deale: 
+<TLN n="1280"/>This o{ff}ereth too much oportunitie.</S>
+<TLN n="1281"/><S><SP norm="William">{W}<I>illiam</I>.</SP> No no D<I>emarch</I>,{#}that were a{#}breach 
+<TLN n="1282"/>Again{{s}t} the law of Armes#: therefore begon, 
+<TLN n="1283"/>And leaue vs here alone.<SPACE n="6"/><SD t="exit" who="Attendants"><I>{*E}xeunt</I>.</SD>
+<TLN n="1284"/>I {s}ee that <I>Zweno</I> is mai{{s}t}er of his worde.
+<TLN n="1285"/><I>Zweno</I>, {W}illiam of Saxonie greeteth thee 
+<SIG n="E3v"></SIG><CW><RA>Either</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="39">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1286"/>Either well or yll, according to thy intent. 
+<TLN n="1287"/>If well thou wi{{s}h} to him and Saxonie, 
+<TLN n="1288"/>He bids thee frindly welcome as he can. 
+<TLN n="1289"/>If yll thou wi{{s}h} to him and Saxanie,
+<TLN n="1290"/>He mu{{s}t} with{{s}t}and thy mallice as he may.</S>
+<TLN n="1291"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> {W}illiam,{#}for other name and title giue I none 
+<TLN n="1292"/>To him, who were he worthie of tho{s}e honours 
+<TLN n="1293"/>That Fortune and his predece{{s}{s}}ors left, 
+<TLN n="1294"/>I ought by right and humaine courte{{s}i}e 
+<TLN n="1295"/>To grace his {{s}t}yle with Duke of Saxonie. 
+<TLN n="1296"/>But for I {fi}nde a ba{s}e degenerate mynde, 
+<TLN n="1297"/>I frame my {s}peech according to the man, 
+<TLN n="1298"/><I>A</I>nd not the {{s}t}ate that he vnworthie holdes.</S>
+<TLN n="1299"/><S><SP norm="William">{W}<I>illiam</I>.</SP> Herein <I>Zweno</I> do{{s}t} thou aba{s}e thy {{s}t}ate, 
+<TLN n="1300"/>To breake the peace which by our aunce{{s}t}ers 
+<TLN n="1301"/>Hath heretofore bene honourably kept.</S>
+<TLN n="1302"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> And {{s}h}ould that peace for euer haue been kept, 
+<TLN n="1303"/>Had not thy {s}elfe beene author of the breach: 
+<TLN n="1304"/>Nor {{s}t}ands it with the honor of my {{s}t}ate, 
+<TLN n="1305"/>Or nature of a father to his childe,
+<TLN n="1306"/>That I {{s}h}ould {s}o be robbed of my daughter, 
+<TLN n="1307"/>And not vnto the vtmo{{s}t} of my power 
+<TLN n="1308"/>Reuenge {s}o intollerable an iniurie.</S>
+<TLN n="1309"/><S><SP norm="William">{W}<I>illiam</I>.</SP> Is this the colour of your quarrell <I>Zweno</I>? 
+<TLN n="1310"/>I well perceiue the wi{s}e{{s}t} men may erre. 
+<TLN n="1311"/><I>A</I>nd thinke you I conueyed away your daughter <I>Blanch?</I></S>
+<TLN n="1312"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> <I>A</I>rt thou {s}o impudent to denye thou did{{s}t}<I>?</I> 
+<TLN n="1313"/>{W}hen that the proofe thereof is manife{{s}t}?</S>
+<TLN n="1314"/><S><SP norm="William"><I>{W}illiam</I>.</SP> {W}hat proofe is there<I>?</I></S>
+<TLN n="1315"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Thine owne confe{{s}{s}i}on is {s}u{ffi}cient proofe.</S>
+<TLN n="1316"/><S><SP norm="William">{W}<I>illiam</I>.</SP> Did I confe{{s}{s}}e <I>I</I> {{s}t}ole your daughter <I>Blanch</I>?</S>
+<TLN n="1317"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Thou did{{s}t} confe{{s}{s}}e thou had{{s}t} a Ladie hence.</S>
+<TLN n="1318"/><S><SP norm="William"><I>{W}illiam</I>.</SP> <I>I</I> haue and do.</S>
+<TLN n="1319"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> {W}hy that was <I>{*B}lanch</I> my daughter.</S>
+<TLN n="1320"/><S><SP norm="William">W<I>illiam</I>.</SP> Nay,{#}that was <I>Mariana</I>, 
+<TLN n="1321"/>who wrongfully thou detaine{{s}t} pri{s}oner.</S>
+<SIG n="E4r"><C></C></SIG><CW><RA>Z<I>weno</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="40">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1322"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Shamele{{s}{s}}e per{{s}i}{{s}t}ing in thy ill, 
+<TLN n="1323"/>Thou doe{{s}t} mayntaine a manife{{s}t} vntrothe, 
+<TLN n="1324"/>As {{s}h}ee {{s}h}all iu{{s}t}i{fi}e vnto thy teethe. 
+<TLN n="1325"/><I>Ro{{s}i}lio</I> fetch her and the <I>Marques</I> hether.</S>
+<TLN n="1326"/><C><SD t="exit" who="Rosilio"><I>{*E}xit Ro{{s}i}lio for Mariana</I>.</SD></C>
+<L/>
+<TLN n="1327"/><S><SP norm="William"><I>William</I>.</SP> It cannot be I {{s}h}ould be {s}o deceiued.</S>
+<TLN n="1328"/><S><SP norm="Demarch"><I>Demarch</I>.</SP> I heard this night among the {s}ouldiers, 
+<TLN n="1329"/>That in their watch they tooke a pen{{s}i}ue Ladie: 
+<TLN n="1330"/>Who at the appoyntment of the Lord <I>Dirot</I> is yet in keeping. 
+<TLN n="1331"/>What {{s}h}e is I know not, 
+<TLN n="1332"/>Onely thus much, I ouer-hard by chance.</S>
+<TLN n="1333"/><S><SP norm="William"><I>Welliam</I>.</SP> <I>A</I>nd what of this.</S>
+<TLN n="1334"/><S><SP norm="Demarch"><I>{*D}emarch</I>.</SP> It may be B<I>launch</I> the King of Denmarkes daughter.</S>
+<TLN n="1335"/><S><SP norm="William"><I>William</I>.</SP> It may be {s}o: but on my lyfe it is not<I>?</I> 
+<TLN n="1336"/><I>Y</I>et <I>Demarch</I>, goe and fetch her {{s}t}rayght.</S> <!-- Demarch would exit here -->
+<L/>
+<TLN n="1337"/><C><SD t="entrance" who="Rosilio, Lubeck"><I>{*E}nter Ro{{s}i}lio with the</I> M<I>arques</I>.</SD></C> <!-- Mariana would enter here -->
+<TLN n="1338"/><S><SP norm="Rosilio"><I>Ro{{s}i}lio</I>.</SP> Plea{s}eth your highnes,{#}here is the M<I>arques</I> and M<I>ariana</I>.</S>
+<TLN n="1339"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> See here,{#}<I>{*D}u{k*}e {W}illiam</I>, your competitors 
+<TLN n="1340"/>That were con{s}enting to my daughters {s}cape. 
+<TLN n="1341"/>Let them re{s}olut<!-- foul type "t" for "e" --> you of the trueth hereing, 
+<TLN n="1342"/>And here I vowe and {s}olemly prote{{s}t}, 
+<TLN n="1343"/>That in thy pre{s}ence they {{s}h}all lo{s}e their heds: 
+<TLN n="1344"/>Vnle{{s}{s}}e I here where as my daughter is.</S>
+<TLN n="1345"/><S><SP norm="William"><I>William</I>.</SP> O M<I>arques Lubec{k*}</I> how it grieueth me, 
+<TLN n="1346"/>That for my {s}ake thou {{s}h}oulde{{s}t} indure the{s}e bondes. 
+<TLN n="1347"/>Beiudge my {s}oule that feeles the martirdome.</S>
+<TLN n="1348"/><S><SP norm="Lubeck"><I>Marques</I>.</SP> <I>Du{k*}e {W}illiam</I>,{#}you know it is for your cau{s}e, 
+<TLN n="1349"/>It plea{s}eth thus the King to mi{s}conceiue of me, 
+<TLN n="1350"/><I>A</I>nd for his plea{s}ure doth me iniurie.</S>
+<L/>
+<TLN n="1351"/><C><SD t="entrance" who="Demarch, Blanch">E<I>nter</I> D<I>emarch with the Ladie {*B}launch</I>.</SD></C>
+<TLN n="1352"/><S><SP norm="Demarch"><I>Demarch</I></SP>. May it plea{s}e your hightnes,<!-- foul type "t" for "e" --> 
+<TLN n="1353"/>Here is the Ladie you {s}ent me for,</S>
+<TLN n="1354"/><S><SP norm="William"><I>William</I>.</SP> <I>A</I>waie <I>Demarch</I>,{#}what telle{{s}t} thou me of Ladies<I>?</I>
+<SIG n="E4v"></SIG><CW><RA>I {s}o</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="41">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1355"/>I {s}o dete{{s}t} the dealing of their {s}ex, 
+<TLN n="1356"/><I>A</I>s that I count a louers {{s}t}ate to be the ba{s}e 
+<TLN n="1357"/><I>A</I>nd vilde{{s}t} {{s}l}auerie in the world.</S>
+<TLN n="1358"/><S><SP norm="Demarch"><I>Demarch</I></SP>. What humors are the{s}e: heres a {{s}t}raunge alteration.</S>
+<TLN n="1359"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> See <!-- upside-down "S" --><I>{*D}uke William</I>, is this B<I>launch</I> or no<I>?</I> 
+<TLN n="1360"/>You know her,{#}if you {s}ee her I am {s}ure.</S>
+<TLN n="1361"/><S><SP norm="William">W<I>illiam</I>.</SP> <I>Zweno</I> I was deceiued, yea vtterly deceiued, 
+<TLN n="1362"/>Yet this is {{s}h}ee#: this {s}ame is Ladie <I>{*B}launch</I> 
+<TLN n="1363"/>And for mine error, here I am content 
+<TLN n="1364"/>To do what{s}oeuer <I>Zweno</I> {{s}h}all {s}et downe. 
+<TLN n="1365"/>A#h cruell M<I>ariana</I> thus to v{s}e 
+<TLN n="1366"/>The man which loued and honored thee with his heart.</S>
+<TLN n="1367"/><S><SP norm="Mariana">M<I>ariana</I>.</SP> When {fi}r{{s}t} I came into your highnes court, 
+<TLN n="1368"/>And <I>{W}illiam</I> often importing me of loue: 
+<TLN n="1369"/>I did deui{s}e to ea{s}e the griefe your daughter did {s}u{{s}t}ain, 
+<TLN n="1370"/>Shee {{s}h}ould meete Sir W<I>illiam</I> masked as I it were. 
+<TLN n="1371"/>This put in proofe, did take {s}o good e{ff}e{ct}, 
+<TLN n="1372"/>As yet it {s}eemes his grace is not re{s}olued, 
+<TLN n="1373"/>But it was I which he conueid awaie.</S>
+<TLN n="1374"/><S><SP norm="William">W<I>illiam</I>.</SP> May this be true<I>?</I> It cannot be but true. 
+<TLN n="1375"/>Was it Ladie B<I>launch</I> which I conueid awaie<I>?</I> 
+<TLN n="1376"/>Vncon{{s}t}ant M<I>ariana</I>, 
+<TLN n="1377"/>Thus to deale with him which ment to thee nought but faith.</S>
+<TLN n="1378"/><S><SP norm="Blanch"><I>{*B}launch</I>.</SP> Pardon deere father my follyes that are pa{{s}t}, 
+<TLN n="1379"/>Wherein I haue negle{ct}ed me dutie 
+<TLN n="1380"/>Which I in reuerence ought to {{s}h}ew your grace, 
+<TLN n="1381"/>For led by loue I thus haue gone a{{s}t}ray,
+<TLN n="1382"/><I>A</I>nd now repent the errors I was in.</S>
+<TLN n="1383"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> <I>S</I>tand vp deare daughter though thy fault de{s}erues 
+<TLN n="1384"/>For to be puni{{s}h}t in the extreme{{s}t} {s}ort. 
+<TLN n="1385"/>Yet loue that couers multitude of {{s}i}nns 
+<TLN n="1386"/>Makes loue in parents winke at childrens faults. 
+<TLN n="1387"/>Su{ffi}ceth B<I>launch</I> thy father loues thee {s}o,
+<TLN n="1388"/>Thy follies pa{{s}t} he knowes but will not know. 
+<TLN n="1389"/><I>A</I>nd here Duke <I>{W}illiam</I> take my daughter to thy wife. 
+<TLN n="1390"/>For well I am a{{s}{s}}ured {{s}h}e loues thee well.</S>
+<SIG n="F1r"><C>F</C></SIG><CW><RA>A pro{-}</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="42">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1391"/><S><SP norm="William"><I>William</I>.</SP> A proper coniuntion: as who {{s}h}ould {s}aie, 
+<TLN n="1392"/>Lately come out of the fyer, 
+<TLN n="1393"/>I would goe thru{{s}t} my {s}elfe into the {fl}ame. 
+<TLN n="1394"/>Let Mai{{s}t}res nice goe Saint it where {{s}h}e li{{s}t}, 
+<TLN n="1395"/>And coyly quaint it with di{{s}{s}}embling face.
+<TLN n="1396"/>I hold in {s}corne the fooleries that they v{s}e, 
+<TLN n="1397"/>I being free will neuer {s}ubie{ct} my {s}elfe 
+<TLN n="1398"/>to any {s}uch as {{s}h}ee is vnderneth the Sunne.</S>
+<TLN n="1399"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Refu{s}e{{s}t} thou to take my daughter to thy wife? 
+<TLN n="1400"/>I tel thee Duke, this ra{{s}h} deniall 
+<TLN n="1401"/>May bring more mi{s}chiefe on thee then thou can{{s}t} avoide.</S>
+<TLN n="1402"/><S><SP norm="William"><I>William</I>.</SP> Con{s}eit hath wrought {s}uch generall di{{s}l}ike 
+<TLN n="1403"/>Through the fal{s}e dealing of <I>Mariana</I>, 
+<TLN n="1404"/>That vtterly I doe abhore their {s}ex. 
+<TLN n="1405"/>They are all di{{s}l}oyall, vncon{{s}t}ant, all vniu{{s}t}: 
+<TLN n="1406"/>Who tryes as I haue tryed,
+<TLN n="1407"/><I>A</I>nd {fi}ndes as I haue founde, 
+<TLN n="1408"/>Will {s}aie thers no {s}uch creatures on the ground.</S>
+<TLN n="1409"/><S><SP norm="Blanch"><I>{*B}lanch</I>.</SP> Vncon{{s}t}ant Knight, though {s}ome de{s}erue no tru{{s}t} 
+<TLN n="1410"/>Thers others faithfull, louing, loyall,{#}& iu{{s}t}.</S>
+<L/>
+<TLN n="1411"/><SD t="entrance" who="Valingford, Em, Miller, Mountney, Manvile, Elner"><C><I>Enter to them</I> V<I>alingford with {*E}m and the {*M}iller</I>,</C>
+<TLN n="1412"/><C><I>and</I> M<I>ountney</I>,{#}<I>and</I> M<I>anuile</I>, <I>and Elner</I>.</C></SD>
+<L/>
+<TLN n="1413"/><S><SP norm="William"><I>Willi</I>.</SP> How now Lord V<I>alingford</I> what makes the{s}e women here?</S>
+<TLN n="1414"/><S><SP norm="Valingford"><I>{*U}aling</I>.</SP> Here be two women, may it plea{s}e your grace, 
+<TLN n="1415"/>that are contra{ct}ed to one man, 
+<TLN n="1416"/><I>A</I>nd are in {{s}t}rife whether {{s}h}all haue him to their husband.</S>
+<TLN n="1417"/><S><SP norm="William">W<I>illiam</I>.</SP> <I>S</I>tand foorth women and {s}aie, 
+<TLN n="1418"/>To whether of you did he {fi}r{{s}t} giue his faith.</S>
+<TLN n="1419"/><S><SP norm="Em"><I>Em</I>.</SP> To me for{s}ooth.</S>
+<TLN n="1420"/><S><SP norm="Elner"><I>Elner</I>.</SP> To me my gratious Lord.</S>
+<TLN n="1421"/><S><SP norm="William">{W}<I>illiam</I>.</SP> Speak <I>{*M}anuile</I>, to whether did{{s}t} thou giue thy faitth<I>?</I></S>
+<TLN n="1422"/><S><SP norm="Manvile"><I>{*M}anuile</I>.</SP> To {s}aie the troth:{#}this maide had {fi}r{{s}t} my loue.</S>
+<TLN n="1423"/><S><SP norm="Elner"><I>Elner</I>.</SP> Yea M<I>anuile</I>,{#}but there was no witne{{s}{s}}e by.</S>
+<TLN n="1424"/><S><SP norm="Em">E<I>m</I>.</SP> Thy con{s}cience Manuile a hundred witne{{s}{s}}es.</S>
+<SIG n="F1v"></SIG><CW><RA><I>Elner</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="43">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1425"/><S><SP norm="Elner"><I>Elner</I>.</SP> Shee hath {{s}t}olne a con{s}cience to {s}erue her own turne. 
+<TLN n="1426"/>But you are deceiued, yfaith he will none of you.</S>
+<TLN n="1427"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> In#deede,{#}dred Lord,{#}{s}o deere <I>I</I> held her loue, 
+<TLN n="1428"/>As in the {s}ame I put my whole delight. 
+<TLN n="1429"/>But {s}ome impediments which at that in{{s}t}ant hapned, 
+<TLN n="1430"/>Made me for{s}ake her quite, 
+<TLN n="1431"/>For which I had her fathers franke con{s}ent.</S>
+<TLN n="1432"/><S><SP norm="William">W<I>illiam</I>.</SP> What were the impediments<I>?</I></S>
+<TLN n="1433"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Why {{s}h}ee could neither heare nor {s}ee.</S>
+<TLN n="1434"/><S><SP norm="William">{W}<I>illiam</I>.</SP> Now {{s}h}ee doth both. Mayden,{#}how were you cured<I>?</I></S>
+<TLN n="1435"/><S><SP norm="Em"><I>Em</I>.</SP> Pardon my Lord,{#}Ile tell your grace the troth, 
+<TLN n="1436"/>Be it not imputed to mee as di{s}credite. 
+<TLN n="1437"/>I loued this M<I>anuile</I> {s}o much, that {{s}t}ill methought 
+<TLN n="1438"/>When he was ab{s}ent did pre{s}ent to mee 
+<TLN n="1439"/>The forme and feature of that countenance 
+<TLN n="1440"/>Which <I>I</I> did {{s}h}rine an ydoll in mine heart. 
+<TLN n="1441"/><I>A</I>nd neuer could I {s}ee a man methought 
+<TLN n="1442"/>That equald M<I>anuile</I> in my partiall eye. 
+<TLN n="1443"/>Nor was there any loue betweene vs lo{{s}t}, 
+<TLN n="1444"/>But that <I>I</I> held the {s}ame in high regard, 
+<TLN n="1445"/>Vntill repaire of {s}ome vnto our hou{s}e, 
+<TLN n="1446"/>Of whome my M<I>anuile</I> grewe thus iealous: 
+<TLN n="1447"/><I>A</I>s if he tooke exception <I>I</I> vouch{s}afed 
+<TLN n="1448"/>To heare them {s}peake,{#}or {s}aw them when they came: 
+<TLN n="1449"/>On which <I>I</I> {{s}t}raight tooke order with my {s}elfe 
+<TLN n="1450"/>To voide the {s}crupule of his con{s}cience, 
+<TLN n="1451"/>By counterfaiting that <I>I</I> neither {s}awe nor heard, 
+<TLN n="1452"/><I>A</I>ny wayes to rid my hands of{#}them. 
+<TLN n="1453"/><I>A</I>ll this I did to keepe my M<I>anuiles</I> loue, 
+<TLN n="1454"/>Which he vnkindly {s}eekes for to rewarde.</S>
+<TLN n="1455"/><S><SP norm="Manvile">M<I>aluile</I>.</SP> And did my <I>Em</I> to keepe her faith with mee 
+<TLN n="1456"/>Di{{s}{s}}emble that {{s}h}ee neither heard nor {s}awe. 
+<TLN n="1457"/>Pardon me {s}weet <I>Em</I>, for I am onely thine.</S>
+<TLN n="1458"/><S><SP norm="Em"><I>Em</I>.</SP> Lay o{ff} thy hands, di{{s}l}oyall as thou art, 
+<TLN n="1459"/>Nor {{s}h}alt thou haue po{{s}{s}}e{s}sion of my loue, 
+<TLN n="1460"/>That can{{s}t} {s}o {fi}nely {{s}h}ift thy matters o{ff}.
+<SIG n="F2r"><C>F 2</C></SIG><CW><RA>Put</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="44">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1461"/>Put ca{s}e I had beene blinde and could not {s}ee,
+<TLN n="1462"/>As often times {s}uch vi{{s}i}tations falles 
+<TLN n="1463"/>That plea{s}eth God which all things doth di{s}po{s}e: 
+<TLN n="1464"/>Shoulde{{s}t} thou for{s}ake mee in regard of that?
+<TLN n="1465"/>I tell thee M<I>anuile</I>, had{{s}t} thou beene blinde, 
+<TLN n="1466"/>Or deafe,{#}or dumbe,{#}or el{s}e what impediments 
+<TLN n="1467"/>might befall to man#, E<I>m</I> would haue loued and kept, 
+<TLN n="1468"/>And honoured thee#: yea,{#}begde if wealth had faylde 
+<TLN n="1469"/>For thy releefe.</S>
+<TLN n="1470"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Forgiue mee {s}weete <I>Em</I>.</S>
+<TLN n="1471"/><S><SP norm="Em"><I>Em</I>.</SP> I do forgiue thee with my heart, 
+<TLN n="1472"/>And will forget thee too if ca{s}e I can: 
+<TLN n="1473"/>But neuer {s}peake to mee,{#}nor {s}eeme to know mee.</S>
+<TLN n="1474"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Then farewell fro{{s}t}#: 
+<TLN n="1475"/>Well fare a wench that will. 
+<TLN n="1476"/>Now,{#}E<I>lner</I> I am thine owne my gyrle.</S>
+<TLN n="1477"/><S><SP norm="Elner"><I>Elner</I>.</SP> Mine <I>Manuile</I>#? thou neuer {{s}h}alt be myne. 
+<TLN n="1478"/>I {s}o dete{{s}t} thy villanie. 
+<TLN n="1479"/>That while{{s}t} I liue I will abhor thy company.</S>
+<TLN n="1480"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Is it come to this<I>?</I> of late,{#}I had choyce of twaine 
+<TLN n="1481"/>On either {{s}i}de to haue me to her husband: 
+<TLN n="1482"/>And now am vtterly reie{ct}ed of them both.</S>
+<TLN n="1483"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> My Lord this gentleman when time was 
+<TLN n="1484"/>Stood {s}ome-thing in our light, 
+<TLN n="1485"/>And now I thinke it not a#mi{{s}{s}}e 
+<TLN n="1486"/>To laugh at him that {s}ometime {s}corned at vs.</S>
+<TLN n="1487"/><S><SP norm="Mountney">M<I>ountney</I>.</SP> Content my Lord,{#}inuent the forme.</S>
+<TLN n="1488"/><S><SP norm="Valingford"><I>{*U}alingford</I>.</SP> Then thus.</S>
+<TLN n="1489"/><S><SP norm="William">W<I>illiam</I>.</SP> I {s}ee that women are not generall euils. 
+<TLN n="1490"/><I>Blanch</I> is faire#: Methinkes I {s}ee in her#, 
+<TLN n="1491"/><I>A</I> mode{{s}t} countenance,{#}a heauenly blu{{s}h}. 
+<TLN n="1492"/><I>Zweno</I>, receiue a reconciled foe, 
+<TLN n="1493"/>Not as thy friend,{#}but as thy {s}onne in law,
+<TLN n="1494"/>If {s}o that thou be thus content.</S>
+<TLN n="1495"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> I ioy to {s}ee your grace {s}o tra{ct}able.
+<TLN n="1496"/>Here take my daughter <I>Blanch</I>,
+<SIG n="F2v"></SIG><CW><RA>And</RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="45">
+<RT><C>of Manche{{s}t}er.</C></RT>
+<!--COL n="0"-->
+<TLN n="1497"/>And after my de{s}ea{s}e the Denmark crowne.</S>
+<TLN n="1498"/><S><SP norm="William">W<I>illiam</I>.</SP> Now {{s}i}r, how {{s}t}ands the ca{s}e with you?</S>
+<TLN n="1499"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> I partly am per{s}waded as your grace is, 
+<TLN n="1500"/>My lord, he is be{{s}t} at ea{s}e that medleth lea{{s}t}.</S>
+<TLN n="1501"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Sir may a man be {s}o bolde, 
+<TLN n="1502"/>As to craue a word with you?</S>
+<TLN n="1503"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Yea,{#}two or three#: what are they?</S>
+<TLN n="1504"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> I {s}ay, this maide will haue thee to her husband.</S>
+<TLN n="1505"/><S><SP norm="Mountney"><I>Mountney</I>.</SP> And I {s}ay this<I>:</I> and therof will I lay an hundred pound.</S>
+<TLN n="1506"/><S><SP norm="Valingford"><I>{*U}alingf</I>.</SP> And I {s}ay this: whereon I will lay as much.</S>
+<TLN n="1507"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> <I>A</I>nd I {s}ay neither#: what {s}ay you to that?</S>
+<TLN n="1508"/><S><SP norm="Mountney"><I>{*M}ountney</I>.</SP> If that be true: then are we both deceiued.</S>
+<TLN n="1509"/><S><SP norm="Manvile">M<I>anuile</I>.</SP> Why it is true, and you are both deceiued.</S>
+<TLN n="1510"/><S><SP norm="Lubeck"><I>Marques</I>.</SP> In mine eyes,{#}this is the propre{{s}t} wench. 
+<TLN n="1511"/>Might I adui{s}e thee, take her vnto thy wife.</S>
+<TLN n="1512"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> It {s}eemes to me,{#}{{s}h}ee hath refu{s}ed him.</S>
+<TLN n="1513"/><S><SP norm="Lubeck">M<I>arques</I>.</SP> Why theres the {s}pite.</S>
+<TLN n="1514"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> If one refu{s}e him, yet may he haue the other.</S>
+<TLN n="1515"/><S><SP norm="Lubeck"><I>Marques</I>.</SP> He will aske but her good will, and all her friends.</S>
+<TLN n="1516"/><S><SP norm="Zweno"><I>Zweno</I>.</SP> Might I adui{s}e thee,{#}let them both alone.</S>
+<TLN n="1517"/><S><SP norm="Manvile"><I>Manuile</I>.</SP> Yea, #thats the cour{s}e, and thereon wil I {{s}t}and. 
+<TLN n="1518"/><I>S</I>uch idle loue hencefoorth I will dete{{s}t}.</S>
+<TLN n="1519"/><S><SP norm="Valingford">V<I>alingford</I>.</SP> The Foxe will eat no grapes,{#}and why<I>?</I></S>
+<TLN n="1520"/><S><SP norm="Mountney">M<I>ountney</I>.</SP> I know full well, becau{s}e they hang too hye.</S>
+<TLN n="1521"/><S><SP norm="William">W<I>illiam</I>.</SP> And may it be a Millers daughter by her birth? 
+<TLN n="1522"/>I cannot thinke but {{s}h}ee is better borne.</S>
+<TLN n="1523"/><S><SP norm="Valingford"><I>Valingford</I>.</SP> Sir <I>{*T}homas Goddard</I> hight this reuerent man, 
+<TLN n="1524"/>Famed for his vertues and his good {s}ucce{{s}{s}}e: 
+<TLN n="1525"/>Who{s}e fame hath beene renowmed through the world.</S>
+<TLN n="1526"/><S><SP norm="William"><I>{W}illiam</I>.</SP> Sir <I>{*T}homas Goddard</I> welcome to thy Prince, 
+<TLN n="1527"/>And faire <I>{*E}m</I>, frolike with thy good father. 
+<TLN n="1528"/><I>A</I>s glad am I to {fi}nde Sir <I>{*T}homas Goddard</I> 
+<TLN n="1529"/><I>A</I>s good Sir <I>Edmund {*T}reford</I> on the plaines: 
+<TLN n="1530"/>He like a {{s}h}eepheard,{#}and thou our countrie Miller.</S>
+<TLN n="1531"/><S><SP norm="Miller">M<I>iller</I>.</SP> <I>A</I>nd longer let not <I>Goddard</I> liue a day, 
+<TLN n="1532"/>Then he in honour loues his {s}oueraigne.</S>
+<SIG n="F3r"><C>F 3</C></SIG><CW><RA>W<I>illiam</I></RA></CW>
+<!--/COL-->
+</PAGE>
+
+<PAGE n="46">
+<RT><C>The Millers daughter</C></RT>
+<!--COL n="0"-->
+<TLN n="1533"/><S><SP norm="William"><I>{W}illiam</I>.</SP> But {s}ay Sir <I>{*T}homas</I>, {{s}h}all I giue thy daughter?</S>
+<TLN n="1534"/><S><SP norm="Miller">M<I>iller</I>.</SP> <I>Goddard</I> and all that he hath, 
+<TLN n="1535"/>Doth re{{s}t} at the plea{s}ure of your Maie{{s}t}ie.</S>
+<TLN n="1536"/><S><SP norm="William">W<I>illiam</I>.</SP># And what {s}ayes <I>Em</I> to louely <I>{*U}alingford</I>? 
+<TLN n="1537"/>It {s}eemde he loued you well, 
+<TLN n="1538"/>That for your {s}ake dur{{s}t} leaue his King.</S>
+<TLN n="1539"/><S><SP norm="Em"><I>{*E}m</I>.</SP> <I>{*E}m</I> re{{s}t}es at the plea{s}ure of your highnes#: 
+<TLN n="1540"/><I>A</I>nd would I were a wife for his de{s}ert.</S>
+<TLN n="1541"/><S><SP norm="William">W<I>illiam</I>.</SP> Then here Lord <I>Valingford</I>, 
+<TLN n="1542"/>Receiue faire <I>Em</I>. 
+<TLN n="1543"/>Here take her#, make her thy e{s}pou{s}ed wife. 
+<TLN n="1544"/>Then goe we in, that preparation may be made, 
+<TLN n="1545"/>to {s}ee the{s}e nuptials {s}olemly performed.</S>
+<L/>
+<TLN n="1546"/><C><SD t="exit" who="all"><I>Exeunt all</I>.</SD><SPACE n="2"/> <SD t="sound"><I>Sound drummes and {*T}rumpets</I>.</SD></C>
+</SCENE>
+</ACT>
+<L/>
+<TLN n="1547"/><BACKMATTER><C><CL><LS>FINIS</LS></CL>.</C></BACKMATTER>
+<SIG n="F4r"><C></C></SIG><CW><RA></RA></CW>
+<!--/COL-->
+</PAGE>
+
+</WORK>

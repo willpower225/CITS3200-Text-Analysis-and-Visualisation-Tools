@@ -1,0 +1,19 @@
+Examples
+
+public HashMap<String, ArrayList<Integer>> words;
+	"thy" mapped to ArrayList = {56, 1243, 1908, 4031}
+	// means thy occurs at index 56, 1243, etc in playString
+
+public ArrayList<ArrayList<Integer>> acts;
+	acts = {{0, 5813, 7984},
+		{10245, 14875},
+		{20586, 22345, 28947}}
+	// means act 1 has 3 scenes, scene 1 starts at index 0, scene 2 starts at index 5813 etc, act 2 has 2 scenes …
+
+public HashMap<String, CharacterData> characters;
+	"Othello" mapped to: 
+		CharacterData object
+		public ArrayList<IndexRange> lines = {(514, 654), (1459, 1674), …
+		//means Othello had a line between index 514 and 654, another line between index 1459 and 1674
+		public ArrayList<IndexRange> onStageRanges = {(0, 1024), (1400, 2304), …
+		// means Othello was on stage between index 0 and 1024, again between 1400 and 2304 ...

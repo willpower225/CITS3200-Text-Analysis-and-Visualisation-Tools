@@ -1,0 +1,2006 @@
+<WORK genre="play">
+<iseHeader>
+<META name="ISE.comment" content="This text was prepared from the old-spelling transcription edited for the Digital Renaissance Editions. Edited by Brett D. Hirsch and Kevin Quarmby. Most recent revision, 2011-08-08." />
+<META name="ISE.EditStatus" content="Edited" />
+<META name="ISE.PeerReviewed" content="No" />
+<META name="ISE.EditorialPrinciple" content="This edition follows the protocols for modernizing Shakespeare that have been laid down in the Guidelines for Editors prepared for the Internet Shakespeare Editions. A link to the full essay on the modernization will be found on the title page." />
+<META name="ISE.PublishingHistory" content="Fair Em was first printed in an undated quarto (Q1), of which two copies are extant. One of these, held by the Canterbury Cathedral, is damaged and incomplete; the other copy is held in the Bodleian Library, and this text is the basis of all modern editions." />
+<META name="ISE.SectionDivision" content="scene" />
+<META name="ISE.SectionDisplay" content="1" />
+<META name="ISE.LineNumberInterval" content="5" />
+
+<LINK rel="schema.DC" href="http://purl.org/dc"/>
+<META name="DC.Title" content="Fair Em" />
+<META name="DC.Title.Alternative" content="Fair Em (Modern)" />
+<META name="DC.Creator" content="Anonymous" />
+<META name="DC.Subject" content="Fair Em, modern-spelling" />
+<META name="DC.Description" content="A modern-spelling edition of Fair Em." />
+<META name="DC.Publisher" content="Digital Renaissance Editions" />
+<META name="DC.Contributor.Editor" content="Hirsch, Brett D." />
+<META name="DC.Contributor.Editor" content="Quarmby, Kevin." />
+<META name="DC.Contributor.Textual.Editor" content="" />
+<META name="DC.Contributor.Coordinating.Editor" content="Hirsch, Brett D." />
+<META name="DC.Contributor.Associate.Textual.Editor" content="" />
+<META name="DC.Contributor.Research.Assistant" content="" />
+<META name="DC.Date" scheme="W3CDTF" content="2011-08-08" />
+<META name="DC.Date.Modified" scheme="W3CDTF" content="2011-08-08" />
+<META name="DC.Type" content="text" />
+<META name="DC.Format" content="text/sgml" />
+<META name="DC.Identifier" scheme="MLA" content="FairEm_M" />
+<META name="DC.Identifier" scheme="ISBN" content="" />
+<META name="DC.Source" content="Modern" />
+<META name="DC.Language" scheme="RFC1766" content="en" />
+<META name="DC.Relation" content="http://dre.internetshakespeare.uvic.ca/" />
+<META name="DC.Relation.IsFormatOf" content="Hinman, Charlton, ed. Norton Facsimile of the First Folio. New York: W.W. Norton, 1968." />
+<META name="DC.Rights" content="Copyright Brett D. Hirsch and Kevin Quarmby. This text may be freely used for educational, non-profit purposes; for all other uses contact the Editors." />
+</iseHeader>
+
+<!-- Question: are we keeping "troth" or emending to "truth"? -->
+
+<TITLEHEAD>Fair Em, The Miller's Daughter of Manchester</TITLEHEAD>
+<ACT n="1">
+<SCENE n="1">
+<H2><TLN n="1"/>[1.1]</H2>
+
+<SD t="entrance"><TLN n="2"/>Enter William the Conqueror, Marquis Lubeck with a picture [painted on his <PROP>shield</PROP>], <TLN n="2"/>Mountney, Manvile, Valingford, and Duke Dirot.</SD>
+
+<MODE t="verse">
+<L n="1"/><TLN n="4"/><S><SP>Lubeck</SP> What means fair Britain's mighty conqueror
+<L n="2"/><TLN n="5"/>So suddenly to cast away his staff,
+<L n="3"/><TLN n="6"/>And in all passion to forsake the tilt?</S>
+
+<L n="4"/><TLN n="7"/><S><SP>Dirot</SP> My lord, this triumph we solemnize here
+<L n="5"/><TLN n="8"/>Is of mere love to your increasing joys,
+<L n="6"/><TLN n="9"/>Only expecting cheerful looks for all.
+<L n="7"/><TLN n="10"/>What sudden pangs then moves your majesty
+<L n="8"/><TLN n="11"/>To dim the brightness of the day with frowns?</S>
+
+<L n="9"/><TLN n="12"/><S><SP>William</SP> Ah, good my lords, misconster not the cause;
+<L n="10"/><TLN n="13"/>At least suspect not my displeas{`e}d brows,
+<L n="11"/><TLN n="14"/>I amorously do bear to your intent.
+<L n="12"/><TLN n="15"/>For thanks and all that you can wish, I yield.
+<L n="13"/><TLN n="16"/>But that, which makes me blush and shame to tell,
+<L n="14"/><TLN n="17"/>Is cause why thus I turn my conquering eyes
+<L n="15"/><TLN n="18"/>To cowards' looks and beaten fantasties.</S>
+
+<L n="16"/><TLN n="19"/><S><SP>Mountney</SP> Since we are guiltless, we the less dismay
+<L n="17"/><TLN n="20"/>To see this sudden change possess your cheer:
+<L n="18"/><TLN n="21"/>For if it issue from your own conceits,
+<L n="19"/><TLN n="22"/>Bred by suggestion of some envious thoughts,
+<L n="20"/><TLN n="23"/>Your highness' wisdom may suppress it straight.
+<L n="21"/><TLN n="24"/>Yet tell us, good my lord, what thought it is
+<L n="22"/><TLN n="25"/>That thus bereaves you of your late content,
+<L n="23"/><TLN n="26"/>That in advice we may assist your grace
+<L n="24"/><TLN n="27"/>Or bend our forces to revive your spirits.</S>
+
+<L n="25"/><TLN n="28"/><S><SP>William</SP> Ah, Marquis Lubeck, in thy power it lies
+<L n="26"/><TLN n="29"/>To rid my bosom of these thrall{`e}d dumps;
+<L n="27"/><TLN n="30"/>And therefore, good my lords, forbear awhile
+<L n="28"/><TLN n="31"/>That we may parley of these private cares,
+<L n="29"/><TLN n="32"/>Whose strength subdues me more than all the world.</S>
+
+<L n="30"/><TLN n="33"/><S><SP>Valingford</SP> We go, and wish thee private conference,
+<L n="31"/><TLN n="34"/>Public affects in this accustomed peace.</S>
+
+<SD t="exit"><TLN n="35"/>Exit all but William and the Marquis [Lubeck].</SD>
+
+<L n="32"/><TLN n="36"/><S><SP>William</SP> Now, Marquis, must a conqueror-at-arms
+<L n="33"/><TLN n="37"/>Disclose himself thralled to unarm{`e}d thoughts
+<L n="34"/><TLN n="38"/>And, threat'ned of a shadow, yield to lust. 
+<L n="35"/><TLN n="39"/>No sooner had my sparkling eyes beheld
+<L n="36"/><TLN n="40"/>The flames of beauty blazing on this piece
+<L n="37"/><TLN n="41"/>But suddenly a sense of miracle
+<L n="38"/><TLN n="42"/>Imagined on thy lovely mistress' face
+<L n="39"/><TLN n="43"/>Made me abandon bodily regard
+<L n="40"/><TLN n="44"/>And cast all pleasures on my wounded soul.
+<L n="41"/><TLN n="45"/>Then, gentle Marquis, tell me what she is
+<L n="42"/><TLN n="46"/>That thus thou honorest on thy warlike shield,
+<L n="43"/><TLN n="47"/>And if thy love and interest be such
+<L n="44"/><TLN n="48"/>As justly may give place to mine; 
+<L n="45"/><TLN n="49"/>That if it be, my soul with honor's wings
+<L n="46"/><TLN n="50"/>May fly into the bosom of my dear.
+<L n="47"/><TLN n="51"/>If not, close them and stoop into my grave.</S>
+
+<L n="48"/><TLN n="52"/><S><SP>Lubeck</SP> If this be all, renowned conqueror,
+<L n="49"/><TLN n="53"/>Advance your drooping spirits and revive
+<L n="50"/><TLN n="54"/>The wonted courage of your conquering mind;
+<L n="51"/><TLN n="55"/>For this fair picture painted on my shield
+<L n="52"/><TLN n="56"/>Is the true counterfeit of lovely Blanch,
+<L n="53"/><TLN n="57"/>Princess and daughter to the King of Danes,
+<L n="54"/><TLN n="58"/>Whose beauty and excess of ornaments
+<L n="55"/><TLN n="59"/>Deserves another manner of defense,
+<L n="56"/><TLN n="60"/>Pomp, and high person, to attend her state
+<L n="57"/><TLN n="61"/>Than Marquis Lubeck any way presents.
+<L n="58"/><TLN n="62"/>Therefore her virtues I resign to thee,
+<L n="59"/><TLN n="63"/>Already shrined in thy religious breast,
+<L n="60"/><TLN n="64"/>To be advanced and honored to the full.
+<L n="61"/><TLN n="65"/>Nor bear I this an argument of love,
+<L n="62"/><TLN n="66"/>But to renown fair Blanch, my sovereign's child,
+<L n="63"/><TLN n="67"/>In every place where I by arms may do it.</S>
+
+<L n="64"/><TLN n="68"/><S><SP>William</SP> Ah, Marquis, thy words bring heaven unto my soul
+<L n="65"/><TLN n="69"/>And had I heaven to give for thy reward,
+<L n="66"/><TLN n="70"/>Thou should'st be throned in no unworthy place;
+<L n="67"/><TLN n="71"/>But let my uttermost wealth suffice thy worth,
+<L n="68"/><TLN n="72"/>Which here I vow. And to aspire the bliss
+<L n="69"/><TLN n="73"/>That hangs on quick achievement of my love,
+<L n="70"/><TLN n="74"/>Thyself and I will travel in disguise
+<L n="71"/><TLN n="75"/>To bring this lady to our Britain court.</S>
+
+<L n="72"/><TLN n="76"/><S><SP>Lubeck</SP> Let William but bethink what may avail,
+<L n="73"/><TLN n="77"/>And let me die if I deny my aid.</S>
+
+<L n="74"/><TLN n="78"/><S><SP>William</SP> Then thus the Duke Dirot and th' Earl Demarch
+<L n="75"/><TLN n="79"/>Will I leave substitutes to rule my realm
+<L n="76"/><TLN n="80"/>While mighty love forbids my being here,
+<L n="77"/><TLN n="81"/>And in the name of Sir Robert of Windsor
+<L n="78"/><TLN n="82"/>Will go with thee unto the Danish court.
+<L n="79"/><TLN n="83"/>Keep William's secrets, Marquis, if thou love him.
+<L n="80"/><TLN n="84"/>Bright Blanch I come; sweet fortune favour me,
+<L n="81"/><TLN n="85"/>And I will laud thy name eternally.</S>
+
+<SD t="exit"><TLN n="86"/>Exeunt.</SD>
+
+</SCENE>
+<SCENE n="2"><H2>[1.2]</H2>
+
+<SD t="entrance"><TLN n="87"/>Enter the Miller, and Em, his daughter.</SD>
+
+<L n="82"/><TLN n="88"/><S><SP>Miller</SP> Come, daughter, we must learn to shake off pomp,
+<L n="83"/><TLN n="89"/>To leave the state that erst beseemed a knight
+<L n="84"/><TLN n="90"/>And gentleman of no mean descent,
+<L n="85"/><TLN n="91"/>To undertake this homely miller's trade.
+<L n="86"/><TLN n="92"/>Thus must we mask to save our wretched lives,
+<L n="87"/><TLN n="93"/>Threat'ned by conquest of this hapless isle
+<L n="88"/><TLN n="94"/>Whose sad invasions by the Conqueror
+<L n="89"/><TLN n="95"/>Have made a number such as we subject
+<L n="90"/><TLN n="96"/>Their gentle necks unto their stubborn yoke
+<L n="91"/><TLN n="97"/>Of drudging labour and base peasantry.
+<L n="92"/><TLN n="98"/>Sir Thomas Goddard now old Goddard is,
+<L n="93"/><TLN n="99"/>Goddard the miller of fair Manchester.
+<L n="94"/><TLN n="100"/>Why should not I content me with this state,
+<L n="95"/><TLN n="101"/>As good Sir Edmund Trafford did the flail?
+<L n="96"/><TLN n="102"/>And thou, sweet Em, must stoop to high estate
+<L n="97"/><TLN n="103"/>To join with mine, that thus we may protect
+<L n="98"/><TLN n="104"/>Our harmless lives, which led in greater port,
+<L n="99"/><TLN n="105"/>Would be an envious object to our foes
+<L n="100"/><TLN n="106"/>That seek to root all Britain's gentry
+<L n="101"/><TLN n="107"/>From bearing countenance against their tyrrany.</S>
+
+<L n="102"/><TLN n="108"/><S><SP>Em</SP> Good father, let my full resolved thoughts
+<L n="103"/><TLN n="109"/>With settled patience to support this chance
+<L n="104"/><TLN n="110"/>Be some poor comfort to your ag{`e}d soul,
+<L n="105"/><TLN n="111"/>For therein rests the height of my estate:
+<L n="106"/><TLN n="112"/>That you are pleased with this dejection,
+<L n="107"/><TLN n="113"/>And that all toils my hands may undertake
+<L n="108"/><TLN n="114"/>May serve to work your worthiness' content.</S>
+
+<L n="109"/><TLN n="115"/><S><SP>Miller</SP> Thanks, my dear daughter. These thy pleasant words
+<L n="110"/><TLN n="116"/>Transfer my soul into a second heaven,
+<L n="111"/><TLN n="117"/>And in thy settled mind my joys consist,
+<L n="112"/><TLN n="118"/>My state revived, and I in former plight.
+<L n="113"/><TLN n="129"/>Although our outward pomp be thus abased,
+<L n="114"/><TLN n="120"/>And thralled to drudging stayless of the world,
+<L n="115"/><TLN n="121"/>Let us retain those honorable minds
+<L n="116"/><TLN n="122"/>That lately governed our superior state,
+<L n="117"/><TLN n="123"/>Wherein true gentry is the only mean
+<L n="118"/><TLN n="124"/>That makes us differ from base millers born.
+<L n="119"/><TLN n="125"/>Though we expect no knightly delicates
+<L n="120"/><TLN n="126"/>Nor thirst in soul for former sovereignty,
+<L n="121"/><TLN n="127"/>Yet may our minds as highly scorn to stoop
+<L n="122"/><TLN n="128"/>To base desires of vulgars' worldliness,
+<L n="123"/><TLN n="129"/>As if we were in our precedent way.
+<L n="124"/><TLN n="130"/>And, lovely daughter, since thy youthful years
+<L n="125"/><TLN n="131"/>Must needs admit as young affections
+<L n="126"/><TLN n="132"/>And that sweet love unpartial receives
+<L n="127"/><TLN n="133"/>Her dainty subjects through every part,
+<L n="128"/><TLN n="134"/>In chief receive these lessons from my lips
+<L n="129"/><TLN n="135"/>(The true discoverers of a virgin's due
+<L n="130"/><TLN n="136"/>Now requisite): now that I know thy mind
+<L n="131"/><TLN n="137"/>Something inclined to favor Manvile's suit,
+<L n="132"/><TLN n="138"/>A gentleman, thy lover in protest,
+<L n="133"/><TLN n="139"/>And that you mayst not be by love deceived
+<L n="134"/><TLN n="140"/>But try his meaning fit for thy desert
+<L n="135"/><TLN n="141"/>In pursuit of all amorous desires,
+<L n="136"/><TLN n="142"/>Regard thine honor. Let not vehement sighs
+<L n="137"/><TLN n="143"/>Nor earnest vows importing fervent love
+<L n="138"/><TLN n="144"/>Render thee subject to the wrath of lust,
+<L n="139"/><TLN n="145"/>For that, transformed to former sweet delight,
+<L n="140"/><TLN n="146"/>Will bring thy body and thy soul to shame.
+<L n="141"/><TLN n="147"/>Chaste thoughts and modest conversations
+<L n="142"/><TLN n="148"/>Of proof to keep out all enchanting vows,
+<L n="143"/><TLN n="149"/>Vain sights, forced tears, and pitiful aspects,
+<L n="144"/><TLN n="150"/>Are they that make deform{`e}d ladies fair,
+<L n="145"/><TLN n="151"/>Poor rich, and such enticing men
+<L n="146"/><TLN n="152"/>That seek of all but only present grace
+<L n="147"/><TLN n="153"/>Shall, in perseverance of a virgin's due,
+<L n="148"/><TLN n="154"/>Prefer the most refusers to the choice
+<L n="149"/><TLN n="155"/>Of such a soul as yielded what they thought.
+<L n="150"/><TLN n="156"/>But ho! Where is Trotter?</S>
+</MODE>
+
+<SD t="entrance"><TLN n="157"/>Here enters Trotter, the Miller's man, to them.</SD> <SD t="sound"><TLN n="158"/> And they within call to him for their grist.</SD>
+
+<MODE t="prose"/>
+<L n="151"/><TLN n="159"/><S><SP>Trotter</SP> Where's Trotter? Why, Trotter is here. <TLN n="160"/>I'faith, you and your daughter go up and down weeping <TLN n="161"/>and wamenting and keeping of a wamentation, <TLN n="162"/>as who should say, the mill would go with your wamenting.</S>
+</MODE>
+
+<MODE t="verse">
+<L n="152"/><TLN n="163"/><S><SP>Miller</SP> How now, Trotter? Why complainest thou so?</S>
+</MODE>
+
+<MODE t="prose">
+<L n="153"/><TLN n="164"/><S><SP>Trotter</SP> Why, yonder is a company of young men and maids <TLN n="165"/>keep such a stir for their grist that they would have it before <TLN n="166"/>my stones be ready to grind it. But i'faith, I would I could <TLN n="167"/>break wind enough backward; you should not tarry for your <TLN n="168"/>grist, I warrant you.</S>
+
+<L n="154"/><TLN n="169"/><S><SP>Miller</SP> Content thee, Trotter, I will go pacify them.</S>
+
+<L n="155"/><TLN n="170"/><S><SP>Trotter</SP> Iwis you will, when I cannot. Why look, <TLN n="171"/>you have a mill. Why, what's your mill without me? <SD t="action">[Here he taketh Em about the neck.]</SD> <TLN n="172"/>Or rather, mistress, what were I without you?</S>
+
+<L n="156"/><TLN n="173"/><S><SP>Em</SP> Nay, Trotter, if you fall a-chiding, I will give you over.</S>
+
+<L n="157"/><TLN n="174"/><S><SP>Trotter</SP> I chide you, dame, to amend you. <TLN n="175"/>You are too fine to be a miller's daughter, <TLN n="176"/>for if you should but stoop to take up the toll-dish, <TLN n="177"/>you will have the cramp in your finger <TLN n="178"/>at least ten weeks after.</S>
+
+<L n="158"/><TLN n="179"/><S><SP>Miller</SP> Ah, well said, Trotter! Teach her to play the good huswife <TLN n="180"/>and thou shalt have her to thy wife, if thou canst get her good will.</S>
+
+<L n="159"/><TLN n="181"/><S><SP>Trotter</SP> Ah, words wherein I see matrimony come loaden <TLN n="182"/>with kisses to salute me. Now let me alone to pick the mill, <TLN n="183"/>to fill the hopper, to take the toll, to mend the sails, <TLN n="184"/>yea, and to make the mill to go with the very force of my love.
+
+<SD t="sound"><TLN n="185"/>Here they must call [Trotter again] for their grist within.</SD>
+
+<TLN n="186"/>I come, I come. I'faith, now you shall have your grist, <TLN n="187"/>or else Trotter will trot and amble himself to death.</S>
+</MODE>
+
+<SD t="sound"><TLN n="188"/>They call [Trotter] again [within].</SD> <SD t="exit">Exit [all].</SD>
+
+</SCENE>
+<SCENE n="3"><H2>[1.3]</H2>
+
+<SD t="entrance"><TLN n="189"/>Enter [Zweno], King of Denmark, with some attendants; Blanch, his <TLN n="190"/>daughter; Mariana; Marquis Lubeck; [and] William, <TLN n="191"/>disguised [as Sir Robert of Windsor].</SD>
+
+<MODE t="verse">
+<L n="160"/><TLN n="192"/><S><SP>Zweno</SP> Lord Marques Lubeck, welcome home.
+<L n="161"/><TLN n="193"/><SD t="whoto">[To Robert]</SD> Welcome, brave knight, unto the Denmark king.
+<L n="162"/><TLN n="194"/>For William's sake, the noble Norman duke,
+<L n="163"/><TLN n="195"/>So famous for his fortunes and success
+<L n="164"/><TLN n="196"/>That graceth him with the name of Conqueror,
+<L n="165"/><TLN n="197"/>Right double welcome must thou be to us.</S>
+<L n="166"/><TLN n="198"/><S><SP>Robert</SP> And to my lord the king shall I recount
+<L n="167"/><TLN n="199"/>Your grace's courteous entertainment
+<L n="168"/><TLN n="200"/>That for his sake vouchsafe to honor me,
+<L n="169"/><TLN n="201"/>A simple knight attendant on his grace.</S>
+
+<L n="170"/><TLN n="202"/><S><SP>Zweno</SP> But say, Sir Knight, what may I call your name?</S>
+
+<L n="171"/><TLN n="203"/><S><SP>Robert</SP> Robert Windsor, and like your majesty.</S>
+
+<L n="172"/><TLN n="204"/><S><SP>Zweno</SP> I tell thee, Robert, I so admire the man
+<L n="173"/><TLN n="205"/>As that I count it heinous guilt in him
+<L n="174"/><TLN n="206"/>That honors not Duke William with his heart.
+<L n="175"/><TLN n="207"/><SD t="whoto">[To Blanch]</SD> Blanch, bid this stranger welcome, good my girl.</S>
+
+<L n="176"/><TLN n="208"/><S><SP>Blanch</SP> Sir, 
+<L n="177"/>Should I neglect your highness' charge herein,
+<L n="178"/><TLN n="209"/>It might be thought of base discourtesy.
+<L n="179"/><TLN n="210"/>Welcome, Sir Knight, to Denmark heartily.</S>
+
+<L n="180"/><TLN n="211"/><S><SP>Robert</SP> Thanks, gentle lady. <SD t="whoto">[To Lubeck]</SD> Lord Marquis, what is she?</S>
+
+<L n="181"/><TLN n="212"/><S><SP>Lubeck</SP> That same is Blanch, daughter to the king,
+<L n="182"/><TLN n="213"/>The substance of the shadow that you saw.</S>
+
+<L n="183"/><TLN n="214"/><S><SP>Robert</SP> May this be she for whom I cross'd the seas?
+<L n="184"/><TLN n="215"/>I am ashamed to think I was so fond!
+<L n="185"/><TLN n="216"/>In whom there's nothing that contents my mind:
+<L n="186"/><TLN n="217"/>Ill head, worse featured, uncomely, nothing courtly,
+<L n="187"/><TLN n="218"/>Swart and ill-favored, a collier's sanguine skin;
+<L n="188"/><TLN n="219"/>I never saw a harder-favored slut.
+<L n="189"/><TLN n="220"/>Love her? For what! I can no whit abide her.</S>
+
+<L n="190"/><TLN n="221"/><S><SP>Zweno</SP> Mariana, I have this day received letters
+<L n="191"/><TLN n="222"/>From Swethia that lets me understand
+<L n="192"/><TLN n="223"/>Your ransom is collecting there with speed,
+<L n="193"/><TLN n="224"/>And shortly shall be hither sent to us.</S>
+
+<L n="194"/><TLN n="225"/><S><SP>Mariana</SP> Not that I find occasion of mislike
+<L n="195"/><TLN n="226"/>My entertainment in your grace's court,
+<L n="196"/><TLN n="227"/>But that I long to see my native home --</S>
+
+<L n="197"/><TLN n="228"/><S><SP>Zweno</SP> And reason have you, madam, for the same.
+<L n="198"/><TLN n="229"/>Lord Marquis, I commit unto your charge
+<L n="199"/><TLN n="230"/>The entertainment of Sir Robert here.
+<L n="200"/><TLN n="231"/>Let him remain with you within the court
+<L n="201"/><TLN n="232"/>In solace and disport, to spend the time.</S>
+
+<L n="202"/><TLN n="234"/><S><SP>Robert</SP> I thank your highness, whose bounden I remain.</S>
+
+<SD t="exit"><TLN n="233"/>Exit [Zweno].</SD>
+
+<SD t="setting"><TLN n="235"/>Blanch speaketh this secretly at one end of the stage.</SD>
+
+<L n="203"/><TLN n="236"/><S><SP>[Blanch]</SP> Unhappy Blanch, what strange effects are these
+<L n="204"/><TLN n="237"/>That works within my thoughts confusedly,
+<L n="205"/><TLN n="238"/>That still methinks affection draws me on
+<L n="206"/><TLN n="239"/>To take, to like, nay more, to love this knight?</S>
+
+<L n="207"/><TLN n="240"/><S><SP>Robert</SP> <SD t="whoto">[Aside]</SD> A modest countenance, no heavy sullen look,
+<L n="208"/><TLN n="241"/>Not very fair but richly decked with favor,
+<L n="209"/><TLN n="242"/>A sweet face, an exceeding dainty hand,
+<L n="210"/><TLN n="243"/>A body, were it framed of wax
+<L n="211"/><TLN n="244"/>By all the cunning artists of the world,
+<L n="212"/><TLN n="245"/>It could not better be proportion{`e}d.</S>
+
+<L n="213"/><TLN n="246"/><S><SP>Lubeck</SP> How now, Sir Robert? In a study, man?
+<L n="214"/><TLN n="247"/>Here is no time for contemplation.</S>
+
+<L n="215"/><TLN n="248"/><S><SP>Robert</SP> My lord, there is a certain odd conceit
+<L n="216"/><TLN n="249"/>Which on the suddent greatly troubles me.</S>
+
+<L n="217"/><TLN n="250"/><S><SP>Lubeck</SP> How like you Blanch? I partly do perceive
+<L n="218"/><TLN n="251"/>The little boy hath played the wag with you.</S>
+
+<L n="219"/><TLN n="252"/><S><SP>Robert</SP> The more I look, the more I love to look.
+<L n="220"/><TLN n="253"/>Who says that Mariana is not fair?
+<L n="221"/><TLN n="254"/>I'll gage my gauntlet 'gainst the envious man
+<L n="222"/><TLN n="255"/>That dares avow there liveth her compare.</S>
+
+<L n="223"/><TLN n="256"/><S><SP>Lubeck</SP> Sir Robert, you mistake your counterfeit.
+<L n="224"/><TLN n="257"/>This is the lady which you came to see.</S>
+
+<L n="225"/><TLN n="258"/><S><SP>Robert</SP> Yeah, my lord, she is counterfeit indeed,
+<L n="226"/><TLN n="259"/>For there is the substance that best contents me.</S>
+
+<L n="227"/><TLN n="260"/><S><SP>Lubeck</SP> That is my love. Sir Robert, you do wrong me.</S>
+
+<L n="228"/><TLN n="261"/><S><SP>Robert</SP> The better for you, sir, she is your love.
+<L n="229"/><TLN n="262"/>As for the wrong, I see not how it grows.</S>
+
+<L n="230"/><TLN n="263"/><S><SP>Lubeck</SP> In seeking that which is another's right.</S>
+
+<L n="231"/><TLN n="264"/><S><SP>Robert</SP> As who should say your love were privileged,
+<L n="232"/><TLN n="265"/>That none might look upon her but yourself?</S>
+
+<L n="233"/><TLN n="266"/><S><SP>Lubeck</SP> These jars becomes not our familiarity,
+<L n="234"/><TLN n="267"/>Nor will I stand on terms to move your patience.</S>
+
+<L n="235"/><TLN n="268"/><S><SP>Robert</SP> Why, my lord, am not I of flesh and blood as well as you?
+<L n="236"/><TLN n="269"/>Then give me leave to love as well as you.</S>
+
+<L n="237"/><TLN n="270"/><S><SP>Lubeck</SP> To love, Sir Robert? But whom? Not she I love?
+<L n="238"/><TLN n="271"/>Nor stands it with the honor of my state
+<L n="239"/><TLN n="272"/>To brook corrivals with me in my love.</S>
+
+<L n="240"/><TLN n="273"/><S><SP>Robert</SP> So, sir, we are thorough for that lady.
+<L n="241"/><TLN n="274"/>Ladies, farewell. Lord Marquis, will you go?
+<L n="242"/><TLN n="275"/>I will find a time to speak with her, I trow.</S>
+
+<L n="243"/><TLN n="276"/><S><SP>Lubeck</SP> With all my heart. Come, ladies, will you walk?</S>
+<SD t="exit">Exit [all].</SD>
+
+</SCENE>
+<SCENE n="4"><H2>[1.4]</H2>
+
+<SD t="entrance"><TLN n="277"/>Enter Manvile alone, disguised.</SD>
+
+<L n="244"/><TLN n="278"/><S><SP>Manvile</SP> Ah, Em, the subject of my restless thoughts,
+<L n="245"/><TLN n="279"/>The anvil whereupon my heart doth beat,
+<L n="246"/><TLN n="280"/>Framing thy state to thy desert,
+<L n="247"/><TLN n="281"/>Full ill this life becomes thy heavenly look
+<L n="248"/><TLN n="282"/>Wherein sweet love and virtue sits enthroned.
+<L n="249"/><TLN n="283"/>Bad world, where riches is esteemed above them both,
+<L n="250"/><TLN n="284"/>In whose base eyes nought else is bountiful. 
+<L n="251"/><TLN n="285"/>A miller's daughter, says the multitude,
+<L n="252"/><TLN n="286"/>Should not be loved of a gentleman.
+<L n="253"/><TLN n="287"/>But let them breathe their souls into the air:
+<L n="254"/><TLN n="288"/>Yet will I still affect thee as myself,
+<L n="255"/><TLN n="289"/>So thou be constant in thy plighted vow.
+<L n="256"/><TLN n="290"/>But here comes one: I will listen to his talk.</S>
+
+<SD t="entrance"><TLN n="291"/>Enter Valingford at another door, disguised.</SD> <SD t="action, setting">Manvile stays, hiding himself.</SD>
+
+<L n="257"/><TLN n="292"/><S><SP>Valingford</SP> Go, William Conqueror, and seek thy love.
+<L n="258"/><TLN n="293"/>Seek thou a minion in a foreign land
+<L n="259"/><TLN n="294"/>Whilst I draw back and court my love at home.
+<L n="260"/><TLN n="295"/>The miller's daughter of fair Manchester
+<L n="261"/><TLN n="296"/>Hath bound my feet to this delightsome soil,
+<L n="262"/><TLN n="297"/>And from her eyes do dart such golden beams
+<L n="263"/><TLN n="298"/>That holds my heart in her subjection.</S>
+
+<L n="264"/><TLN n="299"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> He ruminates on my beloved choice.
+<L n="265"/><TLN n="300"/>God grant he come not to prevent my hope!
+<L n="266"/><TLN n="301"/>But here's another: him I'll listen to.</S>
+
+<SD t="entrance"><TLN n="302"/>Enter Mountney, disguised, at another door.</SD>
+
+<L n="267"/><TLN n="303"/><S><SP>Mountney</SP> Nature unjust, in utterance of thy art,
+<L n="268"/><TLN n="304"/>To grace a peasant with a prince's fame!
+<L n="269"/><TLN n="305"/>Peasant am I, so to misterm my love.
+<L n="270"/><TLN n="306"/>Although a miller's daught by her birth,
+<L n="271"/><TLN n="307"/>Yet may her beauty and her virtues well suffice
+<L n="272"/><TLN n="308"/>To hide the blemish of her birth in hell,
+<L n="273"/><TLN n="309"/>Where neither envious eyes nor thought can pierce
+<L n="274"/><TLN n="310"/>But endless darkness ever smother it.
+<L n="275"/><TLN n="311"/>Go, William Conqueror, and seek thy love
+<L n="276"/><TLN n="312"/>Whilst I draw back and court mine own the while,
+<L n="277"/><TLN n="313"/>Decking her body with such costly robes
+<L n="278"/><TLN n="314"/>As may become her beauty's worthiness,
+<L n="279"/><TLN n="315"/>That so thy labors may be laughed to scorne
+<L n="280"/><TLN n="316"/>And she thou seekest in foreign regions
+<L n="281"/><TLN n="317"/>Be darkened and eclipsed when she arrives
+<L n="282"/><TLN n="318"/>By one that I have chosen nearer home.</S>
+
+<L n="283"/><TLN n="319"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> What, comes he too, to intercept my love?
+<L n="284"/><TLN n="320"/>Then hie thee, Manvile, to forestall such foes.</S>
+
+<SD t="exit">Exit Manvile.</SD>
+
+<L n="285"/><TLN n="321"/><S><SP>Mountney</SP> What now, Lord Valingford, are you behind?
+<L n="286"/><TLN n="322"/>The king had chosen you to go with him.</S>
+
+<L n="287"/><TLN n="323"/><S><SP>Valingford</SP> So chose he you, therefore I marvel much
+<L n="288"/><TLN n="324"/>That both of us should linger in this sort.
+<L n="289"/><TLN n="325"/>What may the king imagine of our stay?</S>
+
+<L n="290"/><TLN n="326"/><S><SP>Mountney</SP> The king may justly think we are to blame,
+<L n="291"/><TLN n="327"/>But I imagined I might well be spared
+<L n="292"/><TLN n="328"/>And that no other man had borne my mind.</S>
+
+<L n="293"/><TLN n="329"/><S><SP>Valingford</SP> The like did I. In friendship then resolve
+<L n="294"/><TLN n="330"/>What is the cause of your unlooked for stay?</S>
+
+<L n="295"/><TLN n="331"/><S><SP>Mountney</SP> Lord Valingford, I tell thee as a friend:
+<L n="296"/><TLN n="332"/>Love is the cause why I have stayed behind.</S>
+
+<L n="297"/><TLN n="333"/><S><SP>Valingford</SP> Love, my lord? Of whom?</S>
+
+<L n="298"/><TLN n="334"/><S><SP>Mountney</SP> Em, the miller's daughter of Manchester.</S>
+
+<L n="299"/><TLN n="335"/><S><SP>Valingford</SP> But may this be?</S>
+
+<L n="300"/><TLN n="336"/><S><SP>Mountney</SP> Why not, my lord? I hope full well you know
+<L n="301"/><TLN n="337"/>That love respects no difference of state,
+<L n="302"/><TLN n="338"/>So beauty serve to stir affection.</S>
+
+<L n="303"/><TLN n="339"/><S><SP>Valingford</SP> But this it is that makes me wonder most:
+<L n="304"/><TLN n="340"/>That you and I should be of one conceit
+<L n="305"/><TLN n="341"/>In such a strange unlikely passion.</S>
+
+<L n="306"/><TLN n="342"/><S><SP>Mountney</SP> But is that true? My lord, I hope you do but jest.</S>
+
+<L n="307"/><TLN n="343"/><S><SP>Valingford</SP> I would I did, then were my grief the less.</S>
+
+<L n="308"/><TLN n="344"/><S><SP>Mountney</SP> Nay, never grieve, for if the cause be such
+<L n="309"/><TLN n="345"/>To join our thoughts in such a sympathy,
+<L n="310"/><TLN n="346"/>All envy set aside. Let us agree
+<L n="311"/><TLN n="347"/>To yield to either's fortune in this choice.</S>
+
+<L n="312"/><TLN n="348"/><S><SP>Valingford</SP> Content, say I, and whatso'er befall,
+<L n="313"/><TLN n="349"/>Shake hands, my lord, and fortune thrive at all.</S>
+
+<SD t="exit">Exeunt.</SD>
+</MODE>
+
+</SCENE>
+<SCENE n="5"><H2>[1.5]</H2>
+
+<SD t="entrance"><TLN n="350"/>Enter Em; and Trotter, the Miller's man, with a <PROP>kerchief</PROP> on <TLN n="351"/>his head and an <PROP>urinal</PROP> in his hand.</SD>
+
+<MODE t="prose">
+<L n="314"/><TLN n="352"/><S><SP>Em</SP> Trotter, where have you been?</S>
+
+<L n="315"/><TLN n="353"/><S><SP>Trotter</SP> Where have I been? What signifies this?</S>
+
+<L n="316"/><TLN n="354"/><S><SP>Em</SP> A kerchief, doth it not?</S>
+
+<L n="317"/><TLN n="355"/><S><SP>Trotter</SP> What call you this, I pray?</S>
+
+<L n="318"/><TLN n="356"/><S><SP>Em</SP> I say it is an urinal.</S>
+
+<L n="319"/><TLN n="357"/><S><SP>Trotter</SP> This this is mystically to give you to understand <TLN n="358"/>I have been at the phismicary's house.</S>
+
+<L n="320"/><TLN n="359"/><S><SP>Em</SP> How long hast thou been sick?</S>
+
+<L n="321"/><TLN n="360"/><S><SP>Trotter</SP> I'faith, even as long as I have not been half well, <TLN n="361"/>and that hath been a long time.</S>
+
+<L n="322"/><TLN n="362"/><S><SP>Em</SP> A loitering time, I rather imagine.</S>
+
+<L n="323"/><TLN n="363"/><S><SP>Trotter</SP> It may be so, but the phismicary tells me that you can help me.</S>
+
+<L n="324"/><TLN n="364"/><S><SP>Em</SP> Why, anything I can do for recovery of thy health, <TLN n="365"/>be right well assured of.</S>
+
+<L n="325"/><TLN n="366"/><S><SP>Trotter</SP> Then give me your hand.</S>
+
+<L n="326"/><TLN n="367"/><S><SP>Em</SP> To what end?</S>
+</MODE>
+
+<MODE t="verse">
+<L n="327"/><TLN n="368"/><S><SP>Trotter</SP> That the ending of an old indenture
+<L n="328"/><TLN n="369"/>Is the beginning of a new bargain.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="329"/><TLN n="370"/><S><SP>Em</SP> What bargain?</S>
+
+<L n="330"/><TLN n="371"/><S><SP>Trotter</SP> That you promised to do anything to recover my health.</S>
+
+<L n="331"/><TLN n="372"/><S><SP>Em</SP> On that condition I give thee my hand.</S>
+
+<L n="332"/><TLN n="373"/><S><SP>Trotter</SP> Ah, sweet Em.</S>
+
+<SD t="action">Here he offers to kiss her.</SD>
+
+<L n="333"/><TLN n="374"/><S><SP>Em</SP> How now, Trotter? Your master's daughter?</S>
+
+<L n="334"/><TLN n="375"/><S><SP>Trotter</SP> I'faith, I aim at the fairest.
+</MODE>
+
+<MODE t="verse">
+<L n="335"/><TLN n="376"/>Ah Em, sweet Em,
+<L n="336"/>Fresh as the flower
+<L n="337"/><TLN n="377"/>That hath the power
+<L n="338"/>To wound my heart,
+<L n="339"/><TLN n="378"/>And ease my smart.
+<L n="340"/>Of me, poor thief,
+<L n="341"/><TLN n="379"/>In prison bound, --</S>
+
+<L n="342"/><TLN n="380"/><S><SP>Em</SP> So all your rhyme
+<L n="343"/>Lies on the ground.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="344"/><TLN n="381"/>But what means this?</S>
+
+<L n="345"/><TLN n="382"/><S><SP>Trotter</SP> Ah, mark this device:
+</MODE>
+
+<MODE t="verse">
+<L n="346"/><TLN n="383"/>For thee, my love,
+<L n="347"/>Full sick I was,
+<L n="348"/>In hazard of my life:
+<L n="349"/><TLN n="384"/>Thy promise was
+<L n="350"/>To make me whole,
+<L n="351"/>And for to be my wife.
+<L n="352"/><TLN n="385"/>Let me enjoy my love, my dear,
+<L n="353"/><TLN n="386"/>And thou possess thy Trotter here.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="354"/><TLN n="387"/><S><SP>Em</SP> But I meant no such matter.</S>
+
+<L n="355"/><TLN n="388"/><S><SP>Trotter</SP> Yes, woos, but you did. I'll go to our parson, Sir John, <TLN n="389"/>and he shall mumble up the marriage out of hand.</S>
+
+<L n="356"/><TLN n="390"/><S><SP>Em</SP> But here comes one that will forbid the banns.</S>
+
+<SD t="entrance"><TLN n="391"/>Here enters Manvile to them.</SD>
+
+<L n="357"/><TLN n="392"/><S><SP>Trotter</SP> Ah, sir, you come too late.</S>
+
+<L n="358"/><TLN n="393"/><S><SP>Manvile</SP> What remedy, Trotter?</S>
+
+<L n="359"/><TLN n="394"/><S><SP>Em</SP> Go, Trotter, my father calls.</S>
+
+<L n="360"/><TLN n="395"/><S><SP>Trotter</SP> Would you have me go in, and leave you two here?</S>
+
+<L n="361"/><TLN n="396"/><S><SP>Em</SP> Why, darest thou not trust me?</S>
+
+<L n="362"/><TLN n="397"/><S><SP>Trotter</SP> Yes, 'faith, even as long as I see you.</S>
+
+<L n="363"/><TLN n="398"/><S><SP>Em</SP> Go thy ways, I pray thee heartily.</S>
+
+<L n="364"/><TLN n="399"/><S><SP>Trotter</SP> That same word "heartily" is of great force. <TLN n="400"/>I will go, but I pray, sir, beware you <TLN n="401"/>come now too near the wench.</S>
+
+<SD t="exit">Exit Trotter.</SD>
+</MODE>
+
+<MODE t="verse">
+<L n="365"/><TLN n="402"/><S><SP>Manvile</SP> I am greatly beholding to you.
+<L n="366"/><TLN n="403"/><SD t="whoto">[To Em]</SD> Ah, mistress, sometime I might have said, "My love,"
+<L n="367"/><TLN n="404"/>But time and fortune have bereav{`e}d me of that,
+<L n="368"/><TLN n="405"/>And I am abject in those gracious eyes
+<L n="369"/><TLN n="406"/>That with remorse erst saw into my grief,
+<L n="370"/><TLN n="407"/>May sit and sigh the sorrows of my heart.</S>
+
+<L n="371"/><TLN n="408"/><S><SP>Em</SP> Indeed, my Manvile hath some cause to doubt
+<L n="372"/><TLN n="409"/>When such a swain is rival in his love.</S>
+
+<L n="373"/><TLN n="410"/><S><SP>Manvile</SP> Ah Em, 
+<L n="374"/>Were he the man that causeth this mistrust
+<L n="375"/><TLN n="411"/>I should esteem of thee as at the first.</S>
+
+<L n="376"/><TLN n="412"/><S><SP>Em</SP> But is my love in earnest all this while?</S>
+
+<L n="377"/><TLN n="413"/><S><SP>Manvile</SP> Believe me, Em, it is not time to jest
+<L n="378"/><TLN n="414"/>When others 'joys what lately I possessed.</S>
+
+<L n="379"/><TLN n="415"/><S><SP>Em</SP> If touching love my Manvile charge me thus,
+<L n="380"/><TLN n="416"/>Unkindly must I take it at this hands,
+<L n="381"/><TLN n="417"/>For that my conscience clears me of offence.</S>
+
+<L n="382"/><TLN n="418"/><S><SP>Manvile</SP> Ah, impudent and shameless in thy ill,
+<L n="383"/><TLN n="419"/>That with thy cunning and defraudful tongue
+<L n="384"/><TLN n="420"/>Seekest to delude the honest-meaning mind.
+<L n="385"/><TLN n="421"/>Was never heard in Manchester before
+<L n="386"/><TLN n="422"/>Of truer love than hath been betwixt us twain?
+<L n="387"/><TLN n="423"/>And, for my part, how I have hazarded
+<L n="388"/><TLN n="424"/>Displeasure of my father and my friends
+<L n="389"/><TLN n="425"/>Thyself can witness. Yet, notwithstanding this,
+<L n="390"/><TLN n="426"/>Two gentlemen attending on Duke William,
+<L n="391"/><TLN n="427"/>Mountney and Valingford, as I heard them named,
+<L n="392"/><TLN n="428"/>Oft times resort to see and to be seen
+<L n="393"/><TLN n="429"/>Walking the street fast by thy father's door,
+<L n="394"/><TLN n="430"/>Whose glancing eyes up to the windows cast 
+<L n="395"/><TLN n="431"/>Gives testes of their masters' amorous heart.
+<L n="396"/><TLN n="432"/>This, Em, is noted and too much talked on.
+<L n="397"/><TLN n="433"/>Some see it without mistrust of ill;
+<L n="398"/><TLN n="434"/>Others there are that, scorning, grin thereat
+<L n="399"/><TLN n="435"/>And saith, "There goes the miller's daughter's wooers."
+<L n="400"/><TLN n="436"/>Ah me, whom chiefly and most of all it doth concern
+<L n="401"/><TLN n="437"/>To spend my time in grief and vex my soul.
+<L n="402"/><TLN n="438"/>To think my love should be rewarded thus,
+<L n="403"/><TLN n="439"/>And for thy sake abhor all womankind.</S>
+
+<L n="404"/><TLN n="440"/><S><SP>Em</SP> May not a maid look upon a man
+<L n="405"/><TLN n="441"/>Without suspicious judgment of the world?</S>
+
+<L n="406"/><TLN n="442"/><S><SP>Manvile</SP> <PROSEQUOTE>If sight do move offence, it is the better not to see.</PROSEQUOTE>
+<L n="407"/><TLN n="443"/>But thou didst more, unconstant as thou art,
+<L n="408"/><TLN n="444"/>For with them thou hadst talk and conference.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="409"/><TLN n="445"/><S><SP>Em</SP> May not a maid talk with a man without mistrust?</S>
+</MODE>
+
+<MODE t="verse">
+<L n="410"/><TLN n="446"/><S><SP>Manvile</SP> Not with such men suspected amorous.</S>
+
+<L n="411"/><TLN n="447"/><S><SP>Em</SP> I grieve to see my Manvile's jealousy.</S>
+
+<L n="412"/><TLN n="448"/><S><SP>Manvile</SP> Ah Em, faithful love is full of jealousy.
+<L n="413"/><TLN n="449"/>So did I love thee true and faithfully,
+<L n="414"/><TLN n="450"/>For which I am rewarded most unthankfully.</S>
+
+<SD t="exit"><TLN n="451"/>Exit [Manvile] in a rage.</SD>
+
+<L n="415"/><TLN n="452"/><S><SP>[Em]</SP> And so away? What, in displeasure gone?
+<L n="416"/><TLN n="453"/>And left me such a bitter-sweet to gnaw upon?
+<L n="417"/><TLN n="454"/>Ah Manvile, little wottest thou
+<L n="418"/><TLN n="455"/>How near this parting goeth to my heart.
+<L n="419"/><TLN n="456"/>Uncourteous love, whose followers reaps reward
+<L n="420"/><TLN n="457"/>Of hate, disdain, reproach, and infamy,
+<L n="421"/><TLN n="458"/>The fruit of frantic, bedlam jealousy.
+
+<SD t="entrance"><TLN n="459"/>Here enter Mountney to Em.</SD> 
+
+<L n="422"/><TLN n="460"/>But here comes one of these suspicious men:
+<L n="423"/><TLN n="461"/>Witness, my God, without desert of me,
+<L n="424"/><TLN n="462"/>For only Manvile honor I in heart,
+<L n="425"/><TLN n="463"/>Nor shall unkindness cause me from him to start.</S>
+
+<L n="426"/><TLN n="464"/><S><SP>Mountney</SP> For this good fortune, Venus, be thou blessed,
+<L n="427"/><TLN n="465"/>To meet my love, the mistress of my heart,
+<L n="428"/><TLN n="466"/>Where time and place gives opportunity
+<L n="429"/><TLN n="467"/>At full to let her understand my love.
+
+<L n="430"/><TLN n="469"/>Fair mistress, since my fortune sorts so well,
+
+<SD t="action"><TLN n="468"/>He turnes to Em and offers to take her by the hand.</SD>
+
+<L n="431"/><TLN n="470"/>Hear you a word. <SD t="action">[She goes from him.]</SD> What meaneth this?
+<L n="432" part="i"/><TLN n="471"/>Nay, stay, fair Em.</S>
+
+<L n="432" part="f"/><TLN n="472"/><S><SP>Em</SP> I am going homewards, sir.
+
+<L n="433"/><TLN n="473"/><S><SP>Mountney</SP> Yet stay, sweet love, to whom I must disclose
+<L n="434"/><TLN n="474"/>The hidden secrets of a lover's thoughts,
+<L n="435"/><TLN n="475"/>Not doubting but to find such kind remorse
+<L n="436"/><TLN n="476"/>As naturally you are enclined to.</S>
+
+<L n="437"/><TLN n="477"/><S><SP>Em</SP> The gentleman, your friend, sir,
+<L n="438"/><TLN n="478"/>I have not seen him this four days at the least.</S>
+
+<L n="439"/><TLN n="479"/><S><SP>Mountney</SP> What's that to me?
+<L n="440"/>I speak not, sweet, in person of my friend,
+<L n="441"/><TLN n="480"/>But for myself, whom if that love deserve
+<L n="442"/><TLN n="481"/>To have regard, being honorable love,
+<L n="443"/><TLN n="482"/>Not base affects of loose lascivious love
+<L n="444"/><TLN n="483"/>Whom youthful wantons play and dally with,
+<L n="445"/><TLN n="484"/>But that unites in honorable bands of holy rites
+<L n="446"/><TLN n="485"/>And knits the sacred knot that God's --</S> 
+
+<SD t="action">Here Em cuts him off.</SD>
+
+<L n="447"/><TLN n="486"/><S><SP>Em</SP> What mean you, sir, to keep me here so long?
+<L n="448"/><TLN n="487"/>I cannot understand you by your signs.
+<L n="449"/><TLN n="488"/>You keep a-prattling with your lips,
+<L n="450"/><TLN n="489"/>But never a word you speak that I can hear.</S>
+
+<L n="451"/><TLN n="490"/><S><SP>Mountney</SP> <SD t="whoto">[Aside]</SD> What, is she deaf? A great impediment,
+<L n="452"/><TLN n="491"/>Yet remedies there are for such defects. --
+<L n="453"/><TLN n="492"/>Sweet Em, it is no little grief to me
+<L n="454"/><TLN n="493"/>To see where nature in her pride of art
+<L n="455"/><TLN n="494"/>Hath wrought perfections rich and admirable --</S>
+
+<SD t="action">[Em interrupts him again.]</SD>
+
+<L n="456"/><TLN n="495"/><S><SP>Em</SP> Speak you to me, sir?</S>
+
+<L n="457"/><TLN n="496"/><S><SP>Mountney</SP> To thee, my only joy.</S>
+
+<L n="458"/><TLN n="497"/><S><SP>Em</SP> I cannot hear you.</S>
+
+<L n="459"/><TLN n="498"/><S><SP>Mountney</SP> O plague of fortune! O hell without compare!
+<L n="460"/><TLN n="499"/>What boots it us to gaze and not enjoy?</S>
+
+<L n="461"/><TLN n="500"/><S><SP>Em</SP> Fare you well, sir.</S>
+
+<SD t="exit">Exit Em.</SD>
+
+<L n="462"/><TLN n="501"/><S><SP>Mountney</SP> Farewell, my love. Nay, farewell life and all.
+<L n="463"/><TLN n="502"/>Could I procure redress for this infirmity
+<L n="464"/><TLN n="503"/>It might be means she would regard my suit.
+<L n="465"/><TLN n="504"/>I am acquainted with the king's physicians,
+<L n="466"/><TLN n="505"/>Amongst the which there's one, mine honest friend,
+<L n="467"/><TLN n="506"/>Signor Alberto, a very learned man.
+<L n="468"/><TLN n="507"/>His judgment will I have to help this ill.
+<L n="469"/><TLN n="508"/>Ah Em, fair Em, if art can make thee whole
+<L n="470"/><TLN n="509"/>I'll buy that sense for thee, although it cost me dear.
+<L n="471"/><TLN n="510"/>But Mountney, stay: this may be but deceit,
+<L n="472"/><TLN n="511"/>A matter feigned only to delude thee,
+<L n="473"/><TLN n="512"/>And not unlike, perhaps by Valingford.
+<L n="474"/><TLN n="513"/>He loves fair Em as well as I.
+<L n="475"/><TLN n="514"/>As well as I? Ah no, not half so well.
+<L n="476"/><TLN n="515"/>Put case, yet may he be thine enemy
+<L n="477"/><TLN n="516"/>And give her counsel to dissemble thus.
+<L n="478"/><TLN n="517"/>I'll try the event, and if it fall out so,
+<L n="479"/><TLN n="518"/>Friendship farewell, love makes me now a foe.</S>
+
+<SD t="exit">Exit Mountney.</SD>
+
+</SCENE>
+<SCENE n="6"><H2>[1.6]</H2>
+
+<SD t="entrance"><TLN n="519"/>Enter Marquis Lubeck and Mariana.</SD>
+
+<L n="480"/><TLN n="520"/><S><SP>Mariana</SP> Trust me, my lord, I am sorry for your hurt.</S>
+
+<L n="481"/><TLN n="521"/><S><SP>Lubeck</SP> Gramercy, madam, but it is not great;
+<L n="482"/><TLN n="522"/>Only a thrust, pricked with a rapier's point.</S>
+
+<L n="483"/><TLN n="523"/><S><SP>Mariana</SP> How grew the quarrel, my lord?</S>
+</MODE>
+
+<MODE t="prose">
+<L n="484"/><TLN n="524"/><S><SP>Lubeck</SP> Sweet lady, for thy sake. <TLN n="525"/>There was this last night two masks. In one company <TLN n="526"/>myself the foremost, the others strangers were; <TLN n="527"/>amongst the which, when the music began to sound the measures, <TLN n="528"/>each masker made choice of his lady <TLN n="529"/>and one more forward than the rest stepped towards thee, <TLN n="530"/>which, I perceiving, thrust him aside and took thee myself. <TLN n="531"/>But this was taken in so ill part <TLN n="532"/>that at my coming out of the court gate, with justling together, <TLN n="533"/>it was my chance to be thrust into the arm. <TLN n="534"/>The doer thereof, because he was the original cause of the disorder <TLN n="535"/>at that inconvenient time, was presently committed <TLN n="536"/>and is this morning sent for to answer the matter. 
+
+<SD t="entrance">Here enters Sir Robert of Windsor with a jailor [escorting him].</SD>
+
+<TLN n="537"/>And I think here he comes. What, Sir Robert of Windsor? How now?</S>
+
+<L n="485"/><TLN n="538"/><S><SP>Robert</SP> I'faith, my lord, a prisoner. But what ails your arm?</S>
+
+<L n="486"/><TLN n="539"/><S><SP>Lubeck</SP> Hurt the last night by mischance.</S>
+
+<L n="487"/><TLN n="540"/><S><SP>Robert</SP> What, not in the mask at the court gate?</S>
+
+<L n="488"/><TLN n="541"/><S><SP>Lubeck</SP> Yes, trust me, there.</S>
+
+<L n="489"/><TLN n="542"/><S><SP>Robert</SP> Why then, my lord, I thank you for my night's lodging.</S>
+
+<L n="490"/><TLN n="543"/><S><SP>Lubeck</SP> And I you, for my hurt, if it were so. <TLN n="544"/><SD t="whoto">[To the jailor]</SD> Keeper, away. I discharge you of your prisoner.</S>
+
+<SD t="exit">Exit the [jailor].</SD>
+
+<L n="491"/><TLN n="545"/><S><SP>Robert</SP> Lord Marquis, you offered me disgrace to shoulder me.</S>
+
+<L n="492"/><TLN n="546"/><S><SP>Lubeck</SP> Sir, I knew you not, and therefore you must pardon me. <TLN n="547"/>And the rather it might be alleged to me of <TLN n="548"/>mere simplicity to see another dance with my mistress <TLN n="549"/>disguised, and I myself in presence. But seeing it <TLN n="550"/>was our haps to damnify each other unwillingly, <TLN n="551"/>let us be content with our harms <TLN n="552"/>and lay the fault <!-- Henning gives "fruit"? --> where it was and so become friends.</S>
+
+<L n="493"/><TLN n="553"/><S><SP>Robert</SP> I'faith, I am content with my night's lodging <TLN n="554"/>if you be content with your hurt.</S>
+
+<L n="494"/><TLN n="555"/><S><SP>Lubeck</SP> Not content that I have it, but content <TLN n="556"/>to forget how I came by it.</S>
+
+<L n="495"/><TLN n="557"/><S><SP>Robert</SP> My lord, here comes Lady Blanch. Let's away.</S>
+
+<SD t="entrance"><TLN n="558"/>Enter Blanch.</SD>
+
+<L n="496"/><TLN n="559"/><S><SP>Lubeck</SP> With good will. <SD t="whoto">[To Mariana]</SD> Lady, you will stay?</S>
+
+<SD t="exit"><TLN n="560"/>Exit Lubeck and Sir Robert.</SD>
+
+<L n="497"/><TLN n="561"/><S><SP>Mariana</SP> Madam.</S>
+
+<L n="498"/><TLN n="562"/><S><SP>Blanch</SP> Mariana, as I am grieved with thy presence, <TLN n="563"/>so am I not offended for thy absence; <TLN n="564"/>and, were it not a breach to modesty, <TLN n="565"/>thou shouldest know before I left thee.</S>
+
+<L n="499"/><TLN n="566"/><S><SP>Mariana</SP> How near is this humor to madness. <TLN n="567"/>If you hold on as you begin, you <TLN n="568"/>are in a pretty way to scolding.</S>
+
+<L n="500"/><TLN n="569"/><S><SP>Blanch</SP> To scolding, huswife?</S>
+
+<L n="501"/><TLN n="570"/><S><SP>Mariana</SP> Madam, here comes one.</S>
+
+<SD t="entrance"><TLN n="571"/>Here enters [a Messenger] with a <PROP>letter</PROP>.</SD>
+
+<L n="502"/><TLN n="572"/><S><SP>Blanch</SP> There doth indeed. Fellow, wouldest thou have anything <TLN n="573"/>with anybody here?</S>
+
+<L n="503"/><TLN n="574"/><S><SP>Messenger</SP> I have a letter to deliver to the Lady Mariana.</S>
+
+<L n="504"/><TLN n="575"/><S><SP>Blanch</SP> Give it me.</S>
+
+<L n="505"/><TLN n="576"/><S><SP>Messenger</SP> There must none but she have it.</S>
+
+<SD t="action"><TLN n="577"/>Blanch snatcheth the letter from him.</SD> 
+
+<L n="506"/><TLN n="578"/><S><SP>[Blanch]</SP> Go to, foolish fellow. 
+
+<SD t="exit">Exit Messenger.</SD>
+
+<TLN n="579"/>And therefore, to ease the anger I sustain, <TLN n="580"/>I'll be so bold to open it. What's here? <TLN n="581"/><SD t="action">[Reading]</SD> "Sir Robert greets you well"? <TLN n="582"/>You, mistress, his love? His life? O amorous man, <TLN n="583"/>how he entertains his new mistress <TLN n="584"/>and bestows on Lubeck (his odd friend) <TLN n="585"/>a horn nightcap to keep in his wit!</S>
+
+<L n="507"/><TLN n="586"/><S><SP>Mariana</SP> Madam, though you have discourteously <TLN n="587"/>read my letter, yet I pray you give it me.</S>
+
+<L n="508"/><TLN n="588"/><S><SP>Blanch</SP> Then take it. <SD t="action">[She tears it.]</SD> There, and there, and there!</S>
+
+<SD t="exit"><TLN n="589"/>Exit Blanch.</SD>
+
+<L n="509"/><TLN n="590"/><S><SP>Mariana</SP> How far doth this differ from modesty. <TLN n="591"/>Yet will I gather up the pieces, which haply <TLN n="592"/>may show me the intent thereof, <TLN n="593"/>though not the meaning.
+
+<SD t="action"><TLN n="594"/>She gathers up the pieces and joins them.</SD>
+
+<L n="510"/><TLN n="595"/><SD t="action">[Reading]</SD> "Your servant and love, Sir Robert of Windsor, <TLN n="596"/>alias William the Conqueror, wisheth long health<!-- Henning gives "life" --> and happiness". <TLN n="597"/>Is this William the Conqueror, shrouded under <TLN n="598"/>the name of Sir Robert of Windsor? <TLN n="599"/>Were he the monarch of the world, <TLN n="600"/>he should not dispossess Lubeck of his love. <TLN n="601"/>Therefore I will to the court, and there, if I can, <TLN n="602"/>close to be friends with Lady Blanch, <TLN n="603"/>and thereby keep Lubeck (my love) for myself, <TLN n="604"/>and further the Lady Blanch in her suit as much as I may.</S>
+</MODE>
+<SD t="exit">Exit.</SD>
+
+</SCENE>
+<SCENE n="7"><H2>[1.7]</H2>
+
+<SD t="entrance"><TLN n="605"/>Enter Em.</SD>
+
+<MODE t="verse">
+<L n="511"/><TLN n="606"/><S><SP>Em</SP> Jealousy, that sharps the lover's sight 
+<L n="512"/><TLN n="607"/>And makes him conceive and conster his intent,
+<L n="513"/><TLN n="608"/>Hath so bewitched my lovely Manville's senses
+<L n="514"/><TLN n="609"/>That he misdoubts his Em that loves his soul.
+<L n="515"/><TLN n="610"/>He doth suspect corrivals in his love,
+<L n="516"/><TLN n="611"/>Which how untrue it is, be judge, my God.
+<L n="517"/><TLN n="612"/>But no more. Here cometh Valingford:
+<L n="518"/><TLN n="613"/>Shift him off now, as though hast done the other.</S>
+</MODE>
+
+<SD t="entrance">Enter Valingford.</SD>
+
+<MODE t="prose">
+<L n="519"/><TLN n="614"/><S><SP>Valingford</SP> See how Fortune presents me with the hope I looked for. <TLN n="615"/>Fair Em --</S>
+
+<L n="520"/><TLN n="616"/><S><SP>Em</SP> Who is that?</S>
+
+<L n="521"/><TLN n="617"/><S><SP>Valingford</SP> I am Valingford, thy love and friend.</S>
+
+<L n="522"/><TLN n="618"/><S><SP>Em</SP> I cry you mercy, sir. I thought so by your speech.</S>
+
+<L n="523"/><TLN n="619"/><S><SP>Valingford</SP> What aileth thy eyes?</S>
+
+<L n="524"/><TLN n="620"/><S><SP>Em</SP> Oh, blind, sir, blind; stricken blind by mishap on a sudden.</S>
+
+<L n="525"/><TLN n="621"/><S><SP>Valingford</SP> But is it possible you should be taken on such a sudden? <TLN n="622"/>Infortunate Valingford, to be thus crossed in thy love! <TLN n="623"/>Fair Em, I am not a little sorry to see this thy hard hap. <TLN n="624"/>Yet, nevertheless, I am acquainted with a learned physician <TLN n="625"/>that will do anything for thee at my request. <TLN n="626"/>To him will I resort and enquire his judgement <TLN n="627"/>as concerning the recovery of so excellent a sense.</S>
+
+<L n="526"/><TLN n="628"/><S><SP>Em</SP> O lord, sir, and of all things I cannot abide physic. <TLN n="629"/>The very name thereof to me is odious.</S>
+
+<L n="527"/><TLN n="630"/><S><SP>Valingford</SP> No? Not the thing will do thee so much good? <TLN n="631"/>Sweet Em, hither I came to parley of love, <TLN n="632"/>hoping to have found thee in thy wonted prosperity. <TLN n="633"/>And have the gods so unmercifully thwarted my expectation <TLN n="634"/>by dealing so sinisterly with thee, sweet Em?</S>
+</MODE>
+
+<MODE t="verse">
+<L n="528"/><TLN n="635"/><S><SP>Em</SP> Good sir, no more. It fits not me
+<L n="529"/><TLN n="636"/>To have respect to such vain fantasies
+<L n="530"/><TLN n="637"/>As idle love presents my ears withall.
+<L n="531"/><TLN n="638"/>More reason I should ghostly give myself
+<L n="532"/><TLN n="639"/>To sacred prayers for this, my former sin,
+<L n="533"/><TLN n="640"/>For which this plague is justly fallen upon me, 
+<L n="534"/><TLN n="641"/>Than to harken to the vanities of love.</S>
+
+<L n="535"/><TLN n="642"/><S><SP>Valingford</SP> Yet, sweet Em, 
+<L n="536"/>Accept this jewell at my hand, <TLN n="643"/>which I 
+<L n="537"/>Bestow on thee in token of my love.</S>
+
+<L n="538"/><TLN n="644"/><S><SP>Em</SP> A jewell, sir? What pleasure can I have
+<L n="539"/><TLN n="645"/>In jewels, treasure, or any worldly thing
+<L n="540"/><TLN n="646"/>That want my sight that should discern thereof?
+</MODE>
+<MODE t="prose">
+<L n="541"/><TLN n="647"/>Ah, sir, I must leave you: <TLN n="648"/>The pain of mine eyes is so extreme <TLN n="649"/>I cannot long stay in a place. I take my leave.</S>
+</MODE>
+
+<SD t="exit">Exit Em.</SD>
+
+<MODE t="verse">
+<L n="542"/><TLN n="650"/><S><SP>Valingford</SP> Zounds, what a cross is this to my conceit! 
+</MODE>
+
+<MODE t="prose">
+<L n="543"/><TLN n="651"/>But Valingford, search the depth of this device. <TLN n="652"/>Why may not this be feigned subtlety, <TLN n="653"/>by Mountney's invention, to the intent <TLN n="654"/>that I, seeing such occasion, should leave off my suit <TLN n="655"/>and not any more persist to solicit her of love? <TLN n="656"/>I'll try the event. If I can by means perceive <TLN n="657"/>the effect of this deceit to be procured by his means -- <TLN n="658"/>friend Mountney -- the one of us is like to repent our bargain.</S>
+</MODE>
+
+<SD t="exit">Exit.</SD>
+
+</SCENE>
+<SCENE n="8"><H2>[1.8]</H2>
+
+<SD t="entrance"><TLN n="659"/>Enter Mariana and Marquis Lubeck.</SD>
+
+<MODE t="verse">
+<L n="544"/><TLN n="660"/><S><SP>Lubeck</SP> Lady,
+<L n="545"/>Since that occasion forward in our good
+<L n="546"/><TLN n="661"/>Presenteth place and opportunity,
+<L n="547"/><TLN n="662"/>Let me entreat your wonted kind consent
+<L n="548"/><TLN n="663"/>And friendly furth'rance in a suit I have.</S>
+
+<L n="549"/><TLN n="664"/><S><SP>Mariana</SP> My lord, you know you need not to entreat
+<L n="550"/><TLN n="665"/>But may command Mariana to her power,
+<L n="551"/><TLN n="666"/>Be it no impeachment to my honest fame.</S>
+
+<L n="552"/><TLN n="667"/><S><SP>Lubeck</SP> Free are my thoughts from such base villainy
+<L n="553"/><TLN n="668"/>As may in question, lady, call your name.
+<L n="554"/><TLN n="669"/>Yet is the matter of such consequence,
+<L n="555"/><TLN n="670"/>Standing upon my honorable credit, 
+<L n="556"/><TLN n="671"/>To be effected with such zeal and secrecy
+<L n="557"/><TLN n="672"/>As, should I speak and fail my expectation, 
+<L n="558"/><TLN n="673"/>It would redound greatly to my prejudice.</S>
+
+<L n="559"/><TLN n="674"/><S><SP>Mariana</SP> My lord, wherein hath Mariana given you occasion
+<L n="560"/><TLN n="675"/>That you should mistrust or else be jealous of my secrecy?</S>
+
+<L n="561"/><TLN n="676"/><S><SP>Lubeck</SP>  Mariana, do not misconster of me:
+<L n="562"/><TLN n="677"/>I not mistrust thee, nor thy secrecy.
+<L n="563"/><TLN n="678"/>Nor let my love misconster my intent,
+<L n="564"/><TLN n="679"/>Nor think thereof but well and honorable. 
+<L n="565"/><TLN n="680"/>Thus stands the case: 
+<L n="566"/>Thou knowest from England <TLN n="681"/>hither came with me
+<L n="567"/>Robert of Windsor, a nobleman at arms, 
+<L n="568"/><TLN n="682"/>Lusty and valiant, in springtime of his years.
+<L n="569"/><TLN n="683"/>No marvel then though he prove amorous.</S>
+
+<L n="570"/><TLN n="684"/><S><SP>Mariana</SP> True, my lord, he came to see fair Blanch.</S>
+
+<L n="571"/><TLN n="685"/><S><SP>Lubeck</SP> No, Mariana, that is not it. <TLN n="686"/>His love to Blanch
+<L n="572"/>Was then extinct <TLN n="687"/>when first he saw thy face.
+<L n="573"/><TLN n="688"/>'Tis thee he loves, yea, thou art only she
+<L n="574"/><TLN n="689"/>That is mistress and commander of his thoughts.</S>
+
+<L n="575"/><TLN n="690"/><S><SP>Mariana</SP> Well, well, my lord, I like you, for such drifts
+<L n="576"/><TLN n="691"/>Put silly ladies often to their shifts.
+<L n="577"/><TLN n="692"/>Oft have I heart you say you loved me well,
+<L n="578"/><TLN n="693"/>Yea, sworn the same, and I believed you, too.
+<L n="579"/><TLN n="694"/>Can this be found an action of good faith
+<L n="580"/><TLN n="695"/>Thus to dissemble where you found true love?</S>
+
+<L n="581"/><TLN n="696"/><S><SP>Lubeck</SP> Mariana, 
+<L n="582"/>I not dissemble, on my honor,
+<L n="583"/><TLN n="697"/>Nor fails my faith to thee. But for my friend,
+<L n="584"/><TLN n="698"/>For princely William, by whom thou shalt possess
+<L n="585"/><TLN n="699"/>The title and estate of majesty,
+<L n="586"/><TLN n="700"/>Fitting thy love and virtues of thy mind,
+<L n="587"/><TLN n="701"/>For him I speak, for him do I entreat,
+<L n="588"/><TLN n="702"/>And with thy favor fully do resign
+<L n="589"/><TLN n="703"/>To him the claim and interest of my love.
+<L n="590"/><TLN n="704"/>Sweet Mariana, then, deny me not.
+<L n="591"/><TLN n="705"/>Love William, love my friend, and honor me,
+<L n="592"/><TLN n="706"/>Who else is clean dishonored by thy means.</S>
+
+<L n="593"/><TLN n="707"/><S><SP>Mariana</SP> Born to mishap, myself am only she
+<L n="594"/><TLN n="708"/>On whom the sun of fortune never shined
+<L n="595"/><TLN n="709"/>But planets ruled by retrograde aspect
+<L n="596"/><TLN n="710"/>Foretold my ill in my nativity.</S>
+
+<L n="597"/><TLN n="711"/><S><SP>Lubeck</SP> Sweet lady, cease. Let my entreaty serve
+<L n="598"/><TLN n="712"/>To pacify the passion of thy grief,
+<L n="599"/><TLN n="713"/>Which well I know proceeds of ardent love.</S>
+
+<L n="600"/><TLN n="714"/><S><SP>Mariana</SP> But Lubeck now regards not Mariana.</S>
+
+<L n="601"/><TLN n="715"/><S><SP>Lubeck</SP> Even as my life, so love I Mariana.</S>
+
+<L n="602"/><TLN n="716"/><S><SP>Mariana</SP> Why do you post me to another then?</S>
+
+<L n="603"/><TLN n="717"/><S><SP>Lubeck</SP> He is my friend, and I do love the man.</S>
+
+<L n="604"/><TLN n="718"/><S><SP>Mariana</SP> Then will Duke William rob me of my love?</S>
+
+<L n="605"/><TLN n="719"/><S><SP>Lubeck</SP> No, as his life Mariana he doth love.</S>
+
+<L n="606"/><TLN n="720"/><S><SP>Mariana</SP> Speak for yourself, my lord; let him alone.</S>
+
+<L n="607"/><TLN n="721"/><S><SP>Lubeck</SP> So do I, madam, for he and I am one.</S>
+
+<L n="608"/><TLN n="722"/><S><SP>Mariana</SP> Then loving you I do content you both.</S>
+
+<L n="609"/><TLN n="723"/><S><SP>Lubeck</SP> In loving him you shall content us both:
+<L n="610"/><TLN n="724"/>Me, for I crave that favor at your hands;
+<L n="611"/><TLN n="725"/>He, for [he] hopes that comfort at your hands.</S>
+
+<L n="612"/><TLN n="726"/><S><SP>Mariana</SP> Leave off, my lord. Here comes the lady Blanch.</S>
+
+<SD t="entrance"><TLN n="727"/>Enter Blanch.</SD>
+
+<L n="613"/><TLN n="728"/><S><SP>Lubeck</SP> Hard hap to break us of our talk so soon.
+<L n="614"/><TLN n="729"/>Sweet Mariana, do remember me.</S> 
+</MODE>
+
+<SD t="exit">Exit Lubeck.</SD>
+
+<MODE t="prose">
+<L n="615"/><TLN n="730"/><S><SP>Mariana</SP> Thy Mariana cannot choose but remember thee.</S>
+
+<L n="616"/><TLN n="731"/><S><SP>Blanch</SP> Mariana, well met. You are very forward in your love.</S>
+
+<L n="617"/><TLN n="732"/><S><SP>Mariana</SP> Madam, be it in secret spoken to yourself: <TLN n="733"/>if you will but follow the complot I have invented, <TLN n="734"/>you will not think me so forward <TLN n="735"/>as yourself shall prove fortunate.</S>
+
+<L n="618"/><TLN n="736"/><S><SP>Blanch</SP> As how?</S>
+
+<L n="619"/><TLN n="737"/><S><SP>Mariana</SP> Madam, as thus. It is not unknown to you <TLN n="738"/>that Sir Robert of Windsor, <TLN n="739"/>a man that you do not little esteem, <TLN n="740"/>hath long importuned me of love. <TLN n="741"/>But, rather than I will be found false <TLN n="742"/>or unjust to the Marquis Lubeck, <TLN n="743"/>I will (as did the constant Lady Penelope) <TLN n="744"/>undertake to effect some great task.</S>
+
+<L n="620"/><TLN n="745"/><S><SP>Blanch</SP> What of all this?</S>
+
+<L n="621"/><TLN n="746"/><S><SP>Mariana</SP> The next time that Sir Robert shall come <TLN n="747"/>in his wonted sort to solicit me with love, <TLN n="748"/>I will seem to agree and like of anything <TLN n="749"/>that the knight shall demand, so far forth <TLN n="750"/>as it be no impeachment to my chastity. <TLN n="751"/>And to conclude, 'point some place for to meet the man <TLN n="752"/>for my conveyance from the Denmark court, <TLN n="753"/>which determined upon, he will appoint some certain time <TLN n="754"/>for our departure, whereof (you having intelligence) <TLN n="755"/>you may soon set down a plot to wear the English crown. <TLN n="756"/> And then --</S>
+
+<L n="622"/><TLN n="757"/><S><SP>Blanch</SP> What then?</S>
+
+<L n="623"/><TLN n="758"/><S><SP>Mariana</SP> If Sir Robert prove a king, and you his queen, <TLN n="759"/>how then?</S>
+
+<L n="624"/><TLN n="760"/><S><SP>Blanch</SP> Were I assured of the one, as I am persuaded <TLN n="761"/>of the other, there were some possibility in it. <TLN n="762"/>But here comes the man.</S>
+
+<SD t="entrance">[Enter William, no longer disguised as Sir Robert of Windsor.]</SD>
+
+<TLN n="763"/><S><SP>Mariana</SP> <SD t="whoto">[To Blanch]</SD> Madam, begone, and you shall see <TLN n="764"/>I will work to your desire and my content.</SD> 
+</MODE>
+
+<SD t="exit">Exit Blanch.</SD>
+
+<MODE t="verse">
+<L n="625"/><TLN n="765"/><S><SP>William</SP> Lady, this is well and happily met. 
+<L n="626"/><TLN n="766"/>Fortune hitherto hath been my foe,
+<L n="627"/><TLN n="767"/>And though I have oft sought to speak with you,
+<L n="628"/><TLN n="768"/>Yet still I have been crossed with sinister haps.
+<L n="629"/><TLN n="769"/>I cannot, madam, tell a loving tale,
+<L n="630"/><TLN n="770"/>Or court my mistress with fabulous discourses,
+<L n="631"/><TLN n="771"/>That am a soldier sworn to follow arms.
+<L n="632"/><TLN n="775"/>Nor may I make my love the siege of Troy
+<L n="633"/><TLN n="776"/>That am a stranger in this country.
+<L n="634"/><TLN n="772"/>But this I bluntly let you understand:
+<L n="635"/><TLN n="773"/>I honor you with such religious zeal
+<L n="636"/><TLN n="774"/>As may become an honorable mind.
+<L n="637"/><TLN n="777"/>First, what I am, I know you are resolved,
+<L n="638"/><TLN n="778"/>For that my friend hath let you that to understand,
+<L n="639"/><TLN n="779"/>The Marquis Lubeck, to whom I am so bound
+<L n="640"/><TLN n="780"/>That, whilest I live, I count me only his.</S>
+
+<L n="641"/><TLN n="781"/><S><SP>Mariana</SP> Surely you are beholding to the Marquis,
+<L n="642"/><TLN n="782"/>For he hath been an earnest spokesman in your cause.</S>
+
+<L n="643"/><TLN n="783"/><S><SP>William</SP> And yields my lady then at his request
+<L n="644"/><TLN n="784"/>To grace Duke William with her gracious love?</S>
+
+<L n="645"/><TLN n="785"/><S><SP>Mariana</SP> My lord, I am a prisoner, and hard
+<L n="646"/>It were <TLN n="786"/>to get me from the court.</S>
+
+<L n="647"/><TLN n="787"/><S><SP>William</SP> An easy matter to get you from the court,
+<L n="648"/><TLN n="788"/>If case that you will thereto give consent.</S>
+
+<L n="649"/><TLN n="789"/><S><SP>Mariana</SP> Put case I should, how would you use me then?</S>
+
+<L n="650"/><TLN n="790"/><S><SP>William</SP> Not otherwise but well and honorably.
+<L n="651"/><TLN n="791"/>I have at sea a ship that doth attend,
+<L n="652"/><TLN n="792"/>Which shall forthwith conduct us into England,
+<L n="653"/><TLN n="793"/>Where, when we are, I straight will marry thee.
+<L n="654"/><TLN n="794"/>We may not stay deliberating long,
+<L n="655"/><TLN n="795"/>Lest that suspicion, envious of our weal,
+<L n="656"/><TLN n="796"/>Set in a foot to hinder our pretense.</S>
+
+<L n="657"/><TLN n="797"/><S><SP>Mariana</SP> But this I think were most convenient
+<L n="658"/><TLN n="798"/>To mask my face, the better to 'scape unknown.</S>
+
+<L n="659"/><TLN n="799"/><S><SP>William</SP> A good device. Till then, farewell, fair love.</S>
+
+<L n="660"/><TLN n="800"/><S><SP>Mariana</SP> But this I must entreat your grace,
+<L n="661"/><TLN n="801"/>You would not seek by lust unlawfully
+<L n="662"/><TLN n="802"/>To wrong my chaste determinations.</S>
+
+<L n="663"/><TLN n="803"/><S><SP>William</SP> I hold that man most shameless in his sin
+<L n="664"/><TLN n="804"/>That seeks to wrong an honest lady's name,
+<L n="665"/><TLN n="805"/>Whom he thinks worthy of his marriage bed.</S>
+
+<L n="666"/><TLN n="806"/><S><SP>Mariana</SP> In hope your oath is true,
+<L n="667"/><TLN n="807"/>I leave your grace till the appointed time.</S>
+
+<SD t="exit"><TLN n="808"/>Exit Mariana.</SD>
+
+<L n="668"/><TLN n="809"/><S><SP>William</SP> O happy William, blessed in thy love,
+<L n="669"/><TLN n="810"/>Most fortunate in Mariana's love.
+<L n="670"/><TLN n="811"/>Well, Lubeck, well. This courtesy of thine
+<L n="671"/><TLN n="812"/>I will requite if God permit me life.</S>
+
+<SD t="exit">Exit.</SD>
+
+</SCENE>
+<SCENE n="9"><H2>[1.9]</H2>
+
+<SD t="entrance"><TLN n="813"/>Enter Valingford at Mountney at two sundry doors, looking <TLN n="814"/>angrily each on [the] other, with <PROP>rapiers</PROP> drawn.</SD>
+
+<L n="672"/><TLN n="815"/><S><SP>Mountney</SP> Valingford, so hardly I 
+<L n="673"/>Digest an injury <TLN n="816"/>thou has proferred me,
+<L n="674"/>As were [it] not that I detest to do 
+<L n="675"/>What stands <TLN n="817"/>not with the honor of my name, 
+<L n="676"/><TLN n="818"/>Thy death should pay the ransom of thy fault.</S>
+
+<L n="677"/><TLN n="819"/><S><SP>Valingford</SP> And, Mountney, had not my revenging wrath
+<L n="678"/><TLN n="820"/>(Incensed with more than ordinary love)
+<L n="679"/><TLN n="821"/>Been such for to deprive thee of thy life,
+<L n="680"/><TLN n="822"/>Thou hadst not lived to brave me as thou dost,
+<L n="681"/>Wretch as thou art.
+<L n="682"/><TLN n="823"/>Wherein hath Valingford offended thee?
+<L n="683"/><TLN n="824"/>That honorable bond, which late we did
+<L n="684"/>Confirm <TLN n="825"/>in presence of the gods 
+<L n="685"/><TLN n="826"/>When with the Conqueror we arrived here,
+<L n="686"/><TLN n="827"/>For my part hath been kept inviolably
+<L n="687"/><TLN n="828"/>Till now, too much abused by thy villainy,
+<L n="688"/><TLN n="829"/>I am enforced to cancel all those bands
+<L n="689"/><TLN n="830"/>By hating him which I so well did love.</S>
+
+<L n="690"/><TLN n="831"/><S><SP>Mountney</SP> Subtle thou art, and cunning in thy fraud,
+<L n="691"/><TLN n="832"/>That giving occasion of offence
+<L n="692"/><TLN n="833"/>Thou pick'st a quarrel to excuse thy shame.
+<L n="693"/><TLN n="834"/>Why, Valingford, was it not enough for thee
+<L n="694"/><TLN n="835"/>To be a rival 'twixt me and my love,
+<L n="695"/><TLN n="836"/>But counsel her, to my no small disgrace,
+<L n="696"/><TLN n="837"/>That when I came to talk with her of love
+<L n="697"/><TLN n="838"/>She should seem deaf, as feigning not to hear?</S>
+
+<L n="698"/><TLN n="839"/><S><SP>Valingford</SP> But hath she, Mountney, used thee as thou sayest?</S>
+
+<L n="699"/><TLN n="840"/><S><SP>Mountney</SP> Thou knowest too well she hath, <TLN n="841"/>wherein thou
+<L n="700"/>Couldest not do me greater injury.</S>
+
+<L n="701"/><TLN n="842"/><S><SP>Valingford</SP> Then I perceive we are deluded both,
+<L n="702"/><TLN n="843"/>For when I offered many gifts of gold and jewels
+<L n="703"/><TLN n="844"/>To entreat for love, she hath refused them with a coy disdain,
+<L n="704"/><TLN n="845"/>Alleging that she could not see the sun.
+<L n="705"/><TLN n="846"/>The same conjectured I to be thy drift,
+<L n="706"/><TLN n="847"/>That feigning so she might be rid of me.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="707"/><TLN n="848"/><S><SP>Mountney</SP> The like did I by thee. But are not these naturall impediments?</S>
+</MODE>
+
+<MODE t="verse">
+<TLN n="849"/><S><SP>Valingford</SP> In my conjecture merely counterfeit.
+<L n="708"/><TLN n="850"/>Therefore let's join hands in friendship once again,
+<L n="709"/><TLN n="851"/>Since that the jar grew only by conjecture.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="710"/><TLN n="852"/><S><SP>Mountney</SP> With all my heart. Yet let's try the truth hereof.</S>
+
+<L n="711"/><TLN n="853"/><S><SP>Valingford</SP> With right good will. We will straight unto her faither, <TLN n="854"/>and there to learn whether it be so or no.</S>
+</MODE>
+
+<SD t="exit">Exeunt.</SD> 
+
+</SCENE>
+<SCENE n="10"><H2>[1.10]</H2>
+
+<SD t="entrance, setting"><TLN n="855"/>Enter William [disguised as Sir Robert of Windsor] and Blanch disguised [as Mariana], with a <PROP>mask</PROP> <TLN n="856"/>over her face.</SD>
+
+<MODE t="verse">
+<L n="712"/><TLN n="857"/><S><SP>William</SP> Come on, my love, the comfort of my life,
+<L n="713"/><TLN n="858"/>Disguis{`e}d thus we may remain unknown.
+<L n="714"/><TLN n="859"/>And get we once to seas, I force not then,
+<L n="715"/><TLN n="860"/>We quickly shall attain the English shore.</S>
+
+<L n="716"/><TLN n="861"/><S><SP>Blanch</SP> But this I urge you with your former oath:
+<L n="717"/><TLN n="862"/>You shall not seek to violate mine honor
+<L n="718"/><TLN n="863"/>Until our marriage rites be all performed.</S>
+
+<L n="719"/><TLN n="864"/><S><SP>William</SP> Mariana, here I swear to thee by heaven
+<L n="720"/><TLN n="865"/>And by the honor that I bear to arms
+<L n="721"/><TLN n="866"/>Never to seek or crave at hands of thee
+<L n="722"/><TLN n="867"/>The spoil of honorable chastity
+<L n="723"/><TLN n="868"/>Until we do attain the English coast,
+<L n="724"/><TLN n="869"/>Where thou shalt be my right-espous{`e}d queen.</S>
+
+<L n="725"/><TLN n="870"/><S><SP>Blanch</SP> In hope your oath proceedeth from your heart,
+<L n="726"/><TLN n="871"/>Let's leave the court, and betake us to his power
+<L n="727"/><TLN n="872"/>That governs all things to his mighty will
+<L n="728"/><TLN n="873"/>And will reward the just with endless joy,
+<L n="729"/><TLN n="874"/>And plague the bad with most extreme annoy.</S>
+
+<L n="730"/><TLN n="875"/><S><SP>William</SP> Lady, as little tarriance as we may,
+<L n="731"/><TLN n="876"/>Lest some misfortune happen by the way.</S>
+</MODE>
+
+<SD t="exit"><TLN n="877"/>Exit Blanch and William.</SD>
+
+</SCENE>
+<SCENE n="11"><H2>[1.11]</H2>
+
+<SD t="entrance"><TLN n="878"/>Enter the Miller, his man Trotter, and Manvile.</SD>
+
+<MODE t="prose">
+<L n="732"/><TLN n="879"/><S><SP>Miller</SP> I tell you sir, it is no little grief to me <TLN n="880"/>you should so hardly conceit of my daughter, <TLN n="881"/>whose honest report, though I say it, <TLN n="882"/>was never blotted with any title of defamation.</S>
+
+<L n="733"/><TLN n="883"/><S><SP>Manvile</SP> Father Miller, the repair of those gentlemen to your house <TLN n="884"/>hath given me great occasion to mislike.</S>
+
+<L n="734"/><TLN n="885"/><S><SP>Miller</SP> As for those gentlemen, I never saw in them <TLN n="886"/>any evil entreaty. But, should they have proferred it, <TLN n="887"/>her chaste mind hath proof enough to prevent it.</S>
+
+<L n="735"/><TLN n="888"/><S><SP>Trotter</SP> Those gentlemen are as honest as ever I saw, <TLN n="889"/>for i'faith, one of them gave me a sixpence <TLN n="890"/>to fetch a quart of sack. See, master, here they come.</S>
+
+<SD t="entrance"><TLN n="891"/>Enter Mountney and Valingford.</SD>
+
+<L n="736"/><TLN n="892"/><S><SP>Miller</SP> Trotter, call Em. Now they are here together <TLN n="893"/>I'll have this matter throughly debated.</S>
+
+<SD t="exit">Exit Trotter.</SD>
+
+<L n="737"/><TLN n="894"/><S><SP>Mountney</SP> Father, well met. We are come to confer with you.</S>
+
+<L n="738"/><TLN n="895"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> Nay, with his daughter, rather.</S>
+
+<L n="739"/><TLN n="896"/><S><SP>Valingford</SP> Thus it is, father, we are come to crave your friendship in a matter.</S>
+
+<L n="740"/><TLN n="897"/><S><SP>Miller</SP> Gentlemen, as you are strangers to me, <TLN n="898"/>yet by the way of courtesy you shall demand <TLN n="899"/>any reasonable thing at my hands.</S>
+
+<L n="741"/><TLN n="900"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> What, is the matter so forward <TLN n="901"/>they came to crave his good will?</S>
+
+<L n="742"/><TLN n="902"/><S><SP>Valingford</SP> It is given to us to understand that your daughter <TLN n="903"/>is suddenly become both blind and deaf.</S>
+
+<L n="743"/><TLN n="904"/><S><SP>Miller</SP> Mary, God forbid! I have sent for her. Indeed, <TLN n="905"/>she hath kept her chamber this three days. <TLN n="906"/>It were no litle grief to me if it should be so.</S>
+
+<L n="744"/><TLN n="907"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> This is God's judgment for her treachery.</S>
+
+<SD t="entrance"><TLN n="908"/>Enter Trotter, leading Em.</SD>
+
+<L n="745"/><TLN n="909"/><S><SP>Miller</SP> Gentlemen, I fear your words are too true: <TLN n="910"/>see where Trotter comes leading of her. <TLN n="911"/><SD t="whoto">[To Em]</SD> What ails my Em? Not blind, I hope?</S>
+
+<L n="746"/><TLN n="912"/><S><SP>Em</SP> <SD t="whoto">[Aside]</SD> Mountney and Valingford both together? <TLN n="913"/>And Manvile, to whom I have faithfully vowed my love? <TLN n="914"/>Now, Em, suddenly help thyself.</S>
+
+<L n="747"/><TLN n="915"/><S><SP>Mountney</SP> This is no dissembling, Valingford.</S>
+
+<L n="748"/><TLN n="916"/><S><SP>Valingford</SP> If it be, it is cunningly contrived of all sides.</S>
+
+<L n="749"/><TLN n="917"/><S><SP>Em</SP> <SD t="whoto">[To Trotter]</SD> Trotter, lend my thy hand, <TLN n="918"/>and as thou lovest me, keep my counsel <TLN n="919"/>and justify whatsoever I say, and I'll largely requite thee.</S>
+
+<L n="750"/><TLN n="920"/><S><SP>Trotter</SP> Ah, that's as much as to say you would tell a monstrous, <TLN n="921"/>terrible, horrible, outrageous lie, <TLN n="922"/>and I shall sooth it. No, berlady!</S>
+
+<L n="751"/><TLN n="923"/><S><SP>Em</SP> My present extremity wills me. If thou love me, Trotter --</S>
+
+<L n="752"/><TLN n="924"/><S><SP>Trotter</SP> That same word "love" makes me to do anything.</S>
+
+<L n="753"/><TLN n="925"/><S><SP>Em</SP> Trotter, where's my father?</S>
+
+<SD t="action"><TLN n="926"/>He thrusts Em upon her father.</SD>
+
+<L n="754"/><TLN n="927"/><S><SP>Trotter</SP> Why, what a blind dunce are you, can you not see? <TLN n="928"/>He standeth right before you.</S>
+
+<L n="755"/><TLN n="929"/><S><SP>Em</SP> Is this my father? <TLN n="930"/>Good father, give me leave to sit <TLN n="931"/>where I may not be disturbed, <TLN n="932"/>sith God hath visited me both of my sight and hearing.</S>
+
+<L n="756"/><TLN n="933"/><S><SP>Miller</SP> Tell me, sweet Em, how came this blindness? <TLN n="934"/>Thy eyes are lovely to look on, <TLN n="935"/>and yet have they lost the benefit of their sight. <TLN n="936"/>What a grief is this to thy poor father!</S>
+
+<L n="757"/><TLN n="937"/><S><SP>Em</SP> Good father, let me not stand as an open gazing-stock to everyone, <TLN n="938"/>but in a place alone But in a place alone as fits a creature so miserable.</S>
+
+<L n="758"/><TLN n="939"/><S><SP>Miller</SP> Trotter, lead her in, the utter overthrow <TLN n="940"/>of poor Goddard's joy and only solace.</S>
+
+<SD t="exit"><TLN n="941"/>Exit the Miller, Trotter, and Em.</SD>
+
+<L n="759"/><TLN n="942"/><S><SP>Manvile</SP> <SD t="whoto">[Aside]</SD> Both blind and deaf? Then is she no wife for me, <TLN n="943"/>and glad am I so good occasion is happ'ned. <TLN n="944"/>Now will I away to [Westchester] <TLN n="945"/>and leave these gentlemen to their blind fortune.</S>
+
+<SD t="exit">Exit Manvile.</SD>
+
+<L n="760"/><TLN n="946"/><S><SP>Mountney</SP> Since fortune hath thus spitefully crossed our hope, <TLN n="947"/>let us leave this quest and hearken after our king, <TLN n="948"/>who is at this day landed at Li'rpool.</S>
+
+<SD t="exit">Exit Mountney.</SD>
+
+<L n="761"/><TLN n="949"/><S><SP>Valingford</SP> Go, my lord, I'll follow you. <TLN n="950"/>Well, now Mountney is gone <TLN n="951"/>I'll stay behind to solicit my love, <TLN n="952"/>for I imagine that I shall find this but a feigned invention <TLN n="953"/>thereby to have us leave off our suits.</S>
+</MODE>
+
+<SD t="exit">[Exit Valingford.]</SD>
+
+</SCENE>
+<SCENE n="12"><H2>[1.12]</H2>
+
+<SD t="entrance"><TLN n="954"/>Enter Marquis Lubeck, and [Zweno] the King of Denmark <TLN n="955"/>angrily, with [Rosilio, guards, and] some [other] attendants.</SD>
+
+<MODE t="verse">
+<L n="762"/><TLN n="956"/><S><SP>Zweno</SP> Well, Lubeck, well, it is not possible
+<L n="763"/><TLN n="957"/>But you must be consenting to this act.
+<L n="764"/><TLN n="958"/>Is this the man so highly you extolled,
+<L n="765"/><TLN n="959"/>And play a part so hateful with his friend?
+<L n="766"/><TLN n="960"/>Since first he came with thee into the court
+<L n="767"/><TLN n="961"/>What entertainment and what countenance
+<L n="768"/><TLN n="962"/>He hath received none better knows than thou.
+<L n="769"/><TLN n="963"/>In recompence whereof he quites me well
+<L n="770"/><TLN n="964"/>To steal away fair Mariana, my prisoner, 
+<L n="771"/><TLN n="965"/>Whose ransom being lately 'greed upon
+<L n="772"/><TLN n="966"/>I am deluded of by this escape.
+<L n="773"/><TLN n="967"/>Besides, I know not how to answer it
+<L n="774"/><TLN n="968"/>When she shall be demanded home to Swethia.</S>
+
+<L n="775"/><TLN n="969"/><S><SP>Lubeck</SP> My gracious lord, conjecture not, I pray,
+<L n="776"/><TLN n="970"/>Worser of Lubeck than he doth deserve.
+<L n="777"/><TLN n="971"/>Your highness knows Mariana was my love,
+<L n="778"/><TLN n="972"/>Sole paragon and mistress of my thoughts.
+<L n="779"/><TLN n="973"/>Is it likely I should know of her departure,
+<L n="780"/><TLN n="974"/>Wherein there is no man injured more than I?</S>
+
+<L n="781"/><TLN n="975"/><S><SP>Zweno</SP> That carries reason, Marquis, I confess.
+<L n="782"/><TLN n="976"/><SD t="whoto">[To Rosilio]</SD> Call forth my daughter. <SD t="exit">[Exit Rosilio.]</SD> Yet I am persuaded
+<L n="783"/><TLN n="977"/>That she, poor soul, suspected not her going,
+<L n="784"/><TLN n="978"/>For, as I hear, she likewise loved the man,
+<L n="785"/><TLN n="979"/>Which he, to blame, did not at all regard.</S>
+
+<SD t="entrance">[Enter Rosilio and Mariana.]</SD>
+
+<L n="786"/><TLN n="980"/><S><SP>Rosilio</SP> My lord, here is the Princess Mariana:
+<L n="787"/><TLN n="981"/>It is your daughter is conveyed away.</S>
+
+<L n="788"/><TLN n="982"/><S><SP>Zweno</SP> What, my daughter gone?
+<L n="789"/><TLN n="983"/>Now, Marquis, your villainy breaks forth.
+<L n="790"/><TLN n="984"/>This match is of your making, gentle sir,
+<L n="791"/><TLN n="985"/>And you shall dearly know the price thereof.</S>
+
+<L n="792"/><TLN n="986"/><S><SP>Lubeck</SP> Knew I thereof, or that there was intent
+<L n="793"/><TLN n="987"/>In Robert thus to steal your highness' daughter,
+<L n="794"/><TLN n="988"/>Let heavens in justice presently confound me.</S>
+
+<L n="795"/><TLN n="989"/><S><SP>Zweno</SP> Not all the protestations thou canst use
+<L n="796"/><TLN n="990"/>Shall save thy life. <SD who="whoto">[To a guard]</SD> Away with him to prison. <SD t="exit">[Exit Lubeck escorted by a guard.]</SD>
+<L n="797"/><TLN n="991"/>And, minion, otherwise it cannot be
+<L n="798"/><TLN n="992"/>But you are an agent in this treachery,
+<L n="799"/><TLN n="993"/>I will revenge it throughly on you both.
+<L n="800"/><TLN n="994"/><SD t="whoto">[To a guard]</SD> Away with her to prison. <SD t="exit">[Exit Mariana escorted by a guard.]</SD>
+<L n="801"/>Here's stuff indeed! <TLN n="995"/>My daughter stolen away?
+<L n="802"/><TLN n="996"/>It booteth not thus to disturb myself,
+<L n="803"/><TLN n="997"/>But presently to send to English William,
+<L n="804"/><TLN n="998"/>To send me that proud knight of Windsor hither
+<L n="805"/><TLN n="999"/>Here in my court to suffer for his shame,
+<L n="806"/><TLN n="1000"/>Or at my pleasure to be punished there.
+<L n="807"/><TLN n="1001"/>Withal, that Blanch be sent me home again
+<L n="808"/><TLN n="1002"/>Or I shall fetch her unto Windsor's cost,
+<L n="809"/><TLN n="1003"/>Yeah, and William's too if he deny her me!</S>
+
+<SD t="exit">Exit Zweno [and others.]</SD>
+
+</SCENE>
+<SCENE n="13"><H2>[1.13]</H2>
+
+<SD t="entrance"><TLN n="1004"/>Enter William [disguised as Sir Robert of Windsor] taken [prisoner], with soldiers.</SD>
+
+<L n="810"/><TLN n="1005"/><S><SP>William</SP> Could any cross, could any plague be worse?
+<L n="811"/><TLN n="1006"/>Could heaven or hell, did both conspire in one
+<L n="812"/><TLN n="1007"/>To afflict my soul, invent a greater scourge
+<L n="813"/><TLN n="1008"/>Than presently I am tormented with?
+<L n="814"/><TLN n="1009"/>Ah, Mariana, cause of my lament,
+<L n="815"/><TLN n="1010"/>Joy of my heart and comfort of my life,
+<L n="816"/><TLN n="1011"/>For thee I breathe my sorrows in the air
+<L n="817"/><TLN n="1012"/>And tire myself, for silently I sigh.
+<L n="818"/><TLN n="1013"/>My sorrows afflicts my soul with equal passion.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="819"/><TLN n="1014"/><S><SP>Soldier</SP> Go to, sirrah, put up. It is to small purpose.</S>
+
+<L n="820"/><TLN n="1015"/><S><SP>William</SP> Hence, villains, hence! Dare you lay your hands <TLN n="1016"/>upon your sovereign?</S>
+</MODE>
+
+<MODE t="verse">
+<L n="821"/><TLN n="1017"/><S><SP>Soldier</SP> Well, sir, we will deal for that. 
+<L n="822"/><TLN n="1018"/>But here comes one will remedy all this.
+
+<SD t="entrance"><TLN n="1019"/>Enter Demarch.</SD>
+
+<L n="823"/><TLN n="1020"/>My lord, watching this night in the camp
+<L n="824"/><TLN n="1021"/>We took this man, and know not what he is,
+<L n="825"/><TLN n="1022"/>And in his company was a gallant dame.
+<L n="826"/><TLN n="1023"/>A woman fair in outward show she seemed,
+<L n="827"/><TLN n="1024"/>But that her face was masked we could not see
+<L n="828"/><TLN n="1025"/>The grace and favor of her countenance.</S>
+</MODE>
+
+<MODE t="prose">
+<L n="829"/><TLN n="1026"/><S><SP>Demarch</SP> Tell me, good fellow, of whence and what thou art?</S>
+
+<L n="830"/><TLN n="1027"/><S><SP>Soldier</SP> Why do you not answer my lord? <TLN n="1028"/>He takes scorn to answer.</S>
+</MODE>
+
+<MODE t="verse">
+<L n="831"/><TLN n="1029"/><S><SP>Demarch</SP> And takest thou scorn to answer my demand?
+<L n="832"/><TLN n="1030"/>Thy proud behavior very well deserves
+<L n="833"/><TLN n="1031"/>This misdemeanor at the worst be construed.
+<L n="834"/><TLN n="1032"/>Why, dost thou neither know, nor hast thou heard
+<L n="835"/><TLN n="1033"/>That in the absence of the Saxon duke
+<L n="836"/><TLN n="1034"/>Demarch is his especial substitute
+<L n="837"/><TLN n="1035"/>To punish those that shall offend the laws?</S>
+
+<L n="838"/><TLN n="1036"/><S><SP>William</SP> In knowing this, I know thou art a traitor,
+<L n="839"/><TLN n="1037"/>A rebel, a mutinous conspirator.
+<L n="840"/><TLN n="1038"/>Why, Demarch, knowest thou who I am?</S>
+
+<L n="841"/><TLN n="1039"/><S><SP>Demarch</SP> Pardon, my dread lord, the error of my sense
+<L n="842"/><TLN n="1040"/>And misdemeanor to your princely excellency.</S>
+
+<L n="843"/><TLN n="1041"/><S><SP>William</SP> Why, Demarch, 
+<L n="844"/>What is the cause my subjects are in arms?</S>
+
+<L n="845"/><TLN n="1042"/><S><SP>Demarch</SP> Free are my thoughts, my dread and gracious lord,
+<L n="846"/><TLN n="1043"/>From treason to your state and commonweal;
+<L n="847"/><TLN n="1044"/>Only revengement of a private grudge
+<L n="848"/><TLN n="1045"/>By Lord Dirot lately proferred me
+<L n="849"/><TLN n="1046"/>(That stands not with the honor of my name)
+<L n="850"/><TLN n="1047"/>Is cause I have assembled for my guard
+<L n="851"/><TLN n="1048"/>Some men in arms that may withstand his force,
+<L n="852"/><TLN n="1049"/>Whose settled malice aimeth at my life.</S>
+
+<L n="853" part="i"/><TLN n="1050"/><S><SP>William</SP> Where is Lord Dirot?</S>
+
+<L n="853" part="f"/><TLN n="1051"/><S><SP>Demarch</SP> In arms, my gracious lord, 
+<L n="854"/><TLN n="1052"/>Not past two miles from hence, <TLN n="1053"/>as credibly
+<L n="855"/>I am ascertained.</S>
+
+<L n="856"/><TLN n="1054"/><S><SP>William</SP> Well, come, let us go.
+<L n="857"/><TLN n="1055"/>I fear I shall find traitors of you both.</S>
+</MODE>
+
+<SD t="exit">Exit [all].</SD>
+
+</SCENE>
+<SCENE n="14"><H2>[1.14]</H2>
+
+<SD t="entrance"><TLN n="1056"/>Enter the Citizen of [Westchester] and his daughter Elner, <TLN n="1057"/>and Manvile.</SD>
+
+<MODE t="prose">
+<L n="858"/><TLN n="1058"/><S><SP>Citizen</SP> Indeed, sir, it would do very well <TLN n="1059"/>if you could entreat your father to come hither, <TLN n="1060"/>but if you think it be too far <TLN n="1061"/>I cre not much to take horse and ride to Manchester. <TLN n="1062"/>I am sure my daughter is content with either: <TLN n="1063"/>how sayest thou, Elner, art thou not?</S>
+
+<L n="859"/><TLN n="1064"/><S><SP>Elner</SP> As you shall think best, I must be contented.</S>
+
+<L n="860"/><TLN n="1065"/><S><SP>Manvile</SP> Well, Elner, farewell, only thus much <TLN n="1066"/>I pray: make all things in a readiness, <TLN n="1067"/>either to serve here or to carry thither with us.</S>
+
+<L n="861"/><TLN n="1068"/><S><SP>Citizen</SP> As for that, sir, take you no care, <TLN n="1069"/>and so I betake you to your journey. <SD t="exit">[Exit Manvile.]</SD>
+
+<SD t="entrance">Enter Valingford.</SD>
+
+<L n="862"/><TLN n="1071"/>But soft, what gentleman is this?</S>
+
+<L n="863"/><TLN n="1072"/><S><SP>Valingford</SP> God speed, sir, might a man crave a word or two with you?</S>
+
+<L n="864"/><TLN n="1073"/><S><SP>Citizen</SP> God forbid else, sir. I pray you speak your pleasure.</S>
+
+<L n="865"/><TLN n="1074"/><S><SP>Valingford</SP> The gentleman that parted from you, was he not <TLN n="1075"/>of Manchester, his father living there of good account?</S>
+
+<L n="866"/><TLN n="1076"/><S><SP>Citizen</SP> Yes, marry, is he sir. Why do you ask? <TLN n="1077"/>Belike you have some acquaintance with him?</S>
+
+<L n="867"/><TLN n="1078"/><S><SP>Valingford</SP> I have been acquainted in times past, <TLN n="1079"/>but through his double dealing <TLN n="1080"/>I am grown weary of his company. <TLN n="1081"/>For be it spoken to you, <TLN n="1082"/>he hath been acquainted with a poor miller's daughter, <TLN n="1083"/>and divers times hath promised her marriage. <TLN n="1084"/>But, what with his delays and flouts, <TLN n="1085"/>he hath brought her into such a taking <TLN n="1086"/>that I fear me it will cost her her life.</S>
+
+<L n="868"/><TLN n="1087"/><S><SP>Citizen</SP> To be plain with you, sir, <TLN n="1088"/>his fahter and I have been of old acquaintance, <TLN n="1089"/>and a motion was mode <TLN n="1090"/>between my daughter and his son, <TLN n="1091"/>which is now throughly agreed upon, <TLN n="1092"/>save only the place appointed for the marriage, <TLN n="1093"/>whether it shall be kept here or at Manchester, <TLN n="1094"/>and for no other occasion he is now ridden.</S>
+
+<L n="869"/><TLN n="1095"/><S><SP>Elner</SP> What hath he done to you, <TLN n="1096"/>that you should speak so ill of the man?</S>
+
+<L n="870"/><TLN n="1097"/><S><SP>Valingford</SP> Oh, gentlewoman, I cry you mercy. <TLN n="1098"/>He is your husband that shall be.</S>
+
+<L n="871"/><TLN n="1099"/><S><SP>Elner</SP> If I knew this to be true, <TLN n="1100"/>he should not be my husband, were he never so good. <TLN n="1101"/>And therefore, good father, <TLN n="1102"/>I would desire you to take the pains <TLN n="1103"/>to bear this gentleman company to Manchester <TLN n="1104"/>to know whether this be true or no.</S>
+
+<L n="872"/><TLN n="1105"/><S><SP>Citizen</SP> Now trust me, gentleman, he deals with me very hardly, <TLN n="1106"/>knowing how well I meant to him. <TLN n="1107"/>But I care not much to ride to Manchester <TLN n="1108"/>to know whether his father's will be <TLN n="1109"/>he should deal with me so badly. <TLN n="1110"/>Will it please you, sir, to go in? We will presently take horse and away.</S>
+
+<L n="873"/><TLN n="1111"/><S><SP>Valingford</SP> If it please you to go in, <TLN n="1112"/>I'll follow you presently. 
+
+<SD t="exit">Exit Elner and her father.</SD> 
+
+<L n="874"/><TLN n="1113"/>Now shall I be revenged on Manvile, <TLN n="1114"/>and by this means get Em to my wife. <TLN n="1115"/>And therefore I will straight to her father's <TLN n="1116"/>and inform them both of all that is happ'ned.</S>
+</MODE>
+
+<SD t="exit">Exit [Manvile].</SD>
+
+</SCENE>
+<SCENE n="15"><H2>[1.15]</H2>
+
+<SD t="entrance"><TLN n="1117"/>Enter William, the Ambassador of Denmark, <TLN n="1118"/>Demarch, and other attendants.</SD>
+
+<MODE t="verse">
+<L n="875"/><TLN n="1119"/><S><SP>William</SP> What news with the Denmark ambassador?</S>
+
+<L n="876"/><TLN n="1120"/><S><SP>Ambassador</SP> Marry, thus:
+<L n="877"/>The King of Denmark and my sovereign
+<L n="878"/><TLN n="1121"/>Doth send to know of thee what is the cause
+<L n="879"/><TLN n="1122"/>That injuriously, against the law of arms,
+<L n="880"/><TLN n="1123"/>Thou hast stolen away his only daughter Blanch,
+<L n="881"/><TLN n="1124"/>The only stay and comfort of his life.
+<L n="882"/><TLN n="1125"/>Therefore, by me
+<L n="883"/>He willeth thee to send his daughter Blanch,
+<L n="884"/><TLN n="1126"/>Or else forthwith he will levy such an host
+<L n="885"/><TLN n="1127"/>As soon shall fetch her in despite of thee.</S>
+
+<L n="886"/><TLN n="1128"/><S><SP>William</SP> Ambassador, this answer I return thy king:
+<L n="887"/><TLN n="1129"/>He willeth my to send his daughter Blanch,
+<L n="888"/><TLN n="1130"/>Saying I conveyed her from the Danish court,
+<L n="889"/><TLN n="1131"/>That never yet did once as think thereof.
+<L n="890"/><TLN n="1132"/>As for his menacing and daunting threats,
+<L n="891"/><TLN n="1133"/>I nil regard him nor his Danish power;
+<L n="892"/><TLN n="1134"/>For if he come to fetch her forth my realm,
+<L n="893"/><TLN n="1135"/>I will provide him such a banquet here
+<L n="894"/><TLN n="1136"/>That he shall have small cause to give me thanks.</S>
+
+<L n="895"/><TLN n="1137"/><S><SP>Ambassador</SP> Is this your answer then?</S>
+
+<L n="896"/><TLN n="1138"/><S><SP>William</SP> It is, and so begone.</S>
+
+<L n="897"/><TLN n="1139"/><S><SP>Ambassador</SP> I go, but to your cost.</S>
+
+<SD t="exit">Exit Ambassador.</SD>
+
+<L n="898"/><TLN n="1140"/><S><SP>William</SP> Demarch, 
+<L n="899"/>Our subjects erst levied in civil broils
+<L n="900"/><TLN n="1141"/>Muster forthwith for to defend the realm.
+<L n="901"/><TLN n="1142"/>In hope thereof that we shall find you true,
+<L n="902"/><TLN n="1143"/>We freely pardon this thy late offence.</S>
+
+<L n="903"/><TLN n="1144"/><S><SP>Demarch</SP> Most humble thanks I render to your grace.</S>
+</MODE>
+
+<SD t="exit">Exeunt [omnes].<!-- Henning misses this exit! --></SD>
+
+</SCENE>
+<SCENE n="16"><H2>[1.16]</H2>
+
+<SD t="entrance"><TLN n="1146"/>Enter the Miller, and Valingford.</SD>
+
+<MODE t="prose">
+<L n="904"/><TLN n="1147"/><S><SP>Miller</SP> Alas, gentleman, why should you trouble yourself so much, <TLN n="1148"/>considering the imperfections of my daughter, <TLN n="1149"/>which is able to withdraw the love of any man from her, <TLN n="1150"/>as already it hath done in her first choice? <TLN n="1151"/>Master Manvile hath forsaken her, <TLN n="1152"/>and at Chester shall be married to a man's daughter of no little wealth. <TLN n="1153"/>But if my daughter knew so much, <TLN n="1154"/>it would go very near her heart, I fear me.</S>
+
+<L n="905"/><TLN n="1155"/><S><SP>Valingford</SP> Father miller, such is my<!-- Q1/Q2 "the" --> entire affection to your daughter <TLN n="1156"/>as no misfortune whatsoever can alter. <TLN n="1157"/>My fellow Mountney, thou seest gave quickly over, <TLN n="1158"/>but I, by reason of my good meaning, <TLN n="1159"/>am not so soon to be changed, <TLN n="1160"/>although I am borne off with scorns and denial.</S>
+
+<SD t="entrance"><TLN n="1161"/>Enter Em to them.</SD>
+
+<L n="906"/><TLN n="1162"/><S><SP>Miller</SP> Trust me, sir, I know not what to say. <TLN n="1163"/>My daughter is not to be compelled by me, <TLN n="1164"/>but here she comes herself. Speak to her and spare not, <TLN n="1165"/>for I never was troubled with love matters so much before.</S>
+
+<L n="907"/><TLN n="1166"/><S><SP>Em</SP> <SD t="whoto">[Aside]</SD> Good lord, shall I never be rid of this importunate man? <TLN n="1167"/>Not must I dissemble blindness again. <TLN n="1168"/>Once more for thy sake, Manvile, thus am I enforced, <TLN n="1169"/>because I shall complete my full-resolved mind to thee. <TLN n="1170"/>Father, where are you?</S>
+
+<L n="908"/><TLN n="1171"/><S><SP>Miller</SP> Here, sweet Em. Answer this gentelman <TLN n="1172"/>that would so fain enjoy thy love.</S>
+
+<L n="909"/><TLN n="1173"/><S><SP>Em</SP> Where are you, sir? Will you never leave <TLN n="1174"/>this idle and vain pursuit of love? <TLN n="1175"/>Is not England stored enough to content you, <TLN n="1176"/>but you must still trouble the poor <TLN n="1177"/>contemptible maid of Manchester?</S>
+
+<L n="910"/><TLN n="1178"/><S><SP>Valingford</SP> None can content me but the fair maid of Manchester.</S>
+
+<L n="911"/><TLN n="1179"/><S><SP>Em</SP> I perceive love is vainly described, <TLN n="1180"/>that, being blind himself, <TLN n="1181"/>would have you likewise troubled with a blind wife, <TLN n="1182"/>having the benefit of your eyes. <TLN n="1183"/>But neither follow him so much in folly, <TLN n="1184"/>but love one in whom you may better delight.</S>
+
+<L n="912"/><TLN n="1185"/><S><SP>Valingford</SP> Father miller, thy daughter shall have honor <TLN n="1186"/>by granting me her love. <TLN n="1187"/>I am a gentleman of King William's court, <TLN n="1188"/>and no mean man in King William's favor.</S>
+
+<L n="913"/><TLN n="1189"/><S><SP>Em</SP> If you be a lord, sir, as you say, <TLN n="1190"/>you offer both yourself and me great wrong: <TLN n="1191"/>yours, as apparent in limiting your love so unorderly, <TLN n="1192"/>for which you rashly endure reproachment; <TLN n="1193"/>mine, as open and evident, <TLN n="1194"/>when being shut from the vanities of the world, <TLN n="1195"/>you would have me as an open gazing-stock to all the world. <TLN n="1196"/>For lust, not love, leads you into this error. <TLN n="1197"/>But from the one I will keep me as well as I can, <TLN n="1198"/>and yield the other to none but my father, <TLN n="1199"/>as I am bound by duty.</S>
+
+<L n="914"/><TLN n="1200"/><S><SP>Valingford</SP> Why, fair Em, Manvile hath forsaken thee, <TLN n="1201"/>and must at Chester be married, which, <TLN n="1202"/>if I speak otherwise than true, <TLN n="1203"/>let thy father speak what credibly he hath heard.</S>
+
+<L n="915"/><TLN n="1204"/><S><SP>Em</SP> <SD t="whoto">[Aside]</SD><!-- because she's not revealed her dissembling yet --> But can it be Manvile will deal so unkindly <TLN n="1205"/>to reward my justice with such monstrous ungentleness? <TLN n="1206"/> Have I dissembled for thy sake, <TLN n="1207"/>and dost thou now thus requite it? -- <TLN n="1208"/>Indeed, these many days I have not seen him, <TLN n="1209"/>which hath made me marvel at his long absence. <TLN n="1210"/>But, father, are you assured if<!-- Q1/Q2 "of" --> the words he spake <TLN n="1211"/>were concerning Manvile?</S>
+
+<L n="916"/><TLN n="1212"/><S><SP>Miller</SP> In sooth, daughter, now it is forth <TLN n="1213"/>I must needs confirm it. <TLN n="1214"/>Master Manvile hath forsaken thee <TLN n="1215"/>and at Chester must be married <TLN n="1216"/>to a man's daughter of no little wealth. <TLN n="1217"/>His own father procures it, <TLN n="1218"/>and therefore I dare credit it; <TLN n="1219"/>and do thou believe it, <TLN n="1220"/>for trust me, daughter, it is so.</S>
+
+<L n="917"/><TLN n="1221"/><S><SP>Em</SP> Then, good father, pardon the injury <TLN n="1222"/>that I have done to you, only causing your grief, <TLN n="1223"/>by over-fond affecting a man so trothless. <TLN n="1224"/>And you likewise, sir, I pray hold me excused, <TLN n="1225"/>as I hope this cause will allow sufficiently for me. <TLN n="1226"/>My love to Manvile, thinking he would requite it, <TLN n="1227"/>hath made me double with my father and you, <TLN n="1228"/>and many more besides, <TLN n="1229"/>which I will no longer hide from you. <TLN n="1230"/>That enticing speeches should not beguile me, <TLN n="1231"/>I have made myself deaf to any but to him. <TLN n="1232"/>And lest any man's person should please me more than his, <TLN n="1233"/>I have dissembled the want of my sight, <TLN n="1234"/>both which shadows of my irrevocable affections <TLN n="1235"/>I have not spared to confirm before him, <TLN n="1236"/>my father, and all other amorous solicitors. <TLN n="1237"/>Wherewith not made acquainted, I perceive <TLN n="1238"/>my true intent hath wrought mine own sorrow, <TLN n="1239"/>and seeking by love to be regarded, <TLN n="1240"/>am cut off with contempt and despised.</S>
+
+<L n="918"/><TLN n="1241"/><S><SP>Miller</SP> Tell me, sweet Em, hast thou but feigned all this while, for his love <TLN n="1242"/>that hath so discourteously forsaken thee?</S>
+
+<L n="919"/><TLN n="1243"/><S><SP>Em</SP> Credit me, father. I have told you the troth, <TLN n="1244"/>wherewith I desire you and Lord Valingford not to be displeased. <TLN n="1245"/>For ought else I shall say, <TLN n="1246"/>let my present grief hold me excused. <TLN n="1247"/>But may I live to see that ungrateful man <TLN n="1248"/>justly rewarded for his treachery, <TLN n="1249"/>poor Em would think herself not a little happy. <TLN n="1250"/>Favor my departing at this instant, <TLN n="1251"/>for my troubled thought desires to meditate alone in silence.</S>
+
+<SD t="exit"><TLN n="1252"/>Exit Em.</S>
+
+<L n="920"/><TLN n="1253"/><S><SP>Valingford</SP> Will not Em show one cheerful look on Valingford?</S>
+
+<L n="921"/><TLN n="1254"/><S><SP>Miller</SP> Alas, sir, blame her not. You see she hath good cause, <TLN n="1255"/>being so handled by this gentleman. <TLN n="1256"/>And so I'll leave you, and go comfort my poor wench <TLN n="1257"/>as well as I may. </S>
+
+<SD t="exit">Exit the Miller.</SD>
+
+<L n="922"/><TLN n="1258"/><S><SP>Valingford</SP> Farewell, good father.</S>
+</MODE>
+
+<SD t="exit">Exit Valingford.</SD>
+
+</SCENE>
+<SCENE n="17"><H2>[1.17]</H2>
+
+<SD t="entrance"><TLN n="1259"/>Enter Zweno, King of Denmark, with Rosilio <TLN n="1260"/>and other attendants.</SD>
+
+<MODE t="verse">
+<L n="923"/><TLN n="1261"/><S><SP>Zweno</SP> Rosilio,
+<L n="924"/>Is this the place whereas the Duke William
+<L n="925"/><TLN n="1262"/>Should meet me?</S>
+
+<L n="926"/><TLN n="1263"/><S><SP>Rosilio</SP> It is, and like your grace.</S>
+
+<L n="927"/><TLN n="1264"/><S><SP>Zweno</SP> Go, captain, away. Regard the charge I gave:
+<L n="928"/><TLN n="1265"/>See all our men be marshalled for the fight,
+<L n="929"/><TLN n="1266"/>Dispose the wards as lately was devised, 
+<L n="930"/><TLN n="1267"/>And let the prisoners under several guards
+<L n="931"/><TLN n="1268"/>Be kept apart until you hear from us.
+<L n="932"/><TLN n="1269"/>Let this suffice, you know my resolution.
+<L n="933"/><TLN n="1270"/>If William, Duke of Saxon, be the man
+<L n="934"/><TLN n="1271"/>That by his answer sent us, he would send
+<L n="935"/><TLN n="1272"/>Not words but wounds; not parleys but alarms
+<L n="936"/><TLN n="1273"/>Must be decider of this controversy.
+<L n="937"/><TLN n="1274"/>Rosilio, stay with me, the rest begone.</S>
+
+<SD t="exit">Exeunt [all but Zweno and Rosilio.]</SD>
+
+<SD t="entrance"><TLN n="1275"/>Enter William, and Demarch, with other attendants.</SD>
+
+<L n="938"/><TLN n="1276"/><S><SP>William</SP> All but Demarch go shroud you out of sight,
+<L n="939"/><TLN n="1277"/>For I will go parley with the prince myself.</S>
+
+<SD t="exit">[Exit attendants.]</SD>
+
+<L n="940"/><TLN n="1278"/><S><SP>Demarch</SP> Should Zweno by this parley call you forth
+<L n="941"/><TLN n="1279"/>Upon intent injuriously to deal,
+<L n="942"/><TLN n="1280"/>This offereth too much opportunity.</S>
+
+<L n="943"/><TLN n="1281"/><S><SP>William</SP> No, no, Demarch,
+<L n="944"/>That were a breach <TLN n="1282"/>againist the law of arms. 
+<L n="945"/>Therefore, begone, <TLN n="1283"/>and leave us here alone. 
+
+<SD t="exit">Exit [Demarch.]</SD>
+
+<L n="946"/><TLN n="1284"/>I see that Zweno is master of his word.
+<L n="947"/><TLN n="1285"/><SD t="whoto">[To Zweno]</SD> Zweno, William of Saxony greeteth thee
+<L n="948"/><TLN n="1286"/>Either well or ill, according to thy intent.
+<L n="949"/><TLN n="1287"/>If well thou wish to him and Saxony,
+<L n="950"/><TLN n="1288"/>He bids thee friendly well as he can;
+<L n="951"/><TLN n="1289"/>If ill thou wish to him and Saxony,
+<L n="952"/><TLN n="1290"/>He must withstand thy malice as he may.</S>
+
+<L n="953"/><TLN n="1291"/><S><SP>Zweno</SP> William, 
+<L n="954"/>For other name and title give I none
+<L n="955"/><TLN n="1292"/>To him, who, were he worthy of those honors
+<L n="956"/><TLN n="1293"/>That fortune<!-- capital "F"? --> and his predecessors left,
+<L n="957"/><TLN n="1294"/>I ought by right and human<!-- humane? --> courtesy
+<L n="958"/><TLN n="1295"/>To grace his style with "Duke of Saxony".
+<L n="959"/><TLN n="1296"/>But, for I find a base degenerate mind,
+<L n="960"/><TLN n="1297"/>I frame my speech according to the man, 
+<L n="961"/><TLN n="1298"/>And not the state that he unworthy holds.</S>
+
+<L n="962"/><TLN n="1299"/><S><SP>William</SP> Herein, Zweno, dost thou abase thy state
+<L n="963"/><TLN n="1300"/>To break the peace which by our ancestors
+<L n="964"/><TLN n="1301"/>Hath heretofore been honorably kept.</S>
+
+<L n="965"/><TLN n="1302"/><S><SP>Zweno</SP> And should that peace forever have been kept,
+<L n="966"/><TLN n="1303"/>Had not thyself been author of the breach.
+<L n="967"/><TLN n="1304"/>Nor stands it with the honor of my state,
+<L n="968"/><TLN n="1305"/>Or nature of a father to his child,
+<L n="969"/><TLN n="1306"/>That I should so be robbed of my daughter
+<L n="970"/><TLN n="1307"/>And not, unto the utmost of my power,
+<L n="971"/><TLN n="1308"/>Revenge so intolerable an injury.</S>
+
+<L n="972"/><TLN n="1309"/><S><SP>William</SP> Is this the color of your quarrel, Zweno? 
+<L n="973"/><TLN n="1310"/>I well perceive the wisest men may err.
+<L n="974"/><TLN n="1311"/>And think you I conveyed away your daughter Blanch?
+
+<L n="975"/><TLN n="1312"/><S><SP>Zweno</SP> Art thou so impudent to deny thou didst,
+<L n="976"/><TLN n="1313"/>When that the proof thereof is manifest?</S>
+
+<L n="977"/><TLN n="1314"/><S><SP>William</SP> What proof is there?</S>
+
+<L n="978"/><TLN n="1315"/><S><SP>Zweno</SP> Thine own confession is sufficient proof.</S>
+
+<L n="979"/><TLN n="1316"/><S><SP>William</SP> Did I confess I stole your daughter Blanch?</S>
+
+<L n="980"/><TLN n="1317"/><S><SP>Zweno</SP> Thou didst confess thou hadst a lady hence.</S>
+
+<L n="981"/><TLN n="1318"/><S><SP>William</SP> I have and do.</S>
+
+<L n="982"/><TLN n="1319"/><S><SP>Zweno</SP> Why, that was Blanch, my daughter!</S>
+
+<L n="983"/><TLN n="1320"/><S><SP>William</SP> Nay, that was Mariana, 
+<L n="984"/><TLN n="1321"/>Who wrongfully thou detainest prisoner.</S>
+
+<L n="985"/><TLN n="1322"/><S><SP>Zweno</SP> Shameless! Persisting in thy ill, 
+<L n="986"/><TLN n="1323"/>Thou dost maintain a manifest untroth,
+<L n="987"/><TLN n="1324"/>As she shall justify unto thy teeth.
+<L n="988"/><TLN n="1325"/><SD t="whoto">[To Rosilio]</SD> Rosilio, fetch her and the Marquis hither.</S>
+
+<SD t="exit"><TLN n="1326"/>Exit Rosilio for Mariana [and Lubeck.]</SD>
+
+
+<L n="989"/><TLN n="1327"/><S><SP>William</SP> It cannot be I should be so deceived.</S>
+
+<L n="990"/><TLN n="1328"/><S><SP>Demarch</SP> I heart this night among the soldiers
+<L n="991"/><TLN n="1329"/>That in their watch they took a pensive lady,
+<L n="992"/><TLN n="1330"/>Who at the appointment of the Lord Dirot 
+<L n="993"/>Is yet in keeping. <TLN n="1331"/>What she is, I know not:
+<L n="994"/><TLN n="1332"/>Only thus much I overheard by chance.</S>
+
+<L n="995"/><TLN n="1333"/><S><SP>William</SP> And what of this?</S>
+
+<L n="996"/><TLN n="1334"/><S><SP>Demarch</SP> It may be Blanch, the King of Denmark's daughter.</S>
+
+<L n="997"/><TLN n="1335"/><S><SP>William</SP> It may be so, but on my life, it is not!
+<L n="998"/><TLN n="1336"/>Yet, Demarch, go and fetch her straight.</S>
+
+<SD t="exit">[Exit Demarch.]</SD>
+
+<SD t="entrance"><TLN n="1337"/>Enter Rosilio with the Marquis [Lubeck and Mariana.]</SD>
+
+<L n="999"/><TLN n="1338"/><S><SP>Rosilio</SP> Pleaseth your highness,
+<L n="1000"/>Here is the Marquis and Mariana.</S>
+
+<L n="1001"/><TLN n="1339"/><S><SP>Zweno</SP> See here, Duke William, your competitors
+<L n="1002"/><TLN n="1340"/>That were consenting to my daughter's 'scape. 
+<L n="1003"/><TLN n="1341"/>Let them resolve you of the truth herein,
+<L n="1004"/><TLN n="1342"/>And here I vow and solemnly protest
+<L n="1005"/><TLN n="1343"/>That in thy presence they shall lose their heads,
+<L n="1006"/><TLN n="1344"/>Unless I hear whereas my daughter is.</S>
+
+<L n="1007"/><TLN n="1345"/><S><SP>William</SP> Oh, Marquis Lubeck, how it grieveth me 
+<L n="1008"/><TLN n="1346"/>That for my sake thou shouldst endure these bonds.
+<L n="1009"/><TLN n="1347"/>Be judge, my soul, that feels the martyrdom.</S>
+
+<L n="1010"/><TLN n="1348"/><S><SP>Lubeck</SP> Duke William, you know it is for your cause
+<L n="1011"/><TLN n="1349"/>It pleaseth thus the king to misconceive of me,
+<L n="1012"/><TLN n="1350"/>And for his pleasure doth me injury.</S>
+
+<SD t="entrance"><TLN n="1351"/>Enter Demarch with the Lady Blanch.</S>
+
+<L n="1013"/><TLN n="1352"/><S><SP>Demarch</SP> May it please your highness,
+<L n="1014"/><TLN n="1353"/>Here is the lady you sent me for.</S>
+
+<L n="1015"/><TLN n="1354"/><S><SP>William</SP> Away, Demarch, what tellest thou me of ladies?
+<L n="1016"/><TLN n="1355"/>I so detest the dealing of their sex
+<L n="1017"/><TLN n="1356"/>As that I count a lover's state to be
+<L n="1018"/>The base <TLN n="1357"/>and vilest slavery in the world.</S>
+
+<L n="1019"/><TLN n="1358"/><S><SP>Demarch</SP> <SD t="whoto">[Aside]</SD> What humors are these? Here's a strange alteration.</S>
+
+<L n="1020"/><TLN n="1359"/><S><SP>Zweno</SP> See, Duke William, is this Blanch or no?
+<L n="1021"/><TLN n="1360"/>You know her if you see her, I am sure.</S>
+
+<L n="1022"/><TLN n="1361"/><S><SP>William</SP> Zweno, 
+<L n="1023"/>I was deceived, yea, utterly deceived;
+<L n="1024"/><TLN n="1362"/>Yet this is she: the same is Lady Blanch.
+<L n="1025"/><TLN n="1363"/>And for mine error, here I am content
+<L n="1026"/><TLN n="1364"/>To do whatsoever Zweno shall set down.
+<L n="1027"/><TLN n="1365"/>Ah, cruel Mariana, thus to use
+<L n="1028"/><TLN n="1366"/>The man which loved and honored thee with his heart.</S>
+
+<L n="1029"/><TLN n="1367"/><S><SP>Mariana</SP> When first I came into your highness' court, 
+<L n="1030"/><TLN n="1368"/>And William often importing me of love,
+<L n="1031"/><TLN n="1369"/>I did devise to ease the grief your daughter did sustain:
+<L n="1032"/><TLN n="1370"/>She should meet Sir William masked as I it were. 
+<L n="1033"/><TLN n="1371"/>This, put in proof, did take so good effect
+<L n="1034"/><TLN n="1372"/>As yet it seems his grace is not resolved
+<L n="1035"/><TLN n="1373"/>But it was I which he conveyed away.</S>
+
+<L n="1036"/><TLN n="1374"/><S><SP>William</SP> May this be true? It cannot be but true.
+<L n="1037"/><TLN n="1375"/>Was it Lady Blanch which I conveyed away?
+<L n="1038"/><TLN n="1376"/>Unconstant Mariana, <TLN n="1377"/>thus to deal
+<L n="1039"/>With him which meant to thee nought but faith.</S>
+
+<L n="1040"/><TLN n="1378"/><S><SP>Blanch</SP> <SD t="action">[Kneeling]</SD> Pardon, dear father, my follies that are past,
+<L n="1041"/><TLN n="1379"/>Wherein I have neglected my duty
+<L n="1042"/><TLN n="1380"/>Which I in reverence ought to show your grace.
+<L n="1043"/><TLN n="1381"/>For led by love I thus have gone astray,
+<L n="1044"/><TLN n="1382"/>And now repent the errors I was in.</S>
+
+<TLN n="1383"/><S><SP>Zweno</SP> <SD t="action">[Raising her]</SD> Stand up, dear daughter. Though thy fault deserves
+<L n="1045"/><TLN n="1384"/>For to be punished in the extremest sort,
+<L n="1046"/><TLN n="1385"/>Yet love that covers multitude of sins
+<L n="1047"/><TLN n="1386"/>Makes love in parents wink at children's faults.
+<L n="1048"/><TLN n="1387"/>Sufficeth, Blanch, thy father loves thee so.
+<L n="1049"/><TLN n="1388"/>Thy follies past he knows, but will not know.
+<L n="1050"/><TLN n="1389"/>And here, Duke William, take my daughter to thy wife,
+<L n="1051"/><TLN n="1390"/>For well I am assured she loves thee well.</S>
+
+<L n="1052"/><TLN n="1391"/><S><SP>William</SP> A proper conjuction:
+<L n="1053"/>As who would say, <TLN n="1392"/>lately come out of the fire,
+<L n="1054"/><TLN n="1393"/>I would go thrust myself into the flame. 
+<L n="1055"/><TLN n="1394"/>Let Mistress Nice go saint it where she list,
+<L n="1056"/><TLN n="1395"/>And coyly quaint it with dissembling face.
+<L n="1057"/><TLN n="1396"/>I hold in scorn the fooleries that they use.
+<L n="1058"/><TLN n="1397"/>I, being free, will never subject myself
+<L n="1059"/><TLN n="1398"/>To any such as she is underneath the sun.</S>
+
+<L n="1060"/><TLN n="1399"/><S><SP>Zweno</SP> Refusest thou to take my daughter to thy wife?
+<L n="1061"/><TLN n="1400"/>I tell thee, Duke, this rash denial 
+<L n="1062"/><TLN n="1401"/>May bring more mischief on thee than thou canst avoid.</S>
+
+<L n="1063"/><TLN n="1402"/><S><SP>William</SP> Conceit hath wrought such general dislike
+<L n="1064"/><TLN n="1403"/>Through the false dealing of Mariana 
+<L n="1065"/><TLN n="1404"/>That utterly I do abhor their sex.
+<L n="1066"/><TLN n="1405"/>They are all disloyal, unconstant; all unjust.
+<L n="1067"/><TLN n="1406"/>Who tries as I have tried, <TLN n="1407"/>and finds as I have found, 
+<L n="1068"/><TLN n="1408"/>Will say there's no such creatures on the ground.</S>
+
+<L n="1069"/><TLN n="1409"/><S><SP>Blanch</SP> Unconstant knight, though some deserve no trust,
+<L n="1070"/><TLN n="1410"/>There's others faithful, loving, loyal, and just.</S>
+
+<SD t="entrance"><TLN n="1411"/>Enter to them Valingford, with Em and the Miller, <TLN n="1412"/>and Mountney, and Manvile, and Elner.</SD>
+
+<L n="1071"/><TLN n="1413"/><S><SP>William</SP> How now, Lord Valingford, what makes these women here?</S>
+
+<L n="1072"/><TLN n="1414"/><S><SP>Valingford</SP> Here be two women, may it please your grace,
+<L n="1073"/><TLN n="1415"/>That are contracted to one man, <TLN n="1416"/>and are
+<L n="1074"/>In strife whether shall have him to their husband.</S>
+
+<L n="1075"/><TLN n="1417"/><S><SP>William</SP> Stand forth, women, and say
+<L n="1076"/><TLN n="1418"/>To whether of you did he first give his faith.</S>
+
+<L n="1077" part="i"/><TLN n="1419"/><S><SP>Em</SP> To me, forsooth.</S>
+
+<L n="1077" part="f"/><TLN n="1420"/><S><SP>Elner</SP> To me, my gracious lord.</S>
+
+<L n="1078"/><TLN n="1421"/><S><SP>William</SP> Speak, Manvile, to whether didst thou give thy faith?</S>
+
+<L n="1079"/><TLN n="1422"/><S><SP>Manvile</SP> To say the troth, this maid had first my love.</S>
+
+<L n="1080"/><TLN n="1423"/><S><SP>Elner</SP> Yea, Manvile, but there was no witness by.</S>
+
+<L n="1081"/><TLN n="1424"/><S><SP>Em</SP> Thy conscience, Manvile, a hundred witnesses.</S>
+
+<L n="1082"/><TLN n="1425"/><S><SP>Elner</SP> She hath stol'n a conscience to serve her own turn,
+<L n="1083"/><TLN n="1426"/>But you are deceived, i'faith, he will none of you.</S>
+
+<L n="1084"/><TLN n="1427"/><S><SP>Manvile</SP> Indeed, dread lord, so dear I held her love,
+<L n="1085"/><TLN n="1428"/>As in the same I put my whole delight,
+<L n="1086"/><TLN n="1429"/>But some impediments which at the instant happ'ned
+<L n="1087"/><TLN n="1430"/>Made me forsake her quite,
+<L n="1088"/><TLN n="1431"/>For which I had her father's frank consent.</S>
+
+<L n="1089"/><TLN n="1432"/><S><SP>William</SP> What were the impediments?</S>
+
+<L n="1090"/><TLN n="1433"/><S><SP>Manvile</SP> Why, she could neither hear nor see.</S>
+
+<L n="1091"/><TLN n="1434"/><S><SP>William</SP> Now she doth both. Maiden, how were you cured?</S>
+
+<L n="1092"/><TLN n="1435"/><S><SP>Em</SP> Pardon, my lord, I'll tell your grace the troth,
+<L n="1093"/><TLN n="1436"/>Be it not imputed to me as discredit.
+<L n="1094"/><TLN n="1437"/>I loved this Manvile so much that still my<!-- Q1/Q2 "me" --> thought 
+<L n="1095"/><TLN n="1438"/>When he was absent did present to me
+<L n="1096"/><TLN n="1439"/>The form and feature of that countenance 
+<L n="1097"/><TLN n="1440"/>Which I did shrine an idol in mine heart.
+<L n="1098"/><TLN n="1441"/>And never could I see a man, methought,
+<L n="1099"/><TLN n="1442"/>That equaled Manvile in my partial eye.
+<L n="1100"/><TLN n="1443"/>Nor was there any love between us lost,
+<L n="1101"/><TLN n="1444"/>But that I held the same in high regard.
+<L n="1102"/><TLN n="1445"/>Until repair of some unto our house, 
+<L n="1103"/><TLN n="1446"/>Of whom my Manvile grew thus jealous
+<L n="1104"/><TLN n="1447"/>As if he took exception I vouchsafed
+<L n="1105"/><TLN n="1448"/>To hear them speak, or saw them when they came.
+<L n="1106"/><TLN n="1449"/>On which I straight took order with myself
+<L n="1107"/><TLN n="1450"/>To void the scruple of his conscience
+<L n="1108"/><TLN n="1451"/>By counterfeiting that I neighter saw nor heard; 
+<L n="1109"/><TLN n="1452"/>Any ways to rid my hands of them.
+<L n="1110"/><TLN n="1453"/>All this I did to keep my Manvile's love, 
+<L n="1111"/><TLN n="1454"/>Which he unkindly seeks for to reward.</S>
+
+<L n="1112"/><TLN n="1455"/><S><SP>Manvile</SP> And did my Em, to keep her faith with me,
+<L n="1113"/><TLN n="1456"/>Dissemble that she neither heard nor saw?
+<L n="1114"/><TLN n="1457"/>Pardon me, sweet Em, for I am only thine.</S>
+
+<L n="1115"/><TLN n="1458"/><S><SP>Em</SP> Lay off thy hands, disloyal as thou art!
+<L n="1116"/><TLN n="1459"/>Nor shalt thou have possession of my love,
+<L n="1117"/><TLN n="1460"/>That canst so finely shift thy matters off.
+<L n="1118"/><TLN n="1461"/>Put case I had been blind and could not see, 
+<L n="1119"/><TLN n="1462"/>As oftentimes such visitations falls 
+<L n="1120"/><TLN n="1463"/>That pleaseth God which all things doth dispose: 
+<L n="1121"/><TLN n="1464"/>Shouldest thou forsake me in regard of that?
+<L n="1122"/><TLN n="1465"/>I tell thee, Manvile, hadst thou been blind, 
+<L n="1123"/><TLN n="1466"/>Or deaf, or dumb, 
+<L n="1124"/>Or else what impediments <TLN n="1467"/>might befall to man, 
+<L n="1125"/>Em would have loved, and kept, <TLN n="1468"/>and honored thee,
+<L n="1126"/>Yea, begged if wealth had failed <TLN n="1469"/>for thy relief.</S>
+
+<L n="1127"/><TLN n="1470"/><S><SP>Manvile</SP> Forgive me, sweet Em.</S>
+
+<L n="1128"/><TLN n="1471"/><S><SP>Em</SP> I do forgive thee with my heart, 
+<L n="1129"/><TLN n="1472"/>And will forget thee too, if case I can.
+<L n="1130"/><TLN n="1473"/>But never speak to me, nor seem to know me.</S>
+
+<L n="1131"/><TLN n="1474"/><S><SP>Manvile</SP> Then farewell, frost, <TLN n="1475"/>well fare a wench that will.
+<L n="1132"/><TLN n="1476"/>Now, Elner, I am thine own, my girl.</S>
+
+<L n="1133"/><TLN n="1477"/><S><SP>Elner</SP> Mine, Manvile? Thou never shalt be mine!
+<L n="1134"/><TLN n="1478"/>I so detest thy villany
+<L n="1135"/><TLN n="1479"/>That whilst I live I will abhor thy company.</S>
+
+<L n="1136"/><TLN n="1480"/><S><SP>Manvile</SP> Is it come to this? Of late I had choice of twain 
+<L n="1137"/><TLN n="1481"/>On either side to have me to her husband, 
+<L n="1138"/><TLN n="1482"/>And now am utterly rejected of them both.</S>
+
+<L n="1139"/><TLN n="1483"/><S><SP>Valingford</SP> <SD t="whoto">[To Mountney]</SD> My lord, 
+<L n="1140"/>This gentleman when time was <TLN n="1484"/>stood something
+<L n="1141"/>In our light, <TLN n="1485"/>and now I think it not amiss
+<L n="1142"/><TLN n="1486"/>To laugh at him that some time scorned at us.</S>
+
+<L n="1143"/><TLN n="1487"/><S><SP>Mountney</SP> Content, my lord, invent the form.</S>
+
+<L n="1144"/><TLN n="1488"/><S><SP>Valingford</SP> Then thus: --</S>
+
+<TLN n="1489"/><S><SP>William</SP> I see that women are not general evils.
+<L n="1145"/><TLN n="1490"/>Blanch is fair. Methinks I see in her
+<L n="1146"/><TLN n="1491"/>A modest countenance, a heavenly blush.
+<L n="1147"/><TLN n="1492"/>Zweno, receive a reconcil{`e}d foe,
+<L n="1148"/><TLN n="1493"/>Not as thy friend, but as thy son-in-law,
+<L n="1149"/><TLN n="1494"/>If so that thou be thus content.</S>
+
+<L n="1150"/><TLN n="1495"/><S><SP>Zweno</SP> I joy to see your grace so tractable. 
+<L n="1151"/><TLN n="1496"/>Here, take my daughter Blanch,
+<L n="1152"/><TLN n="1497"/>And after my decease, the Denmark crown.</S>
+
+<L n="1153"/><TLN n="1498"/><S><SP>William</SP> <SD t="whoto">[To Manvile]</SD> Now sir, how stands the case with you?</S>
+
+<L n="1154"/><TLN n="1499"/><S><SP>Manvile</SP> I partly am persuaded as you grace is,
+<L n="1155"/><TLN n="1500"/>My lord, he is best at ease that meddleth least.</S>
+
+<L n="1156"/><TLN n="1501"/><S><SP>Valingford</SP> Sir, may a man 
+<L n="1157"/>Be so bold <TLN n="1502"/>as to crave a word with you?</S>
+
+<L n="1158"/><TLN n="1503"/><S><SP>Manvile</SP> Yea, two or three. What are they?</S>
+
+<L n="1159"/><TLN n="1504"/><S><SP>Valingford</SP> I say, this maid will have thee to her husband.</S>
+
+<L n="1160"/><TLN n="1505"/><S><SP>Mountney</SP> And I say this: and thereof will I lay
+<L n="1161"/>An hundred pound.</S>
+
+<L n="1162"/><TLN n="1506"/><S><SP>Valingford</SP> And I say this: whereon I will lay as much.</S>
+
+<L n="1163"/><TLN n="1507"/><S><SP>Manvile</SP> And I say neither. What say you to that?</S>
+
+<L n="1164"/><TLN n="1508"/><S><SP>Mountney</SP> If that be true, then are we both deceived.</S>
+
+<L n="1165"/><TLN n="1509"/><S><SP>Manvile</SP> Why, it is true, and you are both deceived.</S>
+
+<L n="1166"/><TLN n="1510"/><S><SP>Lubeck</SP> In mine eyes, this is the prop'rest wench. 
+<L n="1167"/><TLN n="1511"/>Might I advise thee, take her unto thy wife.</S>
+
+<L n="1168"/><TLN n="1512"/><S><SP>Zweno</SP> It seems to me she hath refus{`e}d him.</S>
+
+<L n="1169"/><TLN n="1513"/><S><SP>Lubeck</SP> Why, there's the spite.</S>
+
+<L n="1170"/><TLN n="1514"/><S><SP>Zweno</SP> If one refuse him, yet may he have the other?</S><!-- is this a question? Henning doesn't think it is -->
+
+<L n="1171"/><TLN n="1515"/><S><SP>Lubeck</SP> He will ask but her good will, and all her friends.</S>
+
+<L n="1172"/><TLN n="1516"/><S><SP>Zweno</SP> Might I advise thee, let them both alone.</S>
+
+<L n="1173"/><TLN n="1517"/><S><SP>Manvile</SP> Yea, that's the course, and thereon will I stand.
+<L n="1174"/><TLN n="1518"/>Such idle love henceforth I will detest.</S>
+
+<L n="1175"/><TLN n="1519"/><S><SP>Valingford</SP> The fox will eat no grapes, and why?</S>
+
+<L n="1176"/><TLN n="1520"/><S><SP>Mountney</SP> I know full well, because they hang too high.</S>
+
+<L n="1177"/><TLN n="1521"/><S><SP>William</SP> And may it be a miller's daughter by her birth?
+<L n="1178"/><TLN n="1522"/>I cannot think but she is better born.</S>
+
+<L n="1179"/><TLN n="1523"/><S><SP>Valingford</SP> Sir Thomas Goddard high this reverend man.
+<L n="1180"/><TLN n="1524"/>Famed for his virtues and his good success,
+<L n="1181"/><TLN n="1525"/>Whose fame hath been renown{`e}d through the world.</S>
+
+<L n="1182"/><TLN n="1526"/><S><SP>William</SP> Sir Thomas Goddard, welcome to thy prince,
+<L n="1183"/><TLN n="1527"/>And fair Em, frolick with thy good father. 
+<L n="1184"/><TLN n="1528"/>As glad am I to find Sir Thomas Goddard 
+<L n="1185"/><TLN n="1529"/>As good Sir Edmund Trafford on the plains, 
+<L n="1186"/><TLN n="1530"/>He, like a shepherd, and thou our country miller.</S>
+
+<L n="1187"/><TLN n="1531"/><S><SP>Miller</SP> And longer let not Goddard live a day
+<L n="1188"/><TLN n="1532"/>Than he in honour loves his sovereign.</S>
+
+<L n="1189"/><TLN n="1533"/><S><SP>William</SP> But say, Sir Thomas, shall I give thy daughter?</S>
+
+<L n="1190"/><TLN n="1534"/><S><SP>Miller</SP> Goddard and all that he hath
+<L n="1191"/><TLN n="1535"/>Doth rest at the pleasure of your majesty.</S>
+
+<L n="1192"/><TLN n="1536"/><S><SP>William</SP> And what says Em to lovely Valingford?
+<L n="1193"/><TLN n="1537"/>It seemed he loved you well, <TLN n="1538"/>that for your sake
+<L n="1194"/>Durst leave his king.</S>
+
+<L n="1195"/><TLN n="1539"/><S><SP>Em</SP> Em rests at the pleasure of your highness,
+<L n="1196"/><TLN n="1540"/>And would I were a wife for his desert.</S>
+
+<L n="1197"/><TLN n="1541"/><S><SP>William</SP> Then here, Lord Valingford, <TLN n="1542"/>receiue fair Em.
+<L n="1198"/><TLN n="1543"/>Here take her, make her thy espous{`e}d wife. 
+<L n="1199"/><TLN n="1544"/>Then go we in, that preparation may be made
+<L n="1200"/><TLN n="1545"/>To see these nuptials solemnly performed.</S>
+</MODE>
+
+<SD t="exit"><TLN n="1546"/>Exeunt all.</SD>
+
+<SD t="sound">Sound drums and trumpets.</SD>
+
+</SCENE>
+</ACT>
+</WORK>
